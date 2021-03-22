@@ -8,21 +8,54 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-func main() {
-	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
-	fmt.Println(supportedLanguages)
+type Item struct {
+	Name        string
+	Description string
+	Path        string
+}
 
-	lang := os.Args[1]
+func main() {
+	arg := os.Args[1]
+	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
+	if arg == "all" {
+		fmt.Println("all")
+	} else {
+		items := getItems(arg)
+		checkLanguageSurpport(supportedLanguages, arg)
+		fmt.Println(items)
+	}
+}
+
+func checkLanguageSurpport(langs []string, lang string) {
+	is := false
+	for _, v := range langs {
+		if lang == v {
+			is = true
+		}
+	}
+	if is == false {
+		fmt.Println(lang + " language is not surpported\nsurpported languages:")
+		for _, v := range langs {
+			fmt.Println(v)
+		}
+		os.Exit(0)
+	}
+}
+
+func getItems(lang string) []Item {
 	baseUrl := "https://aws.amazon.com/"
 	fmt.Println(baseUrl, lang)
 	doc, err := goquery.NewDocument(baseUrl + lang)
 	checkError(err)
-
+	res := []Item{}
 	items := doc.Find(".lb-content-item")
 	items.Each(func(_ int, item *goquery.Selection) {
+		name := item.Find("span").Text()
+		description := item.Find("cite").Text()
 		path, _ := item.Find("a").Attr("href")
-		fmt.Println(path)
+		res = append(res, Item{Name: name, Description: description, Path: path})
 	})
+	return res
 }
 
 func checkError(err error) {
