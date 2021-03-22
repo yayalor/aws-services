@@ -26,22 +26,6 @@ func main() {
 	}
 }
 
-func checkLanguageSurpport(langs []string, lang string) {
-	is := false
-	for _, v := range langs {
-		if lang == v {
-			is = true
-		}
-	}
-	if is == false {
-		fmt.Println(lang + " language is not surpported\nsurpported languages:")
-		for _, v := range langs {
-			fmt.Println(v)
-		}
-		os.Exit(0)
-	}
-}
-
 func getItems(lang string) []Item {
 	baseUrl := "https://aws.amazon.com/"
 	fmt.Println(baseUrl, lang)
@@ -56,6 +40,22 @@ func getItems(lang string) []Item {
 		res = append(res, Item{Name: name, Description: description, Path: path})
 	})
 	return res
+}
+
+func checkLanguageSurpport(langs []string, lang string) {
+	is := false
+	for _, v := range langs {
+		if lang == v {
+			is = true
+		}
+	}
+	if is == false {
+		fmt.Println(lang + " language is not surpported\nsurpported languages:")
+		for _, v := range langs {
+			fmt.Println(v)
+		}
+		os.Exit(0)
+	}
 }
 
 func checkError(err error) {
