@@ -11,10 +11,10 @@ import (
 type Item struct {
 	Name        string
 	Description string
-	Path        string
 }
 
 func main() {
+	fmt.Println(os.Args[1:])
 	arg := os.Args[1]
 	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
 	if arg == "all" {
@@ -37,7 +37,9 @@ func getItems(lang string) []Item {
 		name := item.Find("span").Text()
 		description := item.Find("cite").Text()
 		path, _ := item.Find("a").Attr("href")
-		res = append(res, Item{Name: name, Description: description, Path: path})
+		path = baseUrl + path[1:]
+		name = "[" + name + "](" + path + ")"
+		res = append(res, Item{Name: name, Description: description})
 	})
 	return res
 }
