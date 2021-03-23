@@ -9,26 +9,23 @@ import (
 )
 
 type Item struct {
-	Name        string
+	Service     string
 	Description string
 }
 
 func main() {
-	fmt.Println(os.Args[1:])
-	arg := os.Args[1]
 	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
-	if arg == "all" {
-		fmt.Println("all")
-	} else {
+	if len(os.Args) > 1 {
+		arg := os.Args[1]
 		items := getItems(arg)
-		checkLanguageSurpport(supportedLanguages, arg)
-		fmt.Println(items)
+		checkLanguageSupport(supportedLanguages, arg)
+		output(items)
+	} else {
 	}
 }
 
 func getItems(lang string) []Item {
 	baseUrl := "https://aws.amazon.com/"
-	fmt.Println(baseUrl, lang)
 	doc, err := goquery.NewDocument(baseUrl + lang)
 	checkError(err)
 	res := []Item{}
@@ -39,12 +36,22 @@ func getItems(lang string) []Item {
 		path, _ := item.Find("a").Attr("href")
 		path = baseUrl + path[1:]
 		name = "[" + name + "](" + path + ")"
-		res = append(res, Item{Name: name, Description: description})
+		res = append(res, Item{Service: name, Description: description})
 	})
 	return res
 }
 
-func checkLanguageSurpport(langs []string, lang string) {
+func output(items []Item) {
+	header := "| service | description |\n| - | - |"
+	content := ""
+	for _, item := range items {
+		content = content + "| " + item.Service + " | " + item.Description + " |"
+	}
+	res := header + content
+	fmt.Println(res)
+}
+
+func checkLanguageSupport(langs []string, lang string) {
 	is := false
 	for _, v := range langs {
 		if lang == v {
@@ -52,7 +59,7 @@ func checkLanguageSurpport(langs []string, lang string) {
 		}
 	}
 	if is == false {
-		fmt.Println(lang + " language is not surpported\nsurpported languages:")
+		fmt.Println(lang + " language is not supported\nsupported languages:")
 		for _, v := range langs {
 			fmt.Println(v)
 		}
