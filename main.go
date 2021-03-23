@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io/ioutil"
 	"os"
 	"reflect"
 
@@ -42,13 +43,15 @@ func getItems(lang string) []Item {
 }
 
 func output(items []Item) {
-	header := "| service | description |\n| - | - |"
+	header := "| | |\n| - | - |\n"
 	content := ""
 	for _, item := range items {
-		content = content + "| " + item.Service + " | " + item.Description + " |"
+		content = content + "| " + item.Service + " | " + item.Description + " |\n"
 	}
 	res := header + content
 	fmt.Println(res)
+	err := ioutil.WriteFile("./README.md", []byte(res), 0644)
+	checkError(err)
 }
 
 func checkLanguageSupport(langs []string, lang string) {
