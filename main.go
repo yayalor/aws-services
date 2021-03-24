@@ -62,9 +62,10 @@ func output(items []Item, langs []string, lang string, isDef bool) {
 	if isDef {
 		err := ioutil.WriteFile("./README.md", []byte(res), 0644)
 		checkError(err)
+	} else {
+		err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
+		checkError(err)
 	}
-	err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
-	checkError(err)
 }
 
 func getNavs(langs []string, isDef bool) string {
@@ -76,8 +77,7 @@ func getNavs(langs []string, isDef bool) string {
 			res = res + "[[" + lang + "]](./README." + lang + ".md)·"
 		}
 	}
-	res = res + "\n"
-	return res
+	return res[:len(res) - 1] + "\n"
 }
 
 func checkLanguageSupport(langs []string, lang string) {
