@@ -23,6 +23,11 @@ func main() {
 		checkLanguageSupport(supportedLanguages, arg)
 		output(items, supportedLanguages, arg, arg == defaultLanguage)
 	} else {
+		for _, lang := range supportedLanguages {
+			items := getItems(lang)
+			checkLanguageSupport(supportedLanguages, lang)
+			output(items, supportedLanguages, lang, lang == defaultLanguage)
+		}
 	}
 }
 
