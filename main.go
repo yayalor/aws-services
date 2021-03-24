@@ -15,12 +15,13 @@ type Item struct {
 }
 
 func main() {
+	defaultLanguage := "en"
 	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
 	if len(os.Args) > 1 {
 		arg := os.Args[1]
 		items := getItems(arg)
 		checkLanguageSupport(supportedLanguages, arg)
-		output(items)
+		output(items, supportedLanguages, arg, arg == defaultLanguage)
 	} else {
 	}
 }
@@ -42,16 +43,21 @@ func getItems(lang string) []Item {
 	return res
 }
 
-func output(items []Item) {
-	test_relpath := "[test github relpath](./go.mod)\n\n"
+func output(items []Item, langs []string, lang string, isDef bool) {
 	header := "| | |\n| - | - |\n"
 	content := ""
 	for _, item := range items {
 		content = content + "| " + item.Service + " | " + item.Description + " |\n"
 	}
-	res := test_relpath + header + content
-	fmt.Println(res)
-	err := ioutil.WriteFile("./README.md", []byte(res), 0644)
+	res := header + content
+	if _, err := os.Stat("./languages"); os.IsNotExist(err) {
+		os.Mkdir("./languages", 0755)
+	}
+	if isDef {
+		err := ioutil.WriteFile("./README.md", []byte(res), 0644)
+		checkError(err)
+	}
+	err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
 	checkError(err)
 }
 
