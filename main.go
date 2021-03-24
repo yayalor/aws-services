@@ -54,7 +54,8 @@ func output(items []Item, langs []string, lang string, isDef bool) {
 	for _, item := range items {
 		content = content + "| " + item.Service + " | " + item.Description + " |\n"
 	}
-	res := header + content
+	navs := getNavs(langs, isDef)
+	res := navs + header + content
 	if _, err := os.Stat("./languages"); os.IsNotExist(err) {
 		os.Mkdir("./languages", 0755)
 	}
@@ -64,6 +65,19 @@ func output(items []Item, langs []string, lang string, isDef bool) {
 	}
 	err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
 	checkError(err)
+}
+
+func getNavs(langs []string, isDef bool) string {
+	res := ""
+	for _, lang := range langs {
+		if isDef {
+			res = res + "[" + lang + "]('.languages/README." + lang + ".md')·"
+		} else {
+			res = res + "[" + lang + "]('./README." + lang + ".md')·"
+		}
+	}
+	res = res + "\n"
+	return res
 }
 
 func checkLanguageSupport(langs []string, lang string) {
