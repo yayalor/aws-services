@@ -71,9 +71,9 @@ func getNavs(langs []string, isDef bool) string {
 	res := ""
 	for _, lang := range langs {
 		if isDef {
-			res = res + "[" + lang + "]('.languages/README." + lang + ".md')·"
+			res = res + "[[" + lang + "]](./languages/README." + lang + ".md)·"
 		} else {
-			res = res + "[" + lang + "]('./README." + lang + ".md')·"
+			res = res + "[[" + lang + "]](./README." + lang + ".md)·"
 		}
 	}
 	res = res + "\n"
