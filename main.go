@@ -43,12 +43,13 @@ func getItems(lang string) []Item {
 }
 
 func output(items []Item) {
+	test_relpath := "[test github relpath](./go.mod)\n\n"
 	header := "| | |\n| - | - |\n"
 	content := ""
 	for _, item := range items {
 		content = content + "| " + item.Service + " | " + item.Description + " |\n"
 	}
-	res := header + content
+	res := test_relpath + header + content
 	fmt.Println(res)
 	err := ioutil.WriteFile("./README.md", []byte(res), 0644)
 	checkError(err)

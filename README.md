@@ -1,3 +1,5 @@
+[test github relpath](./go.mod)
+
 | | |
 | - | - |
 | [Amazon EC2](https://aws.amazon.com/ec2/?hp=tile&so-exp=below&c=fs) | Virtual servers in the cloud |
