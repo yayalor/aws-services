@@ -49,23 +49,23 @@ func getItems(lang string) []Item {
 }
 
 func output(items []Item, langs []string, lang string, isDef bool) {
-	header := "| | |\n| - | - |\n"
+	header := "| Service | Description |\n| - | - |\n"
 	content := ""
 	for _, item := range items {
 		content = content + "| " + item.Service + " | " + item.Description + " |\n"
 	}
 	navs := getNavs(langs, isDef)
 	res := navs + header + content
+	fmt.Println(res)
 	if _, err := os.Stat("./languages"); os.IsNotExist(err) {
 		os.Mkdir("./languages", 0755)
 	}
 	if isDef {
 		err := ioutil.WriteFile("./README.md", []byte(res), 0644)
 		checkError(err)
-	} else {
-		err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
-		checkError(err)
 	}
+	err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644)
+	checkError(err)
 }
 
 func getNavs(langs []string, isDef bool) string {
