@@ -1,5 +1,5 @@
-[[ar]](./README.ar.md)·[[cn]](./README.cn.md)·[[de]](./README.de.md)·[[en]](./README.en.md)·[[es]](./README.es.md)·[[fr]](./README.fr.md)·[[id]](./README.id.md)·[[it]](./README.it.md)·[[jp]](./README.jp.md)·[[ko]](./README.ko.md)·[[pt]](./README.pt.md)·[[ru]](./README.ru.md)·[[th]](./README.th.md)·[[tr]](./README.tr.md)·[[tw]](./README.tw.md)·[[vi]](./README.vi.md)�
-| | |
+ | [ar](./README.ar.md) | [cn](./README.cn.md) | [de](./README.de.md) | [en](./README.en.md) | [es](./README.es.md) | [fr](./README.fr.md) | [id](./README.id.md) | [it](./README.it.md) | [jp](./README.jp.md) | [ko](./README.ko.md) | [pt](./README.pt.md) | [ru](./README.ru.md) | [th](./README.th.md) | [tr](./README.tr.md) | [tw](./README.tw.md) | [vi](./README.vi.md) |
+| Service | Description |
 | - | - |
 | [Amazon EC2](https://aws.amazon.com/jp/ec2/?hp=tile&so-exp=below&c=fs) | クラウド内の仮想サーバー |
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?hp=tile&so-exp=below&c=fs) | クラウド内のスケーラブルなストレージ |
