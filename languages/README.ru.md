@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/ru/ec2/?hp=tile&so-exp=below) | Виртуальные серверы в облаке |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ru/ec2/autoscaling/?hp=tile&so-exp=below) | Масштабирование вычислительных ресурсов в зависимости от нагрузки |
 | [Amazon Lightsail](https://aws.amazon.com/ru/lightsail/?hp=tile&so-exp=below) | Запуск частных виртуальных серверов и управление ими |
+| [AWS App Runner](https://aws.amazon.com/ru/apprunner/?hp=tile&so-exp=below) | Создание и запуск контейнерных веб-приложений в любом масштабе |
 | [AWS Batch](https://aws.amazon.com/ru/batch/?hp=tile&so-exp=below) | Запуск пакетных заданий в любом масштабе |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/ru/elasticbeanstalk/?hp=tile&so-exp=below) | Запуск интернет‑приложений и управление ими |
 | [AWS Lambda](https://aws.amazon.com/ru/lambda/?hp=tile&so-exp=below) | Запуск программного кода без забот о серверах |
@@ -61,7 +62,8 @@
 | [Amazon EKS Anywhere (скоро)](https://aws.amazon.com/ru/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes в вашей инфраструктуре |
 | [Amazon EKS Distro](https://aws.amazon.com/ru/eks/eks-distro/?hp=tile&so-exp=below) | Запускайте единые кластеры Kubernetes |
 | [AWS App2Container](https://aws.amazon.com/ru/app2container/?hp=tile&so-exp=below) | Размещение существующих приложений в контейнерах и их перенос |
-| [AWS Copilot](https://aws.amazon.com/ru/containers/copilot/?hp=tile&so-exp=below) | Легко развертывайте и эксплуатируйте контейнерные приложения |
+| [AWS App Runner](https://aws.amazon.com/ru/apprunner/?hp=tile&so-exp=below) | Создание и запуск контейнерных веб-приложений в любом масштабе |
+| [AWS Copilot](https://aws.amazon.com/ru/containers/copilot/?hp=tile&so-exp=below) | Простое развертывание и эксплуатация контейнерных приложений |
 | [AWS Fargate](https://aws.amazon.com/ru/fargate/?hp=tile&so-exp=below) | Бессерверные вычисления для контейнеров |
 | [Red Hat OpenShift на AWS](https://aws.amazon.com/ru/rosa/?hp=tile&so-exp=below) | Управляемые кластеры Red Hat OpenShift |
 | [Amazon Connect](https://aws.amazon.com/ru/connect/?hp=tile&so-exp=below) | Сервис облачного контакт‑центра |

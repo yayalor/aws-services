@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/ar/ec2/?hp=tile&so-exp=below) | الخوادم الافتراضية في السحابة |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ar/ec2/autoscaling/?hp=tile&so-exp=below) | طوّر سعة الحوسبة لتلبية المتطلبات |
 | [Amazon Lightsail](https://aws.amazon.com/ar/lightsail/?hp=tile&so-exp=below) | أطلق الخوادم الخاصة الافتراضية وأَدرّها |
+| [مشغل تطبيق AWS](https://aws.amazon.com/ar/apprunner/?hp=tile&so-exp=below) | إنشاء وتشغيل تطبيقات الويب المعتمدة على الحاويات على نطاق واسع |
 | [AWS Batch](https://aws.amazon.com/ar/batch/?hp=tile&so-exp=below) | شغّل مهام دُفعية من أي حجم |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/ar/elasticbeanstalk/?hp=tile&so-exp=below) | شغّل تطبيقات الويب وأَدرّها |
 | [AWS Lambda](https://aws.amazon.com/ar/lambda/?hp=tile&so-exp=below) | شغّل التعليمات البرمجية دون التفكير في الخوادم |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (تتوفر قريبًا)](https://aws.amazon.com/ar/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes على بنيتك الأساسية |
 | [Amazon EKS Distro](https://aws.amazon.com/ar/eks/eks-distro/?hp=tile&so-exp=below) | تشغيل مجموعات Kubernetes متسقة |
 | [AWS App2Container](https://aws.amazon.com/ar/app2container/?hp=tile&so-exp=below) | وضع التطبيقات الحالية في حاويات وترحيلها |
+| [مشغل تطبيق AWS](https://aws.amazon.com/ar/apprunner/?hp=tile&so-exp=below) | إنشاء وتشغيل تطبيقات الويب المعتمدة على الحاويات على نطاق واسع |
 | [AWS Copilot](https://aws.amazon.com/ar/containers/copilot/?hp=tile&so-exp=below) | نشر التطبيقات المعتمدة على الحاويات وتشغيلها |
 | [AWS Fargate](https://aws.amazon.com/ar/fargate/?hp=tile&so-exp=below) | حوسبة للحاويات بدون خادم |
 | [خدمة Red Hat OpenShift على AWS](https://aws.amazon.com/ar/rosa/?hp=tile&so-exp=below) | مجموعات Red Hat OpenShift المُدارة |

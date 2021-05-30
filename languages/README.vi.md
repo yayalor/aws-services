@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/vi/ec2/?hp=tile&so-exp=below) | Máy chủ ảo trên đám mây |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/vi/ec2/autoscaling/?hp=tile&so-exp=below) | Thay đổi quy mô năng lực điện toán nhằm đáp ứng nhu cầu |
 | [Amazon Lightsail](https://aws.amazon.com/vi/lightsail/?hp=tile&so-exp=below) | Chạy và quản lý máy chủ riêng ảo |
+| [AWS App Runner](https://aws.amazon.com/vi/apprunner/?hp=tile&so-exp=below) | Dựng và chạy ứng dụng web trong bộ chứa trên quy mô lớn |
 | [AWS Batch](https://aws.amazon.com/vi/batch/?hp=tile&so-exp=below) | Chạy tác vụ theo lô ở mọi quy mô |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/vi/elasticbeanstalk/?hp=tile&so-exp=below) | Chạy và quản lý ứng dụng web |
 | [AWS Lambda](https://aws.amazon.com/vi/lambda/?hp=tile&so-exp=below) | Chạy mã mà không cần quan tâm tới máy chủ |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (Sắp ra mắt)](https://aws.amazon.com/vi/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes trên cơ sở hạ tầng của bạn |
 | [Amazon EKS Distro](https://aws.amazon.com/vi/eks/eks-distro/?hp=tile&so-exp=below) | Chạy các cụm Kubernetes nhất quán |
 | [AWS App2Container](https://aws.amazon.com/vi/app2container/?hp=tile&so-exp=below) | Đưa vào bộ chứa và di chuyển các ứng dụng hiện có |
+| [AWS App Runner](https://aws.amazon.com/vi/apprunner/?hp=tile&so-exp=below) | Dựng và chạy ứng dụng web trong bộ chứa trên quy mô lớn |
 | [AWS Copilot](https://aws.amazon.com/vi/containers/copilot/?hp=tile&so-exp=below) | Dễ dàng triển khai và vận hành các ứng dụng trong bộ chứa |
 | [AWS Fargate](https://aws.amazon.com/vi/fargate/?hp=tile&so-exp=below) | Điện toán phi máy chủ dành cho bộ chứa |
 | [Dịch vụ Red Hat OpenShift trên AWS](https://aws.amazon.com/vi/rosa/?hp=tile&so-exp=below) | Cụm Red Hat OpenShift được quản lý |

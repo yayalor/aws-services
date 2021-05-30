@@ -32,7 +32,7 @@
 | [Amazon Simple Queue Service(SQS) ](https://aws.amazon.com/ko/sqs/?hp=tile&so-exp=below) | 관리형 메시지 대기열 |
 | [AWS AppSync](https://aws.amazon.com/ko/appsync/?hp=tile&so-exp=below) | 여러 원본의 적절한 데이터를 사용하여 대규모로 앱을 지원 |
 | [AWS Cost Explorer](https://aws.amazon.com/ko/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS 비용 및 사용량 분석 |
-| [AWS 예산](https://aws.amazon.com/ko/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 사용자 지정 비용 및 사용 예산을 설정 |
+| [AWS Budgets](https://aws.amazon.com/ko/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 사용자 지정 비용 및 사용 예산을 설정 |
 | [AWS 비용 및 사용 보고서](https://aws.amazon.com/ko/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 포괄적인 비용 및 사용량 정보에 액세스 |
 | [예약 인스턴스 보고](https://aws.amazon.com/ko/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 예약 인스턴스(RI) 심층 분석 |
 | [Savings Plans](https://aws.amazon.com/ko/savingsplans/?hp=tile&so-exp=below) | 유연한 요금으로 컴퓨팅 사용량에 따른 비용 72% 절감 |
@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/ko/ec2/?hp=tile&so-exp=below) | 클라우드의 가상 서버 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ko/ec2/autoscaling/?hp=tile&so-exp=below) | 수요에 맞춰 컴퓨팅 용량 조정 |
 | [Amazon Lightsail](https://aws.amazon.com/ko/lightsail/?hp=tile&so-exp=below) | 가상 프라이빗 서버 시작 및 관리 |
+| [AWS App Runner](https://aws.amazon.com/ko/apprunner/?hp=tile&so-exp=below) | 컨테이너식 웹 앱의 대규모 구축 및 실행 |
 | [AWS Batch](https://aws.amazon.com/ko/batch/?hp=tile&so-exp=below) | 규모와 상관없이 배치 작업 실행 |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/ko/elasticbeanstalk/?hp=tile&so-exp=below) | 웹 앱 실행 및 관리 |
 | [AWS Lambda](https://aws.amazon.com/ko/lambda/?hp=tile&so-exp=below) | 서버에 대한 걱정 없이 코드 실행 |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere(제공 예정)](https://aws.amazon.com/ko/eks/eks-anywhere/?hp=tile&so-exp=below) | 인프라의 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/ko/eks/eks-distro/?hp=tile&so-exp=below) | 일관된 Kubernetes 클러스터 실행 |
 | [AWS App2Container](https://aws.amazon.com/ko/app2container/?hp=tile&so-exp=below) | 기존 애플리케이션 컨테이너화 및 마이그레이션 |
+| [AWS App Runner](https://aws.amazon.com/ko/apprunner/?hp=tile&so-exp=below) | 컨테이너식 웹 앱의 대규모 구축 및 실행 |
 | [AWS Copilot](https://aws.amazon.com/ko/containers/copilot/?hp=tile&so-exp=below) | 컨테이너식 애플리케이션을 쉽게 배포 및 운영 |
 | [AWS Fargate](https://aws.amazon.com/ko/fargate/?hp=tile&so-exp=below) | 컨테이너에 적합한 서버리스 컴퓨팅 |
 | [Red Hat OpenShift Service on AWS](https://aws.amazon.com/ko/rosa/?hp=tile&so-exp=below) | 관리형 Red Hat OpenShift 클러스터 |
@@ -190,7 +192,7 @@
 | [AWS Elemental 어플라이언스 및 소프트웨어](https://aws.amazon.com/ko/elemental-appliances-software/?hp=tile&so-exp=below) | 온프레미스 미디어 솔루션 |
 | [AWS Migration Hub](https://aws.amazon.com/ko/migration-hub/?hp=tile&so-exp=below) | 한 곳에서 마이그레이션을 추적 |
 | [AWS Application Discovery Service](https://aws.amazon.com/ko/application-discovery/?hp=tile&so-exp=below) | 온프레미스 애플리케이션을 검색하여 마이그레이션 간소화 |
-| [AWS Application Migration Service(CloudEndure 마이그레이션)](https://aws.amazon.com/ko/application-migration-service/?hp=tile&so-exp=below) | 자동화된 리프트 및 시프트 마이그레이션 |
+| [AWS Application Migration Service(CloudEndure Migration)](https://aws.amazon.com/ko/application-migration-service/?hp=tile&so-exp=below) | 자동화된 리프트 및 시프트 마이그레이션 |
 | [AWS Database Migration Service](https://aws.amazon.com/ko/dms/?hp=tile&so-exp=below) | 최소한의 가동 중단으로 데이터베이스 마이그레이션 |
 | [AWS DataSync](https://aws.amazon.com/ko/datasync/?hp=tile&so-exp=below) | 간단하고 빠른 온라인 데이터 전송 |
 | [AWS Server Migration Service ](https://aws.amazon.com/ko/server-migration-service/?hp=tile&so-exp=below) | 온프레미스 서버를 AWS로 마이그레이션 |

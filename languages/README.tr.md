@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/tr/ec2/?hp=tile&so-exp=below) | Bulutta sanal sunucular |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/tr/ec2/autoscaling/?hp=tile&so-exp=below) | İşlem kapasitesini talebi karşılayacak şekilde ölçeklendirme |
 | [Amazon Lightsail](https://aws.amazon.com/tr/lightsail/?hp=tile&so-exp=below) | Sanal özel sunucuları başlatma ve yönetme |
-| [AWS Batch](https://aws.amazon.com/tr/batch/?hp=tile&so-exp=below) | Her ölçekte iş grubu çalıştırma |
+| [AWS App Runner](https://aws.amazon.com/tr/apprunner/?hp=tile&so-exp=below) | Ölçekli olarak container’a alınmış web uygulamaları oluşturun ve çalıştırın |
+| [AWS Batch](https://aws.amazon.com/tr/batch/?hp=tile&so-exp=below) | Her ölçekte toplu iş çalıştırma |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/tr/elasticbeanstalk/?hp=tile&so-exp=below) | Web uygulamaları çalıştırma ve yönetme |
 | [AWS Lambda](https://aws.amazon.com/tr/lambda/?hp=tile&so-exp=below) | Sunucuları düşünmek zorunda kalmadan kod çalıştırın |
 | [AWS Outposts](https://aws.amazon.com/tr/outposts/?hp=tile&so-exp=below) | Şirket içinde AWS altyapısını çalıştırın |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (Yakında)](https://aws.amazon.com/tr/eks/eks-anywhere/?hp=tile&so-exp=below) | Altyapınızda Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tr/eks/eks-distro/?hp=tile&so-exp=below) | Tutarlı Kubernetes kümeleri çalıştırın |
 | [AWS App2Container](https://aws.amazon.com/tr/app2container/?hp=tile&so-exp=below) | Mevcut uygulamaları container’lı hale getirin ve geçirin |
+| [AWS App Runner](https://aws.amazon.com/tr/apprunner/?hp=tile&so-exp=below) | Ölçekli olarak container’a alınmış web uygulamaları oluşturun ve çalıştırın |
 | [AWS Copilot](https://aws.amazon.com/tr/containers/copilot/?hp=tile&so-exp=below) | Kolayca container'lı uygulamalar dağıtın ve çalıştırın |
 | [AWS Fargate](https://aws.amazon.com/tr/fargate/?hp=tile&so-exp=below) | Container'lar için sunucusuz işlem |
 | [AWS’de Red Hat OpenShift Hizmeti](https://aws.amazon.com/tr/rosa/?hp=tile&so-exp=below) | Yönetilen Red Hat OpenShift kümeleri |

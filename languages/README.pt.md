@@ -32,7 +32,7 @@
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/pt/sqs/?hp=tile&so-exp=below) | Filas gerenciadas de mensagens |
 | [AWS AppSync](https://aws.amazon.com/pt/appsync/?hp=tile&so-exp=below) | Alimente aplicações com os dados certos de diversas origens e em grande escala |
 | [AWS Cost Explorer](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analise os custos e o uso da AWS |
-| [Orçamentos da AWS](https://aws.amazon.com/pt/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Defina orçamentos personalizados de custos e uso |
+| [AWS Budgets](https://aws.amazon.com/pt/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Defina orçamentos personalizados de custos e uso |
 | [Relatório de custos e uso da AWS](https://aws.amazon.com/pt/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Acesse informações abrangentes de custos e uso |
 | [Relatórios de instâncias reservadas](https://aws.amazon.com/pt/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Obtenha detalhes das suas instâncias reservadas (IRs) |
 | [Savings Plans](https://aws.amazon.com/pt/savingsplans/?hp=tile&so-exp=below) | Economize até 72% no uso de computação com a definição de preço flexível |
@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/pt/ec2/?hp=tile&so-exp=below) | Servidores virtuais na nuvem |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/pt/ec2/autoscaling/?hp=tile&so-exp=below) | Escale a capacidade computacional para atender à demanda |
 | [Amazon Lightsail](https://aws.amazon.com/pt/lightsail/?hp=tile&so-exp=below) | Execute e gerencie servidores privados virtuais |
+| [AWS App Runner](https://aws.amazon.com/pt/apprunner/?hp=tile&so-exp=below) | Crie e execute aplicações Web em contêiner em alta escala |
 | [AWS Batch](https://aws.amazon.com/pt/batch/?hp=tile&so-exp=below) | Execute trabalhos em lote em qualquer escala |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/pt/elasticbeanstalk/?hp=tile&so-exp=below) | Execute e gerencie aplicações Web |
 | [AWS Lambda](https://aws.amazon.com/pt/lambda/?hp=tile&so-exp=below) | Execute código sem se preocupar com servidores |
@@ -61,7 +62,8 @@
 | [Amazon EKS Anywhere (em breve)](https://aws.amazon.com/pt/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes diretamente na sua infraestrutura |
 | [Amazon EKS Distro](https://aws.amazon.com/pt/eks/eks-distro/?hp=tile&so-exp=below) | Execute clusters Kubernetes consistentes |
 | [AWS App2Container](https://aws.amazon.com/pt/app2container/?hp=tile&so-exp=below) | Criação de contêineres e migração de aplicações existentes |
-| [AWS Copilot](https://aws.amazon.com/pt/containers/copilot/?hp=tile&so-exp=below) | Implante e opere aplicativos em contêineres com facilidade |
+| [AWS App Runner](https://aws.amazon.com/pt/apprunner/?hp=tile&so-exp=below) | Crie e execute aplicações Web em contêiner em alta escala |
+| [AWS Copilot](https://aws.amazon.com/pt/containers/copilot/?hp=tile&so-exp=below) | Implante e opere aplicações em contêiner com facilidade |
 | [AWS Fargate](https://aws.amazon.com/pt/fargate/?hp=tile&so-exp=below) | Computação sem servidor para contêineres |
 | [Serviço Red Hat OpenShift na AWS](https://aws.amazon.com/pt/rosa/?hp=tile&so-exp=below) | Clusters Red Hat OpenShift gerenciados |
 | [Amazon Connect](https://aws.amazon.com/pt/connect/?hp=tile&so-exp=below) | Serviço de central de atendimento baseada na nuvem |

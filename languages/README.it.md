@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/it/ec2/?hp=tile&so-exp=below) | Server virtuali nel cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/it/ec2/autoscaling/?hp=tile&so-exp=below) | Capacità di elaborazione scalabile in base alla domanda |
 | [Amazon Lightsail](https://aws.amazon.com/it/lightsail/?hp=tile&so-exp=below) | Avvio e gestione di server privati virtuali |
-| [AWS Batch](https://aws.amazon.com/it/batch/?hp=tile&so-exp=below) | Esecuzione di attività in batch su qualsiasi scala |
+| [AWS App Runner](https://aws.amazon.com/it/apprunner/?hp=tile&so-exp=below) | Crea ed esegui app web in container su vasta scala |
+| [AWS Batch](https://aws.amazon.com/it/batch/?hp=tile&so-exp=below) | Esegui attività in batch a qualsiasi livello |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/it/elasticbeanstalk/?hp=tile&so-exp=below) | Esecuzione e gestione di applicazioni Web |
 | [AWS Lambda](https://aws.amazon.com/it/lambda/?hp=tile&so-exp=below) | Esegui codice senza pensare ai server |
 | [AWS Outposts](https://aws.amazon.com/it/outposts/?hp=tile&so-exp=below) | Esegui l’infrastruttura AWS in locale |
@@ -61,7 +62,8 @@
 | [Amazon EKS Anywhere (disponibile a breve)](https://aws.amazon.com/it/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes sulla tua infrastruttura |
 | [Amazon EKS Distro](https://aws.amazon.com/it/eks/eks-distro/?hp=tile&so-exp=below) | Esegui in modo uniforme cluster Kubernetes |
 | [AWS App2Container](https://aws.amazon.com/it/app2container/?hp=tile&so-exp=below) | Containerizza e migra le applicazioni esistenti |
-| [AWS Copilot](https://aws.amazon.com/it/containers/copilot/?hp=tile&so-exp=below) | Distribuisci e gestisci facilmente le applicazioni containerizzate |
+| [AWS App Runner](https://aws.amazon.com/it/apprunner/?hp=tile&so-exp=below) | Crea ed esegui app web in container su vasta scala |
+| [AWS Copilot](https://aws.amazon.com/it/containers/copilot/?hp=tile&so-exp=below) | Distribuisci e gestisci facilmente le applicazioni in container |
 | [AWS Fargate](https://aws.amazon.com/it/fargate/?hp=tile&so-exp=below) | Elaborazione serverless per container |
 | [Servizio Red Hat OpenShift su AWS](https://aws.amazon.com/it/rosa/?hp=tile&so-exp=below) | Cluster Red Hat OpenShift gestiti |
 | [Amazon Connect](https://aws.amazon.com/it/connect/?hp=tile&so-exp=below) | Servizio di contact center basato sul cloud |
@@ -77,7 +79,7 @@
 | [Amazon Neptune ](https://aws.amazon.com/it/neptune/?hp=tile&so-exp=below) | Servizio di database a grafo completamente gestito |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/it/qldb/?hp=tile&so-exp=below) | Database per libri mastri completamente gestito |
 | [Amazon RDS](https://aws.amazon.com/it/rds/?hp=tile&so-exp=below) | Servizio di database relazionale gestito per MySQL, PostgreSQL, Oracle, SQL Server e MariaDB |
-| [Amazon RDS in VMware](https://aws.amazon.com/it/rds/vmware/?hp=tile&so-exp=below) | Automatizza la gestione di database in locale |
+| [Amazon RDS on VMware](https://aws.amazon.com/it/rds/vmware/?hp=tile&so-exp=below) | Automatizza la gestione di database in locale |
 | [Amazon Redshift](https://aws.amazon.com/it/redshift/?hp=tile&so-exp=below) | Data warehousing rapido, semplice e a costi contenuti |
 | [Amazon Timestream](https://aws.amazon.com/it/timestream/?hp=tile&so-exp=below) | Database di serie temporali completamente gestito |
 | [AWS Database Migration Service](https://aws.amazon.com/it/dms/?hp=tile&so-exp=below) | Migrazione di database con tempi di inattività minimi |
@@ -206,7 +208,7 @@
 | [AWS Cloud Map](https://aws.amazon.com/it/cloud-map/?hp=tile&so-exp=below) | Rilevamento dei servizi per risorse cloud |
 | [AWS Direct Connect](https://aws.amazon.com/it/directconnect/?hp=tile&so-exp=below) | Connessione di rete dedicata a AWS |
 | [AWS Global Accelerator](https://aws.amazon.com/it/global-accelerator/?hp=tile&so-exp=below) | Aumenta la disponibilità e le prestazioni delle applicazioni |
-| [AWS Transit Gateway](https://aws.amazon.com/it/transit-gateway/?hp=tile&so-exp=below) | Ricalibra le connessioni di account e del cloud privato virtuale in modo semplice |
+| [AWS Transit Gateway](https://aws.amazon.com/it/transit-gateway/?hp=tile&so-exp=below) | Ricalibra le connessioni di account e del VPC in modo semplice |
 | [Elastic Load Balancing (ELB)](https://aws.amazon.com/it/elasticloadbalancing/?hp=tile&so-exp=below) | Distribuisci il traffico in entrata su più obiettivi |
 | [Amazon Braket](https://aws.amazon.com/it/braket/?hp=tile&so-exp=below) | Esplora e fai esperimenti con il calcolo quantistico |
 | [AWS RoboMaker](https://aws.amazon.com/it/robomaker/?hp=tile&so-exp=below) | Sviluppa, esegui test e distribuisci applicazioni di robotica |

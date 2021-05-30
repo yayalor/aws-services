@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/tw/ec2/?hp=tile&so-exp=below) | 雲端的虛擬伺服器 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/tw/ec2/autoscaling/?hp=tile&so-exp=below) | 擴展運算容量以滿足需求 |
 | [Amazon Lightsail](https://aws.amazon.com/tw/lightsail/?hp=tile&so-exp=below) | 啟動和管理虛擬私有伺服器 |
+| [AWS App Runner](https://aws.amazon.com/tw/apprunner/?hp=tile&so-exp=below) | 大規模建置和執行容器化 Web 應用程式 |
 | [AWS Batch](https://aws.amazon.com/tw/batch/?hp=tile&so-exp=below) | 執行任何規模的批次任務 |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/tw/elasticbeanstalk/?hp=tile&so-exp=below) | 執行和管理 Web 應用程式 |
 | [AWS Lambda](https://aws.amazon.com/tw/lambda/?hp=tile&so-exp=below) | 執行程式碼而無需考慮伺服器 |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (即將推出)](https://aws.amazon.com/tw/eks/eks-anywhere/?hp=tile&so-exp=below) | 在基礎設施中使用 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tw/eks/eks-distro/?hp=tile&so-exp=below) | 執行一致的 Kubernetes 叢集 |
 | [AWS App2Container](https://aws.amazon.com/tw/app2container/?hp=tile&so-exp=below) | 容器化並遷移現有的應用程式 |
+| [AWS App Runner](https://aws.amazon.com/tw/apprunner/?hp=tile&so-exp=below) | 大規模建置和執行容器化 Web 應用程式 |
 | [AWS Copilot](https://aws.amazon.com/tw/containers/copilot/?hp=tile&so-exp=below) | 輕鬆部署和操作容器化應用程式 |
 | [AWS Fargate](https://aws.amazon.com/tw/fargate/?hp=tile&so-exp=below) | 容器的無伺服器運算 |
 | [AWS 上的 Red Hat OpenShift 服務](https://aws.amazon.com/tw/rosa/?hp=tile&so-exp=below) | 受管 Red Hat OpenShift 叢集 |

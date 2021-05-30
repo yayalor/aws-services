@@ -46,6 +46,7 @@
 | [Amazon EC2](https://aws.amazon.com/de/ec2/?hp=tile&so-exp=below) | Virtuelle Server in der Cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/de/ec2/autoscaling/?hp=tile&so-exp=below) | Rechenkapazität skalieren, um Anforderungen zu erfüllen |
 | [Amazon Lightsail](https://aws.amazon.com/de/lightsail/?hp=tile&so-exp=below) | Virtual Private Server starten und verwalten |
+| [AWS App Runner](https://aws.amazon.com/de/apprunner/?hp=tile&so-exp=below) | Erstellen und Ausführen von containerisierten Webanwendungen im großen Maßstab |
 | [AWS Batch](https://aws.amazon.com/de/batch/?hp=tile&so-exp=below) | Ausführen von Batch-Jobs beliebiger Größe |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/de/elasticbeanstalk/?hp=tile&so-exp=below) | Web-Apps ausführen und verwalten |
 | [AWS Lambda](https://aws.amazon.com/de/lambda/?hp=tile&so-exp=below) | Code ausführen, ohne an Server zu denken |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (in Kürze verfügbar)](https://aws.amazon.com/de/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes in Ihrer Infrastruktur |
 | [Amazon EKS Distro](https://aws.amazon.com/de/eks/eks-distro/?hp=tile&so-exp=below) | Konsistente Kubernetes-Cluster ausführen |
 | [AWS App2Container](https://aws.amazon.com/de/app2container/?hp=tile&so-exp=below) | Vorhandene Anwendungen containerisieren und migrieren |
+| [AWS App Runner](https://aws.amazon.com/de/apprunner/?hp=tile&so-exp=below) | Erstellen und Ausführen von containerisierten Webanwendungen im großen Maßstab |
 | [AWS Copilot](https://aws.amazon.com/de/containers/copilot/?hp=tile&so-exp=below) | Einfacher Einsatz und Betrieb von containerisierten Anwendungen |
 | [AWS Fargate](https://aws.amazon.com/de/fargate/?hp=tile&so-exp=below) | Serverless-Datenverarbeitung für Container |
 | [Red Hat OpenShift Service auf AWS](https://aws.amazon.com/de/rosa/?hp=tile&so-exp=below) | Verwaltete Red Hat OpenShift-Cluster |

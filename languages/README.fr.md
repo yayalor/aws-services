@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/fr/ec2/?hp=tile&so-exp=below) | Serveurs virtuels dans le cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/fr/ec2/autoscaling/?hp=tile&so-exp=below) | Mettre à l'échelle la capacité de calcul pour répondre à la demande |
 | [Amazon Lightsail](https://aws.amazon.com/fr/lightsail/?hp=tile&so-exp=below) | Lancement et gestion de serveurs privés virtuels |
-| [AWS Batch](https://aws.amazon.com/fr/batch/?hp=tile&so-exp=below) | Exécution des tâches par lot à n'importe quelle échelle |
+| [AWS App Runner](https://aws.amazon.com/fr/apprunner/?hp=tile&so-exp=below) | Créer et exécuter des applications Web conteneurisées à grande échelle |
+| [AWS Batch](https://aws.amazon.com/fr/batch/?hp=tile&so-exp=below) | Exécuter des tâches par lot à n'importe quelle échelle |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/fr/elasticbeanstalk/?hp=tile&so-exp=below) | Exécutez et gérez des applications web |
 | [AWS Lambda](https://aws.amazon.com/fr/lambda/?hp=tile&so-exp=below) | Exécutez du code sans vous soucier des serveurs |
 | [AWS Outposts](https://aws.amazon.com/fr/outposts/?hp=tile&so-exp=below) | Exécutez l’infrastructure AWS sur site |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere (bientôt disponible)](https://aws.amazon.com/fr/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes sur votre infrastructure |
 | [Amazon EKS Distro](https://aws.amazon.com/fr/eks/eks-distro/?hp=tile&so-exp=below) | Exécuter des clusters Kubernetes cohérents |
 | [AWS App2Container](https://aws.amazon.com/fr/app2container/?hp=tile&so-exp=below) | Conteneuriser et migrer des applications existantes |
+| [AWS App Runner](https://aws.amazon.com/fr/apprunner/?hp=tile&so-exp=below) | Créer et exécuter des applications Web conteneurisées à grande échelle |
 | [AWS Copilot](https://aws.amazon.com/fr/containers/copilot/?hp=tile&so-exp=below) | Déployer et exploiter facilement des applications conteneurisées |
 | [AWS Fargate](https://aws.amazon.com/fr/fargate/?hp=tile&so-exp=below) | Calcul sans serveur pour conteneurs |
 | [Red Hat OpenShift Service sur AWS](https://aws.amazon.com/fr/rosa/?hp=tile&so-exp=below) | Clusters Red Hat OpenShift gérés |
@@ -77,7 +79,7 @@
 | [Amazon Neptune ](https://aws.amazon.com/fr/neptune/?hp=tile&so-exp=below) | Service de base de données graphique entièrement géré |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/fr/qldb/?hp=tile&so-exp=below) | Base de données de registres entièrement gérée |
 | [Amazon RDS](https://aws.amazon.com/fr/rds/?hp=tile&so-exp=below) | Service de base de données relationnelle géré pour MySQL, PostgreSQL, Oracle, SQL Server et MariaDB |
-| [Amazon RDS sur VMware](https://aws.amazon.com/fr/rds/vmware/?hp=tile&so-exp=below) | Automatisez la gestion de la base de données sur site |
+| [Amazon RDS on VMware](https://aws.amazon.com/fr/rds/vmware/?hp=tile&so-exp=below) | Automatisez la gestion de la base de données sur site |
 | [Amazon Redshift](https://aws.amazon.com/fr/redshift/?hp=tile&so-exp=below) | Entreposage de données rapide, simple et rentable |
 | [Amazon Timestream](https://aws.amazon.com/fr/timestream/?hp=tile&so-exp=below) | Base de données chronologiques entièrement gérée |
 | [AWS Database Migration Service](https://aws.amazon.com/fr/dms/?hp=tile&so-exp=below) | Migration de bases de données avec interruptions minimales |
@@ -143,7 +145,7 @@
 | [Amazon Textract](https://aws.amazon.com/fr/textract/?hp=tile&so-exp=below) | Extrayez du texte et des données de documents |
 | [Amazon Translate](https://aws.amazon.com/fr/translate/?hp=tile&so-exp=below) | Traduction linguistique fluide et naturelle |
 | [Amazon Transcribe](https://aws.amazon.com/fr/transcribe/?hp=tile&so-exp=below) | Reconnaissance vocale automatique |
-| [AMI AWS Deep Learning](https://aws.amazon.com/fr/machine-learning/amis/?hp=tile&so-exp=below) | Deep learning sur Amazon EC2 |
+| [AWS Deep Learning AMIs](https://aws.amazon.com/fr/machine-learning/amis/?hp=tile&so-exp=below) | Deep learning sur Amazon EC2 |
 | [AWS Deep Learning Containers](https://aws.amazon.com/fr/machine-learning/containers/?hp=tile&so-exp=below) | Images docker pour le deep learning |
 | [AWS DeepComposer](https://aws.amazon.com/fr/deepcomposer/?hp=tile&so-exp=below) | Clavier musical à technologie ML |
 | [AWS DeepLens](https://aws.amazon.com/fr/deeplens/?hp=tile&so-exp=below) | Caméra vidéo à technologie deep learning |

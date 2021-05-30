@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/cn/ec2/?hp=tile&so-exp=below) | 云端虚拟服务器 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/cn/ec2/autoscaling/?hp=tile&so-exp=below) | 扩展计算能力以满足需求 |
 | [Amazon Lightsail](https://aws.amazon.com/cn/lightsail/?hp=tile&so-exp=below) | 启动并管理虚拟专有服务器 |
-| [AWS Batch](https://aws.amazon.com/cn/batch/?hp=tile&so-exp=below) | 批量操作处理，规模不限 |
+| [AWS App Runner](https://aws.amazon.com/cn/apprunner/?hp=tile&so-exp=below) | 大规模构建和运行容器化 Web 应用程序 |
+| [AWS Batch](https://aws.amazon.com/cn/batch/?hp=tile&so-exp=below) | 运行任意规模的批处理作业 |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/cn/elasticbeanstalk/?hp=tile&so-exp=below) | 运行并管理 Web 应用 |
 | [AWS Lambda](https://aws.amazon.com/cn/lambda/?hp=tile&so-exp=below) | 无需考虑服务器即可运行代码 |
 | [AWS Outposts](https://aws.amazon.com/cn/outposts/?hp=tile&so-exp=below) | 运行本地 AWS 基础设施 |
@@ -61,6 +62,7 @@
 | [Amazon EKS Anywhere（即将推出）](https://aws.amazon.com/cn/eks/eks-anywhere/?hp=tile&so-exp=below) | 您基础设施上的 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/cn/eks/eks-distro/?hp=tile&so-exp=below) | 运行一致的 Kubernetes 集群 |
 | [AWS App2Container](https://aws.amazon.com/cn/app2container/?hp=tile&so-exp=below) | 将现有应用程序容器化并迁移现有应用程序 |
+| [AWS App Runner](https://aws.amazon.com/cn/apprunner/?hp=tile&so-exp=below) | 大规模构建和运行容器化 Web 应用程序 |
 | [AWS Copilot](https://aws.amazon.com/cn/containers/copilot/?hp=tile&so-exp=below) | 轻松部署和运行容器化应用程序 |
 | [AWS Fargate](https://aws.amazon.com/cn/fargate/?hp=tile&so-exp=below) | 适用于容器的无服务器计算 |
 | [AWS 上的 Red Hat OpenShift 服务](https://aws.amazon.com/cn/rosa/?hp=tile&so-exp=below) | 托管型 Red Hat OpenShift 集群 |
@@ -176,7 +178,7 @@
 | [AWS Service Catalog](https://aws.amazon.com/cn/servicecatalog/?hp=tile&so-exp=below) | 创建和使用标准化产品 |
 | [AWS Systems Manager](https://aws.amazon.com/cn/systems-manager/?hp=tile&so-exp=below) | 了解运行状况并采取相应措施 |
 | [AWS Trusted Advisor](https://aws.amazon.com/cn/trustedadvisor/?hp=tile&so-exp=below) | 优化性能和安全性 |
-| [AWS 架构完善的工具](https://aws.amazon.com/cn/well-architected-tool/?hp=tile&so-exp=below) | 检查并改进您的工作量 |
+| [AWS Well-Architected Tool](https://aws.amazon.com/cn/well-architected-tool/?hp=tile&so-exp=below) | 检查并改进您的工作量 |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/cn/elastictranscoder/?hp=tile&so-exp=below) | 易用的可扩展媒体转码服务 |
 | [Amazon Interactive Video Service](https://aws.amazon.com/cn/ivs/?hp=tile&so-exp=below) | 托管型直播视频解决方案 |
 | [Amazon Kinesis Video Streams](https://aws.amazon.com/cn/kinesis/video-streams/?hp=tile&so-exp=below) | 处理和分析视频串流 |

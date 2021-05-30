@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/th/ec2/?hp=tile&so-exp=below) | เซิร์ฟเวอร์เสมือนในระบบคลาวด์ |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/th/ec2/autoscaling/?hp=tile&so-exp=below) | ปรับขนาดขีดความสามารถในการคำนวณเพื่อตอบสนองความต้องการ |
 | [Amazon Lightsail](https://aws.amazon.com/th/lightsail/?hp=tile&so-exp=below) | เริ่มใช้และจัดการเซิร์ฟเวอร์เสมือนส่วนตัว |
-| [AWS Batch](https://aws.amazon.com/th/batch/?hp=tile&so-exp=below) | เรียกใช้งานชุดงานที่ระดับใดก็ได้ |
+| [AWS App Runner](https://aws.amazon.com/th/apprunner/?hp=tile&so-exp=below) | สร้างและเปิดใช้เว็บแอปในคอนเทนเนอร์ในทุกระดับขนาด |
+| [AWS Batch](https://aws.amazon.com/th/batch/?hp=tile&so-exp=below) | เรียกใช้ชุดงานที่ระดับใดก็ได้ |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/th/elasticbeanstalk/?hp=tile&so-exp=below) | เรียกใช้และจัดการเว็บแอปพลิเคชัน |
 | [AWS Lambda](https://aws.amazon.com/th/lambda/?hp=tile&so-exp=below) | เรียกใช้โค้ดโดยไม่ต้องคำนึงถึงเซิร์ฟเวอร์ |
 | [AWS Outposts](https://aws.amazon.com/th/outposts/?hp=tile&so-exp=below) | เรียกใช้โครงสร้างพื้นฐาน AWS ในองค์กร |
@@ -61,7 +62,8 @@
 | [Amazon EKS Anywhere (เร็วๆ นี้)](https://aws.amazon.com/th/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes บนโครงสร้างพื้นฐานของคุณ |
 | [Amazon EKS Distro](https://aws.amazon.com/th/eks/eks-distro/?hp=tile&so-exp=below) | เรียกใช้คลัสเตอร์ Kubernetes ที่สม่ำเสมอ |
 | [AWS App2Container](https://aws.amazon.com/th/app2container/?hp=tile&so-exp=below) | บรรจุและย้ายแอปพลิเคชันที่มีอยู่ |
-| [AWS Copilot](https://aws.amazon.com/th/containers/copilot/?hp=tile&so-exp=below) | ปรับใช้และดำเนินการจัดเก็บแอปพลิเคชันในคอนเทนเนอร์อย่างง่ายดาย |
+| [AWS App Runner](https://aws.amazon.com/th/apprunner/?hp=tile&so-exp=below) | สร้างและเปิดใช้เว็บแอปในคอนเทนเนอร์ในทุกระดับขนาด |
+| [AWS Copilot](https://aws.amazon.com/th/containers/copilot/?hp=tile&so-exp=below) | ปรับใช้และดำเนินการกับแอปพลิเคชันในคอนเทนเนอร์อย่างง่ายดาย |
 | [AWS Fargate](https://aws.amazon.com/th/fargate/?hp=tile&so-exp=below) | ประมวลผลแบบไร้เซิร์ฟเวอร์สำหรับคอนเทนเนอร์ |
 | [บริการ Red Hat OpenShift บน AWS](https://aws.amazon.com/th/rosa/?hp=tile&so-exp=below) | คลัสเตอร์ Red Hat OpenShift ที่มีการจัดการ |
 | [Amazon Connect](https://aws.amazon.com/th/connect/?hp=tile&so-exp=below) | บริการศูนย์ติดต่อบนระบบคลาวด์ |

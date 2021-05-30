@@ -46,7 +46,8 @@
 | [Amazon EC2](https://aws.amazon.com/id/ec2/?hp=tile&so-exp=below) | Server virtual di cloud |
 | [Auto Scaling Amazon EC2](https://aws.amazon.com/id/ec2/autoscaling/?hp=tile&so-exp=below) | Menskalakan kapasitas komputasi untuk memenuhi kebutuhan |
 | [Amazon Lightsail](https://aws.amazon.com/id/lightsail/?hp=tile&so-exp=below) | Meluncurkan dan mengelola server pribadi virtual |
-| [AWS Batch](https://aws.amazon.com/id/batch/?hp=tile&so-exp=below) | Menjalankan tugas batch di segala ukuran |
+| [AWS App Runner](https://aws.amazon.com/id/apprunner/?hp=tile&so-exp=below) | Buat dan jalankan aplikasi web terkontainer dalam skala besar |
+| [AWS Batch](https://aws.amazon.com/id/batch/?hp=tile&so-exp=below) | Jalankan tugas batch di segala ukuran |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/id/elasticbeanstalk/?hp=tile&so-exp=below) | Menjalankan dan mengelola aplikasi web |
 | [AWS Lambda](https://aws.amazon.com/id/lambda/?hp=tile&so-exp=below) | Menjalankan kode tanpa merisaukan tentang server |
 | [AWS Outposts](https://aws.amazon.com/id/outposts/?hp=tile&so-exp=below) | Jalankan infrastruktur AWS di lokasi |
@@ -61,7 +62,8 @@
 | [Amazon EKS Anywhere (Segera Hadir)](https://aws.amazon.com/id/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes di infrastruktur Anda |
 | [Amazon EKS Distro](https://aws.amazon.com/id/eks/eks-distro/?hp=tile&so-exp=below) | Jalankan kluster Kubernetes yang konsisten |
 | [AWS App2Container](https://aws.amazon.com/id/app2container/?hp=tile&so-exp=below) | Kemas dan migrasikan aplikasi yang ada |
-| [AWS Copilot](https://aws.amazon.com/id/containers/copilot/?hp=tile&so-exp=below) | Menerapkan dan mengoperasikan aplikasi terkontainer |
+| [AWS App Runner](https://aws.amazon.com/id/apprunner/?hp=tile&so-exp=below) | Buat dan jalankan aplikasi web terkontainer dalam skala besar |
+| [AWS Copilot](https://aws.amazon.com/id/containers/copilot/?hp=tile&so-exp=below) | Deploy dan operasikan aplikasi terkontainer dengan mudah |
 | [AWS Fargate](https://aws.amazon.com/id/fargate/?hp=tile&so-exp=below) | Komputasi tanpa server untuk kontainer |
 | [Layanan Red Hat OpenShift di AWS](https://aws.amazon.com/id/rosa/?hp=tile&so-exp=below) | Klaster Red Hat OpenShift terkelola |
 | [Amazon Connect](https://aws.amazon.com/id/connect/?hp=tile&so-exp=below) | Layanan contact center berbasis cloud |
