@@ -23,16 +23,17 @@ jobs:
       - name: Test
         run: go test ./...
 
-    build:
-      needs: setup
-      runs-on: ubuntu-20.04
-      steps:
-        - uses: actions/checkout@v2
-        - name: build
-          run: go build ./...
+  build:
+    needs: setup
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - name: build
+        run: go build ./...
 
-    run:
-      needs: build
-      runs-on: ubuntu-20.04
-      steps:
+  run:
+    needs: build
+    runs-on: ubuntu-20.04
+    steps:
+      - name: exec
         run: ./main
