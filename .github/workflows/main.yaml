@@ -1,4 +1,10 @@
-on: [push]
+on:
+  schedule:
+  - cron: "* * 1 * *"
+  push:
+    branches:
+      - master
+
 name: Run
 jobs:
   runs:
