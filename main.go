@@ -80,9 +80,7 @@ func getNav(isDefaultOutput bool) string {
 	for _, lang := range supportedLanguages {
 		isDefaultLanguage := lang == defaultLanguage
 		if isDefaultOutput {
-			if isDefaultLanguage {
-				res = ""
-			} else {
+			if !isDefaultLanguage {
 				res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
 			}
 		} else {
