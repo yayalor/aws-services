@@ -1,6 +1,6 @@
 on:
   schedule:
-  - cron: "* * 1 * *"
+    - cron: "* * 1 * *"
   push:
     branches:
       - master
@@ -30,3 +30,6 @@ jobs:
         run: go build ./...
       - name: exec
         run: ./main
+      - uses: stefanzweifel/git-auto-commit-action@v3.0.0
+        with:
+          commit_message: update by .github/workflows/main.yml
