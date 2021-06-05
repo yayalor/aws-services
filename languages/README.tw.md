@@ -32,7 +32,7 @@
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/tw/sqs/?hp=tile&so-exp=below) | 受管訊息佇列 |
 | [AWS AppSync](https://aws.amazon.com/tw/appsync/?hp=tile&so-exp=below) | 使用來自多種來源的正確資料，來大規模提升應用程式的能力 |
 | [AWS Cost Explorer](https://aws.amazon.com/tw/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | 分析您的 AWS 成本和用量 |
-| [AWS 預算](https://aws.amazon.com/tw/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 設定自訂的成本和用量預算 |
+| [AWS Budgets](https://aws.amazon.com/tw/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 設定自訂的成本和用量預算 |
 | [AWS 成本和用量報告](https://aws.amazon.com/tw/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 存取完整的成本和用量資訊 |
 | [預留執行個體報告](https://aws.amazon.com/tw/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 深入了解您的預留執行個體 (RI) |
 | [Savings Plans](https://aws.amazon.com/tw/savingsplans/?hp=tile&so-exp=below) | 使用彈性定價可節省高達 72% 的運算用量 |
@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/tw/vmware/?hp=tile&so-exp=below) | 建立混合雲端，無須自訂硬體 |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/tw/ecr/?hp=tile&so-exp=below) | 輕鬆存放、管理和部署容器映像 |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/tw/ecs/?hp=tile&so-exp=below) | 高度安全、可靠且可擴展的容器執行方式  |
-| [Amazon ECS Anywhere (即將推出)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | 在基礎設施中使用 ECS |
+| [Amazon ECS Anywhere](https://aws.amazon.com/tw/ecs/anywhere/?hp=tile&so-exp=below) | 在客戶受管基礎架構上執行容器 |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tw/eks/?hp=tile&so-exp=below) | 最值得信賴的 Kubernetes 執行方式 |
 | [Amazon EKS Anywhere (即將推出)](https://aws.amazon.com/tw/eks/eks-anywhere/?hp=tile&so-exp=below) | 在基礎設施中使用 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tw/eks/eks-distro/?hp=tile&so-exp=below) | 執行一致的 Kubernetes 叢集 |

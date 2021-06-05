@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/vi/vmware/?hp=tile&so-exp=below) | Xây dựng kiến trúc đám mây lai mà không cần phần cứng tùy chỉnh |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/vi/ecr/?hp=tile&so-exp=below) | Dễ dàng lưu trữ, quản lý và triển khai hình ảnh container |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/vi/ecs/?hp=tile&so-exp=below) | Dịch vụ có độ bảo mật cao, đáng tin cậy và quy mô linh hoạt để chạy các container  |
-| [Amazon ECS Anywhere (Sắp ra mắt)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS trên cơ sở hạ tầng của bạn |
+| [Amazon ECS Anywhere](https://aws.amazon.com/vi/ecs/anywhere/?hp=tile&so-exp=below) | Chạy bộ chứa trên cơ sở hạ tầng do khách hàng quản lý |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/vi/eks/?hp=tile&so-exp=below) | Giải pháp đáng tin cậy nhất để chạy Kubernetes |
 | [Amazon EKS Anywhere (Sắp ra mắt)](https://aws.amazon.com/vi/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes trên cơ sở hạ tầng của bạn |
 | [Amazon EKS Distro](https://aws.amazon.com/vi/eks/eks-distro/?hp=tile&so-exp=below) | Chạy các cụm Kubernetes nhất quán |

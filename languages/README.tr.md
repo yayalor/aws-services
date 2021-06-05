@@ -57,8 +57,8 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/tr/vmware/?hp=tile&so-exp=below) | Özel donanım olmadan hibrit bulut oluşturun |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/tr/ecr/?hp=tile&so-exp=below) | Container görüntülerinizi kolayca depolayın, yönetin ve dağıtın |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/tr/ecs/?hp=tile&so-exp=below) | Container'ları çalıştırmak için son derece güvenli, güvenilir ve ölçeklenebilir bir yöntem  |
-| [Amazon ECS Anywhere (Yakında)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | Altyapınızda ECS |
-| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tr/eks/?hp=tile&so-exp=below) | Kubernetes’i çalıştırmanın en güvenilir yolu |
+| [Amazon ECS Anywhere](https://aws.amazon.com/tr/ecs/anywhere/?hp=tile&so-exp=below) | Container'ları müşteri tarafından yönetilen altyapıda çalıştırın |
+| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tr/eks/?hp=tile&so-exp=below) | Kubernetes'i çalıştırmanın en güvenilir yolu |
 | [Amazon EKS Anywhere (Yakında)](https://aws.amazon.com/tr/eks/eks-anywhere/?hp=tile&so-exp=below) | Altyapınızda Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tr/eks/eks-distro/?hp=tile&so-exp=below) | Tutarlı Kubernetes kümeleri çalıştırın |
 | [AWS App2Container](https://aws.amazon.com/tr/app2container/?hp=tile&so-exp=below) | Mevcut uygulamaları container’lı hale getirin ve geçirin |

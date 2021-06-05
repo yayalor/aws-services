@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/ko/vmware/?hp=tile&so-exp=below) | 사용자 지정 하드웨어 없이 하이브리드 클라우드 구축 |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/ko/ecr/?hp=tile&so-exp=below) | 컨테이너 이미지를 손쉽게 저장, 관리 및 배포 |
 | [Amazon Elastic Container Service(ECS)](https://aws.amazon.com/ko/ecs/?hp=tile&so-exp=below) | 컨테이너를 실행하는 고도로 안전하고, 안정적이며, 확장 가능한 방법  |
-| [Amazon ECS Anywhere(제공 예정)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | 인프라의 ECS |
+| [Amazon ECS Anywhere](https://aws.amazon.com/ko/ecs/anywhere/?hp=tile&so-exp=below) | 고객 관리형 인프라에서 컨테이너 실행 |
 | [Amazon Elastic Kubernetes Service(EKS)](https://aws.amazon.com/ko/eks/?hp=tile&so-exp=below) | Kubernetes를 실행하는 가장 신뢰성 높은 방법 |
 | [Amazon EKS Anywhere(제공 예정)](https://aws.amazon.com/ko/eks/eks-anywhere/?hp=tile&so-exp=below) | 인프라의 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/ko/eks/eks-distro/?hp=tile&so-exp=below) | 일관된 Kubernetes 클러스터 실행 |

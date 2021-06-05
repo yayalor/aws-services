@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/ru/vmware/?hp=tile&so-exp=below) | Создание гибридного облака без специального оборудования |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/ru/ecr/?hp=tile&so-exp=below) | Простое хранение и развертывание образов контейнеров, а также управление ими |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ru/ecs/?hp=tile&so-exp=below) | Безопасное, надежное и масштабируемое средство использования контейнеров  |
-| [Amazon ECS Anywhere (скоро)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS в вашей инфраструктуре |
+| [Amazon ECS Anywhere](https://aws.amazon.com/ru/ecs/anywhere/?hp=tile&so-exp=below) | Запуск контейнеров в управляемой пользователем инфраструктуре |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ru/eks/?hp=tile&so-exp=below) | Самый надежный способ выполнять Kubernetes |
 | [Amazon EKS Anywhere (скоро)](https://aws.amazon.com/ru/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes в вашей инфраструктуре |
 | [Amazon EKS Distro](https://aws.amazon.com/ru/eks/eks-distro/?hp=tile&so-exp=below) | Запускайте единые кластеры Kubernetes |

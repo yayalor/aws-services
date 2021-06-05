@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/cn/vmware/?hp=tile&so-exp=below) | 无需自定义硬件即可构建混合云 |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/cn/ecr/?hp=tile&so-exp=below) | 轻松存储、管理和部署容器映像 |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/cn/ecs/?hp=tile&so-exp=below) | 高度安全、可靠且可扩展的容器运行方式  |
-| [Amazon ECS Anywhere（即将推出）](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | 您基础设施上的 ECS |
+| [Amazon ECS Anywhere](https://aws.amazon.com/cn/ecs/anywhere/?hp=tile&so-exp=below) | 在客户托管的基础设施中运行容器 |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/cn/eks/?hp=tile&so-exp=below) | 最值得信赖的运行 Kubernetes 的方式 |
 | [Amazon EKS Anywhere（即将推出）](https://aws.amazon.com/cn/eks/eks-anywhere/?hp=tile&so-exp=below) | 您基础设施上的 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/cn/eks/eks-distro/?hp=tile&so-exp=below) | 运行一致的 Kubernetes 集群 |

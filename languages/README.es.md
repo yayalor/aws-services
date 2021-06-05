@@ -29,7 +29,7 @@
 | [Flujos de trabajo administrados de Amazon para Apache Airflow](https://aws.amazon.com/es/managed-workflows-for-apache-airflow/?hp=tile&so-exp=below) | Organización de flujos de trabajo administrada, segura y de alta disponibilidad |
 | [Amazon MQ](https://aws.amazon.com/es/amazon-mq/?hp=tile&so-exp=below) | Servicio de agente de mensajes administrados |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/es/sns/?hp=tile&so-exp=below) | Notificaciones push móviles, correo electrónico, SMS y mensajería de publicación/suscripción |
-| [Amazon Simple Queue Service (Amazon SQS) ](https://aws.amazon.com/es/sqs/?hp=tile&so-exp=below) | Colas de mensajes administradas |
+| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/es/sqs/?hp=tile&so-exp=below) | Colas de mensajes administradas |
 | [AWS AppSync](https://aws.amazon.com/es/appsync/?hp=tile&so-exp=below) | Utilice los datos adecuados de múltiples orígenes para impulsar sus aplicaciones a escala |
 | [AWS Cost Explorer](https://aws.amazon.com/es/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analice el uso y el costo de AWS |
 | [AWS Budgets](https://aws.amazon.com/es/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Defina presupuestos personalizados del uso y el costo |
@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/es/vmware/?hp=tile&so-exp=below) | Cree una nube híbrida sin hardware personalizado |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/es/ecr/?hp=tile&so-exp=below) | Almacene, administre e implemente de forma sencilla imágenes de contenedores |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/es/ecs/?hp=tile&so-exp=below) | Una manera muy segura, confiable y escalable de ejecutar contenedores  |
-| [Amazon ECS Anywhere (Próximamente)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS en su infraestructura. |
+| [Amazon ECS Anywhere](https://aws.amazon.com/es/ecs/anywhere/?hp=tile&so-exp=below) | Ejecute contenedores en infraestructura administrada por el cliente |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/es/eks/?hp=tile&so-exp=below) | El modo más confiable de ejecutar Kubernetes |
 | [Amazon EKS Anywhere (Próximamente)](https://aws.amazon.com/es/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes en su infraestructura. |
 | [Amazon EKS Distro](https://aws.amazon.com/es/eks/eks-distro/?hp=tile&so-exp=below) | Ejecute clústeres de Kubernetes de manera uniforme |
@@ -238,7 +238,7 @@
 | [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/?hp=tile&so-exp=below) | Base de datos NoSQL administrada |
 | [Amazon EventBridge](https://aws.amazon.com/es/eventbridge/?hp=tile&so-exp=below) | Bus de eventos sin servidor para aplicaciones de SaaS y servicios de AWS |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/es/sns/?hp=tile&so-exp=below) | Notificaciones push móviles, correo electrónico, SMS y mensajería de publicación/suscripción |
-| [Amazon Simple Queue Service (Amazon SQS) ](https://aws.amazon.com/es/sqs/?hp=tile&so-exp=below) | Colas de mensajes administradas |
+| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/es/sqs/?hp=tile&so-exp=below) | Colas de mensajes administradas |
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/es/s3/?hp=tile&so-exp=below) | Almacenamiento escalable en la nube |
 | [AWS AppSync](https://aws.amazon.com/es/appsync/?hp=tile&so-exp=below) | Utilice los datos adecuados de múltiples orígenes para impulsar sus aplicaciones a escala |
 | [AWS Fargate](https://aws.amazon.com/es/fargate/?hp=tile&so-exp=below) | Informática sin servidores para contenedores |

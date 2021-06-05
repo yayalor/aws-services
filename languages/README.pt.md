@@ -57,8 +57,8 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/pt/vmware/?hp=tile&so-exp=below) | Crie uma nuvem híbrida sem hardware personalizado |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/pt/ecr/?hp=tile&so-exp=below) | Armazene, gerencie e implante imagens de contêineres com facilidade |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/pt/ecs/?hp=tile&so-exp=below) | Maneira altamente segura, confiável e escalável de executar contêineres  |
-| [Amazon ECS Anywhere (em breve)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS diretamente na sua infraestrutura |
-| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/pt/eks/?hp=tile&so-exp=below) | A forma mais confiável de executar o Kubernetes |
+| [Amazon ECS Anywhere](https://aws.amazon.com/pt/ecs/anywhere/?hp=tile&so-exp=below) | Execute contêineres em infraestrutura gerenciada pelo cliente |
+| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/pt/eks/?hp=tile&so-exp=below) | A forma mais confiável de rodar o Kubernetes |
 | [Amazon EKS Anywhere (em breve)](https://aws.amazon.com/pt/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes diretamente na sua infraestrutura |
 | [Amazon EKS Distro](https://aws.amazon.com/pt/eks/eks-distro/?hp=tile&so-exp=below) | Execute clusters Kubernetes consistentes |
 | [AWS App2Container](https://aws.amazon.com/pt/app2container/?hp=tile&so-exp=below) | Criação de contêineres e migração de aplicações existentes |

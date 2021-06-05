@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/id/vmware/?hp=tile&so-exp=below) | Mem-build cloud hybrid tanpa perangkat keras khusus |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/id/ecr/?hp=tile&so-exp=below) | Menyimpan, mengelola, dan men-deploy gambar container dengan mudah |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/id/ecs/?hp=tile&so-exp=below) | Cara yang sangat aman, andal, dan dapat diskalakan untuk menjalankan kontainer  |
-| [Amazon ECS Anywhere (Segera Hadir)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS di infrastruktur Anda |
+| [Amazon ECS Anywhere](https://aws.amazon.com/id/ecs/anywhere/?hp=tile&so-exp=below) | Jalankan kontainer di infrastruktur yang dikelola pelanggan |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/id/eks/?hp=tile&so-exp=below) | Cara paling tepercaya dalam menjalankan Kubernetes |
 | [Amazon EKS Anywhere (Segera Hadir)](https://aws.amazon.com/id/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes di infrastruktur Anda |
 | [Amazon EKS Distro](https://aws.amazon.com/id/eks/eks-distro/?hp=tile&so-exp=below) | Jalankan kluster Kubernetes yang konsisten |

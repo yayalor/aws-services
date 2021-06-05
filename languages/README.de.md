@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/de/vmware/?hp=tile&so-exp=below) | Erstellen einer Hybrid-Cloud ohne angepasste Hardware |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/de/ecr/?hp=tile&so-exp=below) | Leichtes Speichern, Verwalten und Bereitstellen von Container-Images |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/de/ecs/?hp=tile&so-exp=below) | Sichere, zuverlässige und skalierbare Methode zum Ausführen von Containern  |
-| [Amazon ECS Anywhere (in Kürze verfügbar)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS in Ihrer Infrastruktur |
+| [Amazon ECS Anywhere](https://aws.amazon.com/de/ecs/anywhere/?hp=tile&so-exp=below) | Container auf einer vom Kunden verwalteten Infrastruktur ausführen |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/de/eks/?hp=tile&so-exp=below) | Die vertrauenswürdigste Art, Kubernetes auszuführen |
 | [Amazon EKS Anywhere (in Kürze verfügbar)](https://aws.amazon.com/de/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes in Ihrer Infrastruktur |
 | [Amazon EKS Distro](https://aws.amazon.com/de/eks/eks-distro/?hp=tile&so-exp=below) | Konsistente Kubernetes-Cluster ausführen |

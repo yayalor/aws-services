@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/it/vmware/?hp=tile&so-exp=below) | Crea un cloud ibrido senza hardware personalizzato |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/it/ecr/?hp=tile&so-exp=below) | Archivia, gestisci e distribuisci immagini di container con la massima semplicità |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/it/ecs/?hp=tile&so-exp=below) | Metodo altamente sicuro, affidabile e scalabile per eseguire i container  |
-| [Amazon ECS Anywhere (disponibile a breve)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS sulla tua infrastruttura |
+| [Amazon ECS Anywhere](https://aws.amazon.com/it/ecs/anywhere/?hp=tile&so-exp=below) | Esegui container su un'infrastruttura gestita dal cliente |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/it/eks/?hp=tile&so-exp=below) | La scelta più sicura per eseguire Kubernetes |
 | [Amazon EKS Anywhere (disponibile a breve)](https://aws.amazon.com/it/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes sulla tua infrastruttura |
 | [Amazon EKS Distro](https://aws.amazon.com/it/eks/eks-distro/?hp=tile&so-exp=below) | Esegui in modo uniforme cluster Kubernetes |

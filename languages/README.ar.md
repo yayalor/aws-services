@@ -32,7 +32,7 @@
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/ar/sqs/?hp=tile&so-exp=below) | قوائم انتظار الرسائل المدارة |
 | [AWS AppSync](https://aws.amazon.com/ar/appsync/?hp=tile&so-exp=below) | زد من الإمكانيات المتاحة بتطبيقاتك من خلال توفير البيانات المناسبة المستمدة من العديد من المصادر على نطاق واسع |
 | [AWS Cost Explorer](https://aws.amazon.com/ar/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | حلّل تكلفة واستخدام AWS الخاصة بك |
-| [ميزانيات AWS](https://aws.amazon.com/ar/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | ضبط ميزانيات مخصصة للتكلفة والاستخدام |
+| [AWS Budgets](https://aws.amazon.com/ar/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | ضبط ميزانيات مخصصة للتكلفة والاستخدام |
 | [تقرير تكاليف واستخدام AWS](https://aws.amazon.com/ar/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | تمكّن من الوصول إلى معلومات التكلفة والاستخدام الشاملة |
 | [إعداد تقارير المثيلات المحجوزة](https://aws.amazon.com/ar/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | تعمّق داخل المثيلات المحجوزة (RIs) الخاصة بك |
 | [Savings Plans](https://aws.amazon.com/ar/savingsplans/?hp=tile&so-exp=below) | وفّر ما يصل إلى 72% على استخدام الحوسبة مع التسعير المرن |
@@ -57,8 +57,8 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/ar/vmware/?hp=tile&so-exp=below) | ابنِ سحابة مختلطة دون أجهزة مخصصة |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/ar/ecr/?hp=tile&so-exp=below) | يمكنك بسهولة تخزين صور الحاوية وإدارتها وتوزيعها |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ar/ecs/?hp=tile&so-exp=below) | أسلوب تشغيل حاويات يتسم بشدة الأمان والموثوقية وقابلية التوسع  |
-| [Amazon ECS Anywhere](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS على بنيتك الأساسية |
-| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ar/eks/?hp=tile&so-exp=below) | طريقك الأكثر ثقة نحو تشغيل Kubernetes |
+| [Amazon ECS Anywhere](https://aws.amazon.com/ar/ecs/anywhere/?hp=tile&so-exp=below) | تشغيل الحاويات على البنية التحتية التي يديرها العميل |
+| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ar/eks/?hp=tile&so-exp=below) | أكثر طريقة جديرة بالثقة لتشغيل Kubernetes |
 | [Amazon EKS Anywhere (تتوفر قريبًا)](https://aws.amazon.com/ar/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes على بنيتك الأساسية |
 | [Amazon EKS Distro](https://aws.amazon.com/ar/eks/eks-distro/?hp=tile&so-exp=below) | تشغيل مجموعات Kubernetes متسقة |
 | [AWS App2Container](https://aws.amazon.com/ar/app2container/?hp=tile&so-exp=below) | وضع التطبيقات الحالية في حاويات وترحيلها |
@@ -84,7 +84,7 @@
 | [Amazon Timestream](https://aws.amazon.com/ar/timestream/?hp=tile&so-exp=below) | قاعدة بيانات متسلسلة زمنية مُدارة بالكامل |
 | [AWS Database Migration Service](https://aws.amazon.com/ar/dms/?hp=tile&so-exp=below) | رحّل قواعد البيانات بأقل وقت تعطل |
 | [Amazon Corretto](https://aws.amazon.com/ar/corretto/?hp=tile&so-exp=below) | توزيع جاهز للإنتاجية لـ OpenJDK |
-| [مجموعة تطوير سحابة AWS (CDK)](https://aws.amazon.com/ar/cdk/?hp=tile&so-exp=below) | تكوين نموذج للبنية التحتية السحابية باستخدام التعليمات البرمجية |
+| [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/ar/cdk/?hp=tile&so-exp=below) | تكوين نموذج للبنية التحتية السحابية باستخدام التعليمات البرمجية |
 | [AWS Cloud9](https://aws.amazon.com/ar/cloud9/?hp=tile&so-exp=below) | اكتب التعليمات البرمجية على سحابة IDE وشغلّها وصححها |
 | [AWS CloudShell](https://aws.amazon.com/ar/cloudshell/?hp=tile&so-exp=below) | بيئة shell مستندة إلى المتصفح |
 | [AWS CodeArtifact](https://aws.amazon.com/ar/codeartifact/?hp=tile&so-exp=below) | إدارة أدوات وعناصر تطوير البرامج بطريقة آمنة وقابلة للتوسع وفعّالة من حيث التكلفة |

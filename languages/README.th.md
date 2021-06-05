@@ -57,7 +57,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/th/vmware/?hp=tile&so-exp=below) | สร้างระบบคลาวด์แบบไฮบริดโดยไม่มีฮาร์ดแวร์แบบกำหนดเอง |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/th/ecr/?hp=tile&so-exp=below) | จัดเก็บ จัดการ และนำอิมเมจคอนเทนเนอร์ไปใช้ได้อย่างง่ายดาย |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/th/ecs/?hp=tile&so-exp=below) | วิธีใช้งานคอนเทนเนอร์ที่มีความปลอดภัยสูง ไว้ใจได้ และปรับขนาดได้  |
-| [Amazon ECS Anywhere (เร็วๆ นี้)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | ECS บนโครงสร้างพื้นฐานของคุณ |
+| [Amazon ECS Anywhere](https://aws.amazon.com/th/ecs/anywhere/?hp=tile&so-exp=below) | เรียกใช้งานคอนเทนเนอร์บนโครงสร้างพื้นฐานที่จัดการโดยลูกค้า |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/th/eks/?hp=tile&so-exp=below) | วิธีการเรียกใช้ Kubernetes ที่น่าเชื่อถือที่สุด |
 | [Amazon EKS Anywhere (เร็วๆ นี้)](https://aws.amazon.com/th/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes บนโครงสร้างพื้นฐานของคุณ |
 | [Amazon EKS Distro](https://aws.amazon.com/th/eks/eks-distro/?hp=tile&so-exp=below) | เรียกใช้คลัสเตอร์ Kubernetes ที่สม่ำเสมอ |
