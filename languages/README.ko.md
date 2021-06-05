@@ -1,7 +1,7 @@
- | [ar](./README.ar.md) | [cn](./README.cn.md) | [de](./README.de.md) | [en](./README.en.md) | [es](./README.es.md) | [fr](./README.fr.md) | [id](./README.id.md) | [it](./README.it.md) | [jp](./README.jp.md) | [ko](./README.ko.md) | [pt](./README.pt.md) | [ru](./README.ru.md) | [th](./README.th.md) | [tr](./README.tr.md) | [tw](./README.tw.md) | [vi](./README.vi.md) |
+ | [ar](./README.ar.md) | [cn](./README.cn.md) | [de](./README.de.md) | [en](../README..md) | [es](./README.es.md) | [fr](./README.fr.md) | [id](./README.id.md) | [it](./README.it.md) | [jp](./README.jp.md) | [ko](./README.ko.md) | [pt](./README.pt.md) | [ru](./README.ru.md) | [th](./README.th.md) | [tr](./README.tr.md) | [tw](./README.tw.md) | [vi](./README.vi.md) |
 
 | Service | Description |
-| - | - |
+| --- | --- |
 | [Amazon EC2](https://aws.amazon.com/ko/ec2/?hp=tile&so-exp=below&c=fs) | 클라우드의 가상 서버 |
 | [Amazon Simple Storage Service(S3)](https://aws.amazon.com/ko/s3/?hp=tile&so-exp=below&c=fs) | 클라우드에서의 확장 가능한 스토리지 |
 | [Amazon Aurora](https://aws.amazon.com/ko/rds/aurora/?hp=tile&so-exp=below&c=fs) | 관리형의 고성능 관계형 데이터베이스 |

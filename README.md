@@ -1,7 +1,7 @@
  | [ar](./languages/README.ar.md) | [cn](./languages/README.cn.md) | [de](./languages/README.de.md) | [en](./languages/README.en.md) | [es](./languages/README.es.md) | [fr](./languages/README.fr.md) | [id](./languages/README.id.md) | [it](./languages/README.it.md) | [jp](./languages/README.jp.md) | [ko](./languages/README.ko.md) | [pt](./languages/README.pt.md) | [ru](./languages/README.ru.md) | [th](./languages/README.th.md) | [tr](./languages/README.tr.md) | [tw](./languages/README.tw.md) | [vi](./languages/README.vi.md) |
 
 | Service | Description |
-| - | - |
+| --- | --- |
 | [Amazon EC2](https://aws.amazon.com/ec2/?hp=tile&so-exp=below&c=fs) | Virtual servers in the cloud |
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/?hp=tile&so-exp=below&c=fs) | Scalable storage in the cloud |
 | [Amazon Aurora](https://aws.amazon.com/rds/aurora/?hp=tile&so-exp=below&c=fs) | High performance managed relational database |
