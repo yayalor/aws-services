@@ -25,12 +25,12 @@ func main() {
 		if errMsg := checkLanguageSupport(arg); errMsg != "" {
 			log.Fatalf(errMsg)
 		}
-		if err := outputItem(arg, arg == defaultLanguage); err != nil {
+		if err := output(arg, arg == defaultLanguage); err != nil {
 			log.Fatal(err)
 		}
 	} else {
 		for _, lang := range supportedLanguages {
-			if err := outputItem(lang, lang == defaultLanguage); err != nil {
+			if err := output(lang, lang == defaultLanguage); err != nil {
 				log.Fatal(err)
 			}
 		}
@@ -75,26 +75,31 @@ func getTableRowItems(lang string) ([]TableRow, error) {
 	return res, err
 }
 
-func getNav(isDef bool) string {
+func getNav(isDefaultOutput bool) string {
 	res := ""
 	for _, lang := range supportedLanguages {
-		if isDef {
+		isDefaultLang := lang == defaultLanguage
+		if isDefaultOutput {
 			res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
 		} else {
-			res = strings.Join([]string{res, " | [", lang, "](./README.", lang, ".md)"}, "")
+			if isDefaultLang {
+				res = strings.Join([]string{res, " | [", lang, "](../README.", ".md)"}, "")
+			} else {
+				res = strings.Join([]string{res, " | [", lang, "](./README.", lang, ".md)"}, "")
+			}
 		}
 	}
 	return strings.Join([]string{res, " |\n"}, "")
 }
 
-func outputItem(lang string, isDef bool) error {
+func output(lang string, isDefault bool) error {
 	var err error
 	items, err := getTableRowItems(lang)
 	if err != nil {
 		return err
 	}
-	nav := getNav(isDef)
-	tableHeader := "| Service | Description |\n| - | - |\n"
+	nav := getNav(isDefault)
+	tableHeader := "| Service | Description |\n| --- | --- |\n"
 	tableContent := ""
 	for _, item := range items {
 		tableContent = strings.Join([]string{tableContent, "| ", item.Service, " | ", item.Description, " |\n"}, "")
@@ -105,13 +110,14 @@ func outputItem(lang string, isDef bool) error {
 			return err
 		}
 	}
-	if isDef {
+	if isDefault {
 		if err := WriteFile("./README.md", []byte(res), 0644); err != nil {
 			return err
 		}
-	}
-	if err := WriteFile(strings.Join([]string{"./languages/README.", lang, ".md"}, ""), []byte(res), 0644); err != nil {
-		return err
+	} else {
+		if err := WriteFile(strings.Join([]string{"./languages/README.", lang, ".md"}, ""), []byte(res), 0644); err != nil {
+			return err
+		}
 	}
 	return err
 }
