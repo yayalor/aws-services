@@ -78,12 +78,16 @@ func getTableRowItems(lang string) ([]TableRow, error) {
 func getNav(isDefaultOutput bool) string {
 	res := ""
 	for _, lang := range supportedLanguages {
-		isDefaultLang := lang == defaultLanguage
+		isDefaultLanguage := lang == defaultLanguage
 		if isDefaultOutput {
-			res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
+			if isDefaultLanguage {
+				res = ""
+			} else {
+				res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
+			}
 		} else {
-			if isDefaultLang {
-				res = strings.Join([]string{res, " | [", lang, "](../README.", ".md)"}, "")
+			if isDefaultLanguage {
+				res = strings.Join([]string{res, " | [", lang, "](../README.md)"}, "")
 			} else {
 				res = strings.Join([]string{res, " | [", lang, "](./README.", lang, ".md)"}, "")
 			}
