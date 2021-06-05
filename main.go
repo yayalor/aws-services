@@ -10,56 +10,53 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
-type Item struct {
+type TableRow struct {
 	Service     string
 	Description string
 }
 
+const defaultLanguage = "en"
+
+var supportedLanguages = []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
+
 func main() {
-	defaultLanguage := "en"
-	supportedLanguages := []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
 	if len(os.Args) > 1 {
 		arg := os.Args[1]
-		items, err := getItems(arg)
-		if err != nil {
-			log.Fatal(err)
+		if errMsg := checkLanguageSupport(arg); errMsg != "" {
+			log.Fatalf(errMsg)
 		}
-		checkLanguageSupport(supportedLanguages, arg)
-		if err := outputItem(items, supportedLanguages, arg, arg == defaultLanguage); err != nil {
+		if err := outputItem(arg, arg == defaultLanguage); err != nil {
 			log.Fatal(err)
 		}
 	} else {
 		for _, lang := range supportedLanguages {
-			items, err := getItems(lang)
-			if err != nil {
-				log.Fatal(err)
-			}
-			checkLanguageSupport(supportedLanguages, lang)
-			if err := outputItem(items, supportedLanguages, lang, lang == defaultLanguage); err != nil {
+			if err := outputItem(lang, lang == defaultLanguage); err != nil {
 				log.Fatal(err)
 			}
 		}
 	}
 }
 
-func checkLanguageSupport(langs []string, lang string) {
+func checkLanguageSupport(lang string) string {
 	is := false
-	for _, v := range langs {
+	var errMsg string
+	for _, v := range supportedLanguages {
 		if lang == v {
 			is = true
 		}
 	}
 	if is == false {
-		msg := strings.Join([]string{lang, " language is not supported\nsupported languages:"}, "")
-		for _, v := range langs {
-			msg = strings.Join([]string{v, "\n"}, "")
+		errMsg := strings.Join([]string{lang, " language is not supported\nsupported languages:"}, "")
+		for _, v := range supportedLanguages {
+			errMsg = strings.Join([]string{v, "\n"}, "")
 		}
-		log.Fatalf(msg)
+		return errMsg
 	}
+	return errMsg
 }
 
-func getItems(lang string) ([]Item, error) {
-	res := []Item{}
+func getTableRowItems(lang string) ([]TableRow, error) {
+	res := []TableRow{}
 	baseUrl := "https://aws.amazon.com/"
 	url := strings.Join([]string{baseUrl, lang}, "")
 	doc, err := goquery.NewDocument(url)
@@ -73,14 +70,14 @@ func getItems(lang string) ([]Item, error) {
 		path, _ := item.Find("a").Attr("href")
 		path = strings.Join([]string{baseUrl, path[1:]}, "")
 		name = strings.Join([]string{"[", name, "](", path, ")"}, "")
-		res = append(res, Item{Service: name, Description: description})
+		res = append(res, TableRow{Service: name, Description: description})
 	})
 	return res, err
 }
 
-func getNavs(langs []string, isDef bool) string {
+func getNav(isDef bool) string {
 	res := ""
-	for _, lang := range langs {
+	for _, lang := range supportedLanguages {
 		if isDef {
 			res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
 		} else {
@@ -90,15 +87,19 @@ func getNavs(langs []string, isDef bool) string {
 	return strings.Join([]string{res, " |\n"}, "")
 }
 
-func outputItem(items []Item, langs []string, lang string, isDef bool) error {
+func outputItem(lang string, isDef bool) error {
 	var err error
-	header := "| Service | Description |\n| - | - |\n"
-	content := ""
-	for _, item := range items {
-		content = strings.Join([]string{content, "| ", item.Service, " | ", item.Description, " |\n"}, "")
+	items, err := getTableRowItems(lang)
+	if err != nil {
+		return err
 	}
-	navs := getNavs(langs, isDef)
-	res := strings.Join([]string{navs, header, content}, "")
+	nav := getNav(isDef)
+	tableHeader := "| Service | Description |\n| - | - |\n"
+	tableContent := ""
+	for _, item := range items {
+		tableContent = strings.Join([]string{tableContent, "| ", item.Service, " | ", item.Description, " |\n"}, "")
+	}
+	res := strings.Join([]string{nav, "\n", tableHeader, tableContent}, "")
 	if _, err := os.Stat("./languages"); os.IsNotExist(err) {
 		if err := os.Mkdir("./languages", 0755); err != nil {
 			return err
@@ -116,6 +117,5 @@ func outputItem(items []Item, langs []string, lang string, isDef bool) error {
 }
 
 func WriteFile(path string, data []byte, perm fs.FileMode) error {
-	err := ioutil.WriteFile(path, data, perm)
-	return err
+	return ioutil.WriteFile(path, data, perm)
 }
