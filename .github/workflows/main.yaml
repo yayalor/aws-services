@@ -11,8 +11,6 @@ jobs:
         id: go
       - name: check out
         uses: actions/checkout@v2
-      - name: Checkout code
-        uses: actions/checkout@v2
       - name: Cache
         uses: actions/cache@v2.1.0
         with:
@@ -20,20 +18,9 @@ jobs:
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-go-
-      - name: Test
-        run: go test ./...
-
-  build:
-    needs: setup
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2
+      - name: version
+        run: go version
       - name: build
         run: go build ./...
-
-  run:
-    needs: build
-    runs-on: ubuntu-20.04
-    steps:
       - name: exec
         run: ./main
