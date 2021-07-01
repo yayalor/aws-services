@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/th/sns/?hp=tile&so-exp=below) | Pub/Sub, SMS, อีเมล และการแจ้งแบบพุชผ่านมือถือ |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/th/sqs/?hp=tile&so-exp=below) | คิวข้อความที่ได้รับการจัดการ |
 | [AWS AppSync](https://aws.amazon.com/th/appsync/?hp=tile&so-exp=below) | เพิ่มพลังให้กับแอปของคุณด้วยข้อมูลที่ถูกต้องจากหลากหลายแหล่งในวงกว้าง |
-| [AWS Cost Explorer](https://aws.amazon.com/th/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | วิเคราะห์ต้นทุนและการใช้งาน AWS ของคุณ |
-| [งบประมาณสำหรับ AWS](https://aws.amazon.com/th/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | กำหนดงบประมาณต้นทุนและการใช้งาน |
-| [รายงานต้นทุนและการใช้งาน AWS](https://aws.amazon.com/th/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | เข้าถึงข้อมูลต้นทุนและการใช้งานที่ครอบคลุม |
-| [การรายงานอินสแตนซ์แบบเหมาจ่าย](https://aws.amazon.com/th/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | เจาะลึกลงในอินสแตนซ์แบบเหมาจ่าย (RI) ของคุณ |
-| [Savings Plans](https://aws.amazon.com/th/savingsplans/?hp=tile&so-exp=below) | ประหยัดสูงสุด 72% ในการใช้งานการประมวลผลด้วยราคาที่ยืดหยุ่น |
 | [Amazon Managed Blockchain](https://aws.amazon.com/th/managed-blockchain/?hp=tile&so-exp=below) | สร้างและจัดการเครือข่ายบล็อกเชนที่สามารถปรับขนาดได้ |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/th/qldb/?hp=tile&so-exp=below) | ฐานข้อมูลแยกประเภทที่มีการจัดการเต็มรูปแบบ |
 | [Alexa for Business](https://aws.amazon.com/th/alexaforbusiness/?hp=tile&so-exp=below) | เสริมความแข็งแกร่งให้กับองค์กรของคุณด้วย Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (เบต้า)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | สร้างเว็บแอปและแอปมือถือโดยไม่ต้องเขียนโปรแกรม |
 | [Amazon WorkDocs](https://aws.amazon.com/th/workdocs/?hp=tile&so-exp=below) | รักษาความปลอดภัยพื้นที่จัดเก็บเอกสารและการแชร์ขององค์กร |
 | [Amazon WorkMail](https://aws.amazon.com/th/workmail/?hp=tile&so-exp=below) | การจัดทำปฏิทินและอีเมลที่ปลอดภัย |
+| [AWS Cost Explorer](https://aws.amazon.com/th/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | วิเคราะห์ต้นทุนและการใช้งาน AWS ของคุณ |
+| [งบประมาณสำหรับ AWS](https://aws.amazon.com/th/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | กำหนดงบประมาณต้นทุนและการใช้งาน |
+| [รายงานต้นทุนและการใช้งาน AWS](https://aws.amazon.com/th/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | เข้าถึงข้อมูลต้นทุนและการใช้งานที่ครอบคลุม |
+| [การรายงานอินสแตนซ์แบบเหมาจ่าย](https://aws.amazon.com/th/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | เจาะลึกลงในอินสแตนซ์แบบเหมาจ่าย (RI) ของคุณ |
+| [Savings Plans](https://aws.amazon.com/th/savingsplans/?hp=tile&so-exp=below) | ประหยัดสูงสุด 72% ในการใช้งานการประมวลผลด้วยราคาที่ยืดหยุ่น |
 | [Amazon EC2](https://aws.amazon.com/th/ec2/?hp=tile&so-exp=below) | เซิร์ฟเวอร์เสมือนในระบบคลาวด์ |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/th/ec2/autoscaling/?hp=tile&so-exp=below) | ปรับขนาดขีดความสามารถในการคำนวณเพื่อตอบสนองความต้องการ |
 | [Amazon Lightsail](https://aws.amazon.com/th/lightsail/?hp=tile&so-exp=below) | เริ่มใช้และจัดการเซิร์ฟเวอร์เสมือนส่วนตัว |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/th/worklink/?hp=tile&so-exp=below) | เปิดใช้งานการเข้าถึงเว็บไซต์ภายในผ่านมือถือ |
 | [AWS Amplify](https://aws.amazon.com/th/amplify/?hp=tile&so-exp=below) | สร้างและติดตั้งแอปพลิเคชันบนมือถือและเว็บเพื่อใช้จริง |
 | [Amazon API Gateway](https://aws.amazon.com/th/api-gateway/?hp=tile&so-exp=below) | สร้าง ปรับใช้ และจัดการ API |
-| [Amazon Location Service (พรีวิว)](https://aws.amazon.com/th/location/?hp=tile&so-exp=below) | เพิ่มข้อมูลตำแหน่งที่ตั้งไปยังแอปพลิเคชันอย่างปลอดภัยและง่ายดาย |
+| [Amazon Location Service](https://aws.amazon.com/th/location/?hp=tile&so-exp=below) | เพิ่มข้อมูลตำแหน่งที่ตั้งไปยังแอปพลิเคชันอย่างปลอดภัยและง่ายดาย |
 | [Amazon Pinpoint](https://aws.amazon.com/th/pinpoint/?hp=tile&so-exp=below) | การมีส่วนร่วมของผู้ใช้ในหลากหลายช่องทางที่เหมาะกับแต่ละบุคคล |
 | [AWS AppSync](https://aws.amazon.com/th/appsync/?hp=tile&so-exp=below) | เพิ่มพลังให้กับแอปของคุณด้วยข้อมูลที่ถูกต้องจากหลากหลายแหล่งในวงกว้าง |
 | [AWS Device Farm](https://aws.amazon.com/th/device-farm/?hp=tile&so-exp=below) | ทดสอบแอป Android, iOS และเว็บแอปบนอุปกรณ์จริงใน AWS Cloud |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/th/opsworks/?hp=tile&so-exp=below) | ทำงานแบบอัตโนมัติด้วย Chef และ Puppet |
 | [AWS Organizations](https://aws.amazon.com/th/organizations/?hp=tile&so-exp=below) | การกำกับดูแลและการจัดการบัญชี AWS จากส่วนกลาง |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/th/premiumsupport/phd/?hp=tile&so-exp=below) | มุมมองส่วนบุคคลของคุณภาพบริการของ AWS |
-| [AWS Proton (พรีวิว)](https://aws.amazon.com/th/proton/?hp=tile&so-exp=below) | การจัดการอัตโนมัติสำหรับการติดตั้งใช้จริงของคอนเทนเนอร์และระบบไร้เซิร์ฟเวอร์ |
+| [AWS Proton](https://aws.amazon.com/th/proton/?hp=tile&so-exp=below) | การจัดการอัตโนมัติสำหรับการติดตั้งใช้จริงของคอนเทนเนอร์และระบบไร้เซิร์ฟเวอร์ |
 | [AWS Service Catalog](https://aws.amazon.com/th/servicecatalog/?hp=tile&so-exp=below) | สร้างและใช้งานผลิตภัณฑ์ที่ได้รับการกำหนดมาตรฐาน |
 | [AWS Systems Manager](https://aws.amazon.com/th/systems-manager/?hp=tile&so-exp=below) | ขอรับข้อมูลเชิงลึกการทำงานและดำเนินการ |
 | [AWS Trusted Advisor](https://aws.amazon.com/th/trustedadvisor/?hp=tile&so-exp=below) | เพิ่มประสิทธิภาพและระดับความปลอดภัย |

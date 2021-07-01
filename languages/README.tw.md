@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/tw/sns/?hp=tile&so-exp=below) | 發佈/訂閱、簡訊、電子郵件和行動推送通知 |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/tw/sqs/?hp=tile&so-exp=below) | 受管訊息佇列 |
 | [AWS AppSync](https://aws.amazon.com/tw/appsync/?hp=tile&so-exp=below) | 使用來自多種來源的正確資料，來大規模提升應用程式的能力 |
-| [AWS Cost Explorer](https://aws.amazon.com/tw/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | 分析您的 AWS 成本和用量 |
-| [AWS Budgets](https://aws.amazon.com/tw/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 設定自訂的成本和用量預算 |
-| [AWS 成本和用量報告](https://aws.amazon.com/tw/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 存取完整的成本和用量資訊 |
-| [預留執行個體報告](https://aws.amazon.com/tw/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 深入了解您的預留執行個體 (RI) |
-| [Savings Plans](https://aws.amazon.com/tw/savingsplans/?hp=tile&so-exp=below) | 使用彈性定價可節省高達 72% 的運算用量 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/tw/managed-blockchain/?hp=tile&so-exp=below) | 建立和管理可擴展的區塊鏈網路 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/tw/qldb/?hp=tile&so-exp=below) | 全受管總帳資料庫 |
 | [Alexa for Business](https://aws.amazon.com/tw/alexaforbusiness/?hp=tile&so-exp=below) | 使用 Alexa 提升組織的能力 |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta 版)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | 無需程式設計即可建置行動和 Web 應用程式 |
 | [Amazon WorkDocs](https://aws.amazon.com/tw/workdocs/?hp=tile&so-exp=below) | 安全的企業文件儲存和共享 |
 | [Amazon WorkMail](https://aws.amazon.com/tw/workmail/?hp=tile&so-exp=below) | 安全電子郵件和日曆管理服務 |
+| [AWS Cost Explorer](https://aws.amazon.com/tw/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | 分析您的 AWS 成本和用量 |
+| [AWS Budgets](https://aws.amazon.com/tw/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 設定自訂的成本和用量預算 |
+| [AWS 成本和用量報告](https://aws.amazon.com/tw/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 存取完整的成本和用量資訊 |
+| [預留執行個體報告](https://aws.amazon.com/tw/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 深入了解您的預留執行個體 (RI) |
+| [Savings Plans](https://aws.amazon.com/tw/savingsplans/?hp=tile&so-exp=below) | 使用彈性定價可節省高達 72% 的運算用量 |
 | [Amazon EC2](https://aws.amazon.com/tw/ec2/?hp=tile&so-exp=below) | 雲端的虛擬伺服器 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/tw/ec2/autoscaling/?hp=tile&so-exp=below) | 擴展運算容量以滿足需求 |
 | [Amazon Lightsail](https://aws.amazon.com/tw/lightsail/?hp=tile&so-exp=below) | 啟動和管理虛擬私有伺服器 |
@@ -58,7 +58,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/tw/vmware/?hp=tile&so-exp=below) | 建立混合雲端，無須自訂硬體 |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/tw/ecr/?hp=tile&so-exp=below) | 輕鬆存放、管理和部署容器映像 |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/tw/ecs/?hp=tile&so-exp=below) | 高度安全、可靠且可擴展的容器執行方式  |
-| [Amazon ECS Anywhere](https://aws.amazon.com/tw/ecs/anywhere/?hp=tile&so-exp=below) | 在客戶受管基礎架構上執行容器 |
+| [Amazon ECS Anywhere](https://aws.amazon.com/tw/ecs/anywhere/?hp=tile&so-exp=below) | 在客戶管理的基礎架構上執行容器 |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tw/eks/?hp=tile&so-exp=below) | 最值得信賴的 Kubernetes 執行方式 |
 | [Amazon EKS Anywhere (即將推出)](https://aws.amazon.com/tw/eks/eks-anywhere/?hp=tile&so-exp=below) | 在基礎設施中使用 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tw/eks/eks-distro/?hp=tile&so-exp=below) | 執行一致的 Kubernetes 叢集 |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/tw/worklink/?hp=tile&so-exp=below) | 啟用內部網站的行動存取 |
 | [AWS Amplify](https://aws.amazon.com/tw/amplify/?hp=tile&so-exp=below) | 建立和部署行動和 Web 應用程式 |
 | [Amazon API Gateway](https://aws.amazon.com/tw/api-gateway/?hp=tile&so-exp=below) | 建立、部署和管理 API |
-| [Amazon Location Service (預覽版)](https://aws.amazon.com/tw/location/?hp=tile&so-exp=below) | 安全輕鬆地將位置資料新增至應用程式 |
+| [Amazon Location Service](https://aws.amazon.com/tw/location/?hp=tile&so-exp=below) | 安全輕鬆地將位置資料新增至應用程式 |
 | [Amazon Pinpoint](https://aws.amazon.com/tw/pinpoint/?hp=tile&so-exp=below) | 多種管道的個人化使用者參與 |
 | [AWS AppSync](https://aws.amazon.com/tw/appsync/?hp=tile&so-exp=below) | 使用來自多種來源的正確資料，來大規模提升應用程式的能力 |
 | [AWS Device Farm](https://aws.amazon.com/tw/device-farm/?hp=tile&so-exp=below) | 在 AWS 雲端的真實裝置上測試 Android、iOS 和 Web 應用程式 |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/tw/opsworks/?hp=tile&so-exp=below) | 採用 Chef 和 Puppet 實現自動化操作 |
 | [AWS Organizations](https://aws.amazon.com/tw/organizations/?hp=tile&so-exp=below) | 集中管控及管理所有 AWS 帳戶 |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/tw/premiumsupport/phd/?hp=tile&so-exp=below) | AWS 服務運作狀態的個人化檢視 |
-| [AWS Proton (預覽版)](https://aws.amazon.com/tw/proton/?hp=tile&so-exp=below) | 自動管理容器和無伺服器部署 |
+| [AWS Proton](https://aws.amazon.com/tw/proton/?hp=tile&so-exp=below) | 自動管理容器和無伺服器部署 |
 | [AWS Service Catalog](https://aws.amazon.com/tw/servicecatalog/?hp=tile&so-exp=below) | 建立和使用標準化產品 |
 | [AWS Systems Manager](https://aws.amazon.com/tw/systems-manager/?hp=tile&so-exp=below) | 獲得營運洞察並採取行動 |
 | [AWS Trusted Advisor](https://aws.amazon.com/tw/trustedadvisor/?hp=tile&so-exp=below) | 優化效能與安全 |

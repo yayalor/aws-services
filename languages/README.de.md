@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/de/sns/?hp=tile&so-exp=below) | Pub/Sub, SMS, E-Mail und mobile Push-Benachrichtigungen |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/de/sqs/?hp=tile&so-exp=below) | Verwaltete Nachrichtenwarteschlangen |
 | [AWS AppSync](https://aws.amazon.com/de/appsync/?hp=tile&so-exp=below) | Treiben Sie Ihre Apps mit den richtigen Daten aus vielen Quellen an, und das skalierbar |
-| [AWS Cost Explorer](https://aws.amazon.com/de/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analysieren Sie Ihre AWS-Kosten und -Nutzung |
-| [AWS Budgets](https://aws.amazon.com/de/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Legen Sie benutzerdefinierte Kosten- und Nutzungsbudgets fest |
-| [AWS-Kosten- und Nutzungsbericht](https://aws.amazon.com/de/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Zugriff auf umfassende Kosten- und Nutzungsinformationen |
-| [Reserved Instance Reporting](https://aws.amazon.com/de/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Tiefere Einblicke in Ihre Reserved Instances (RIs) gewinnen |
-| [Savings Plans](https://aws.amazon.com/de/savingsplans/?hp=tile&so-exp=below) | Sparen Sie dank flexibler Preisgestaltung bis zu 72 % bei der Datenverarbeitungsnutzung |
 | [Amazon Managed Blockchain](https://aws.amazon.com/de/managed-blockchain/?hp=tile&so-exp=below) | Erstellen und verwalten Sie skalierbare Blockchain-Netzwerke |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/de/qldb/?hp=tile&so-exp=below) | Vollständig verwaltete Ledger-Datenbank |
 | [Alexa for Business](https://aws.amazon.com/de/alexaforbusiness/?hp=tile&so-exp=below) | Neue Perspektiven für Ihr Unternehmen mit Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Web- und Mobilanwendungen ohne Programmieren erstellen |
 | [Amazon WorkDocs](https://aws.amazon.com/de/workdocs/?hp=tile&so-exp=below) | Sicheres Speichern und Freigeben von Unternehmensdokumenten |
 | [Amazon WorkMail](https://aws.amazon.com/de/workmail/?hp=tile&so-exp=below) | Sichere E-Mail- und Kalenderfunktionen |
+| [AWS Cost Explorer](https://aws.amazon.com/de/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Ihre AWS-Kosten und -Nutzung analysieren |
+| [AWS Budgets](https://aws.amazon.com/de/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Legen Sie benutzerdefinierte Kosten- und Nutzungsbudgets fest |
+| [AWS-Kosten- und Nutzungsbericht](https://aws.amazon.com/de/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Zugriff auf umfassende Kosten- und Nutzungsinformationen |
+| [Reserved Instance Reporting](https://aws.amazon.com/de/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Tiefere Einblicke in Ihre Reserved Instances (RIs) gewinnen |
+| [Savings Plans](https://aws.amazon.com/de/savingsplans/?hp=tile&so-exp=below) | Sparen Sie dank flexibler Preisgestaltung bis zu 72 % bei der Datenverarbeitungsnutzung |
 | [Amazon EC2](https://aws.amazon.com/de/ec2/?hp=tile&so-exp=below) | Virtuelle Server in der Cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/de/ec2/autoscaling/?hp=tile&so-exp=below) | Rechenkapazität skalieren, um Anforderungen zu erfüllen |
 | [Amazon Lightsail](https://aws.amazon.com/de/lightsail/?hp=tile&so-exp=below) | Virtual Private Server starten und verwalten |
@@ -105,8 +105,8 @@
 | [Amazon WorkLink](https://aws.amazon.com/de/worklink/?hp=tile&so-exp=below) | Aktivieren des mobilen Zugriffs auf interne Webseiten |
 | [AWS Amplify](https://aws.amazon.com/de/amplify/?hp=tile&so-exp=below) | Web- und Mobilanwendungen erstellen und bereitstellen |
 | [Amazon API Gateway](https://aws.amazon.com/de/api-gateway/?hp=tile&so-exp=below) | Erstellen, Bereitstellen und Verwalten von APIs |
-| [Amazon Location Service (Vorversion)](https://aws.amazon.com/de/location/?hp=tile&so-exp=below) | Sicheres und einfaches Hinzufügen von Standortdaten zu Anwendungen |
-| [Amazon Pinpoint](https://aws.amazon.com/de/pinpoint/?hp=tile&so-exp=below) | Personalisierte Nutzerinteraktion über alle Kanäle |
+| [Amazon Location Service](https://aws.amazon.com/de/location/?hp=tile&so-exp=below) | Standortdaten sicher und einfach zu Anwendungen hinzufügen |
+| [Amazon Pinpoint](https://aws.amazon.com/de/pinpoint/?hp=tile&so-exp=below) | Personalisierte Benutzerinteraktion über alle Kanäle |
 | [AWS AppSync](https://aws.amazon.com/de/appsync/?hp=tile&so-exp=below) | Treiben Sie Ihre Apps mit den richtigen Daten aus vielen Quellen an, und das skalierbar |
 | [AWS Device Farm](https://aws.amazon.com/de/device-farm/?hp=tile&so-exp=below) | Testen Sie Android-, iOS- und Web-Apps auf echten Geräten in der AWS Cloud |
 | [Amazon GameLift](https://aws.amazon.com/de/gamelift/?hp=tile&so-exp=below) | Schnelles, einfaches, kostengünstiges Hosting von dedizierten Spieleservern |
@@ -175,8 +175,8 @@
 | [AWS OpsWorks](https://aws.amazon.com/de/opsworks/?hp=tile&so-exp=below) | Automatisieren von Vorgängen mit Chef und Puppet |
 | [AWS Organizations](https://aws.amazon.com/de/organizations/?hp=tile&so-exp=below) | Zentrale Steuerung und Verwaltung über AWS-Konten hinweg |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/de/premiumsupport/phd/?hp=tile&so-exp=below) | Personalisierte Ansicht des AWS-Servicestatus |
-| [AWS Proton (Vorversion)](https://aws.amazon.com/de/proton/?hp=tile&so-exp=below) | Automatisierte Verwaltung für Container- und Serverless-Bereitstellung |
-| [AWS Service Catalog](https://aws.amazon.com/de/servicecatalog/?hp=tile&so-exp=below) | Erstellen und Verwenden von standardisierten Produkten |
+| [AWS Proton](https://aws.amazon.com/de/proton/?hp=tile&so-exp=below) | Automatisierte Verwaltung für Container- und Serverless-Bereitstellung |
+| [AWS Service Catalog](https://aws.amazon.com/de/servicecatalog/?hp=tile&so-exp=below) | Standardisierte Produkte erstellen und verwenden |
 | [AWS Systems Manager](https://aws.amazon.com/de/systems-manager/?hp=tile&so-exp=below) | Geschäftseinblicke erhalten und entsprechend reagieren |
 | [AWS Trusted Advisor](https://aws.amazon.com/de/trustedadvisor/?hp=tile&so-exp=below) | Leistung und Sicherheit optimieren |
 | [AWS Well-Architected Tool](https://aws.amazon.com/de/well-architected-tool/?hp=tile&so-exp=below) | Workloads anzeigen und verbessern |

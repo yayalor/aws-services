@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns/?hp=tile&so-exp=below) | Pub/sub, SMS, email, and mobile push notifications |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/sqs/?hp=tile&so-exp=below) | Managed message queues |
 | [AWS AppSync](https://aws.amazon.com/appsync/?hp=tile&so-exp=below) | Power your apps with the right data from many sources, at scale |
-| [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analyze your AWS cost and usage |
-| [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Set custom cost and usage budgets |
-| [AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Access comprehensive cost and usage information |
-| [Reserved Instance Reporting](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Dive deeper into your reserved instances (RIs) |
-| [Savings Plans](https://aws.amazon.com/savingsplans/?hp=tile&so-exp=below) | Save up to 72% on compute usage with flexible pricing |
 | [Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/?hp=tile&so-exp=below) | Create and manage scalable blockchain networks |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/?hp=tile&so-exp=below) | Fully managed ledger database |
 | [Alexa for Business](https://aws.amazon.com/alexaforbusiness/?hp=tile&so-exp=below) | Empower your organization with Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Build mobile & web apps without programming |
 | [Amazon WorkDocs](https://aws.amazon.com/workdocs/?hp=tile&so-exp=below) | Secure enterprise document storage and sharing |
 | [Amazon WorkMail](https://aws.amazon.com/workmail/?hp=tile&so-exp=below) | Secure email and calendaring |
+| [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analyze your AWS cost and usage |
+| [AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Set custom cost and usage budgets |
+| [AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Access comprehensive cost and usage information |
+| [Reserved Instance Reporting](https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Dive deeper into your reserved instances (RIs) |
+| [Savings Plans](https://aws.amazon.com/savingsplans/?hp=tile&so-exp=below) | Save up to 72% on compute usage with flexible pricing |
 | [Amazon EC2](https://aws.amazon.com/ec2/?hp=tile&so-exp=below) | Virtual servers in the cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/?hp=tile&so-exp=below) | Scale compute capacity to meet demand |
 | [Amazon Lightsail](https://aws.amazon.com/lightsail/?hp=tile&so-exp=below) | Launch and manage virtual private servers |
@@ -58,7 +58,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/vmware/?hp=tile&so-exp=below) | Build a hybrid cloud without custom hardware |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/ecr/?hp=tile&so-exp=below) | Easily store, manage, and deploy container images |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ecs/?hp=tile&so-exp=below) | Highly secure, reliable, and scalable way to run containers  |
-| [Amazon ECS Anywhere (Coming Soon)](https://aws.amazon.com/ecs/anywhere/?hp=tile&so-exp=below) | ECS on your infrastructure |
+| [Amazon ECS Anywhere](https://aws.amazon.com/ecs/anywhere/?hp=tile&so-exp=below) | Run containers on customer-managed infrastructure |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/?hp=tile&so-exp=below) | The most trusted way to run Kubernetes |
 | [Amazon EKS Anywhere (Coming Soon)](https://aws.amazon.com/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes on your infrastructure |
 | [Amazon EKS Distro](https://aws.amazon.com/eks/eks-distro/?hp=tile&so-exp=below) | Run consistent Kubernetes clusters |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/worklink/?hp=tile&so-exp=below) | Enable mobile access to internal websites |
 | [AWS Amplify](https://aws.amazon.com/amplify/?hp=tile&so-exp=below) | Build and deploy mobile and web applications |
 | [Amazon API Gateway](https://aws.amazon.com/api-gateway/?hp=tile&so-exp=below) | Build, deploy, and manage API's |
-| [Amazon Location Service (Preview)](https://aws.amazon.com/location/?hp=tile&so-exp=below) | Securely and easily add location data to applications |
+| [Amazon Location Service](https://aws.amazon.com/location/?hp=tile&so-exp=below) | Securely and easily add location data to applications |
 | [Amazon Pinpoint](https://aws.amazon.com/pinpoint/?hp=tile&so-exp=below) | Personalized user engagement across channels |
 | [AWS AppSync](https://aws.amazon.com/appsync/?hp=tile&so-exp=below) | Power your apps with the right data from many sources, at scale |
 | [AWS Device Farm](https://aws.amazon.com/device-farm/?hp=tile&so-exp=below) | Test Android, iOS, and web apps on real devices in the AWS cloud |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/opsworks/?hp=tile&so-exp=below) | Automate operations with Chef and Puppet |
 | [AWS Organizations](https://aws.amazon.com/organizations/?hp=tile&so-exp=below) | Central governance and management across AWS accounts |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/?hp=tile&so-exp=below) | Personalized view of AWS service health |
-| [AWS Proton (Preview)](https://aws.amazon.com/proton/?hp=tile&so-exp=below) | Automated management for container and serverless deployment |
+| [AWS Proton](https://aws.amazon.com/proton/?hp=tile&so-exp=below) | Automated management for container and serverless deployment |
 | [AWS Service Catalog](https://aws.amazon.com/servicecatalog/?hp=tile&so-exp=below) | Create and use standardized products |
 | [AWS Systems Manager](https://aws.amazon.com/systems-manager/?hp=tile&so-exp=below) | Gain operational insights and take action |
 | [AWS Trusted Advisor](https://aws.amazon.com/trustedadvisor/?hp=tile&so-exp=below) | Optimize performance and security |

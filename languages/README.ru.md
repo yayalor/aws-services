@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/ru/sns/?hp=tile&so-exp=below) | Обмен сообщениями по модели «издатель – подписчик» (Pub/Sub), SMS, электронная почта и мобильные push-уведомления |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/ru/sqs/?hp=tile&so-exp=below) | Управляемые очереди сообщений |
 | [AWS AppSync](https://aws.amazon.com/ru/appsync/?hp=tile&so-exp=below) | Использование в приложениях нужных данных из множества источников в любом масштабе |
-| [AWS Cost Explorer](https://aws.amazon.com/ru/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Анализ расходов и использования AWS |
-| [AWS Budgets](https://aws.amazon.com/ru/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Создание собственных бюджетов расходов и планов использования |
-| [Отчет о расходах и использовании AWS](https://aws.amazon.com/ru/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Доступ к полной информации о расходах и использовании |
-| [Отчеты о зарезервированных инстансах](https://aws.amazon.com/ru/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Углубленный анализ зарезервированных инстансов (RI) |
-| [Savings Plans](https://aws.amazon.com/ru/savingsplans/?hp=tile&so-exp=below) | Экономьте до 72 % при оплате использованных вычислительных ресурсов с помощью гибкой модели ценообразования |
 | [Amazon Managed Blockchain](https://aws.amazon.com/ru/managed-blockchain/?hp=tile&so-exp=below) | Создание масштабируемых сетей блокчейн и управление ими |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/ru/qldb/?hp=tile&so-exp=below) | Полностью управляемая база данных для реестров |
 | [Alexa for Business](https://aws.amazon.com/ru/alexaforbusiness/?hp=tile&so-exp=below) | Расширение возможностей организации с помощью Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (бета-версия)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Создание мобильных и веб-приложений без программирования |
 | [Amazon WorkDocs](https://aws.amazon.com/ru/workdocs/?hp=tile&so-exp=below) | Безопасное хранение и совместное использование корпоративных документов |
 | [Amazon WorkMail](https://aws.amazon.com/ru/workmail/?hp=tile&so-exp=below) | Защищенная электронная почта и календари |
+| [AWS Cost Explorer](https://aws.amazon.com/ru/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Анализ расходов и использования AWS |
+| [AWS Budgets](https://aws.amazon.com/ru/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Создание собственных бюджетов расходов и планов использования |
+| [Отчет о расходах и использовании AWS](https://aws.amazon.com/ru/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Доступ к полной информации о расходах и использовании |
+| [Отчеты о зарезервированных инстансах](https://aws.amazon.com/ru/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Углубленный анализ зарезервированных инстансов (RI) |
+| [Тарифы Savings Plans](https://aws.amazon.com/ru/savingsplans/?hp=tile&so-exp=below) | Экономьте до 72 % при оплате использованных вычислительных ресурсов с помощью гибкой модели ценообразования |
 | [Amazon EC2](https://aws.amazon.com/ru/ec2/?hp=tile&so-exp=below) | Виртуальные серверы в облаке |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ru/ec2/autoscaling/?hp=tile&so-exp=below) | Масштабирование вычислительных ресурсов в зависимости от нагрузки |
 | [Amazon Lightsail](https://aws.amazon.com/ru/lightsail/?hp=tile&so-exp=below) | Запуск частных виртуальных серверов и управление ими |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/ru/worklink/?hp=tile&so-exp=below) | Мобильный доступ к внутренним веб‑сайтам |
 | [AWS Amplify](https://aws.amazon.com/ru/amplify/?hp=tile&so-exp=below) | Разработка и развертывание мобильных и интернет‑приложений |
 | [Amazon API Gateway](https://aws.amazon.com/ru/api-gateway/?hp=tile&so-exp=below) | Разработка, развертывание API и управление ими |
-| [Amazon Location Service (ознакомительная версия)](https://aws.amazon.com/ru/location/?hp=tile&so-exp=below) | Безопасно и просто добавляйте данные о местоположении в приложения |
+| [Amazon Location Service](https://aws.amazon.com/ru/location/?hp=tile&so-exp=below) | Безопасно и просто добавляйте данные о местоположении в приложения |
 | [Amazon Pinpoint](https://aws.amazon.com/ru/pinpoint/?hp=tile&so-exp=below) | Персональное взаимодействие с пользователями по всем каналам |
 | [AWS AppSync](https://aws.amazon.com/ru/appsync/?hp=tile&so-exp=below) | Использование в приложениях нужных данных из множества источников в любом масштабе |
 | [AWS Device Farm](https://aws.amazon.com/ru/device-farm/?hp=tile&so-exp=below) | Тестирование интернет‑приложений и приложений для Android и iOS на реальных устройствах в облаке AWS |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/ru/opsworks/?hp=tile&so-exp=below) | Автоматизация процессов с помощью Chef и Puppet |
 | [AWS Organizations](https://aws.amazon.com/ru/organizations/?hp=tile&so-exp=below) | Управление и администрирование: все аккаунты AWS в одном месте |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/ru/premiumsupport/phd/?hp=tile&so-exp=below) | Индивидуально настроенное отображение работоспособности сервисов AWS |
-| [AWS Proton (ознакомительный режим)](https://aws.amazon.com/ru/proton/?hp=tile&so-exp=below) | Автоматизированное управление для контейнеров и бессерверного развертывания |
+| [AWS Proton](https://aws.amazon.com/ru/proton/?hp=tile&so-exp=below) | Автоматизированное управление для контейнеров и бессерверного развертывания |
 | [AWS Service Catalog](https://aws.amazon.com/ru/servicecatalog/?hp=tile&so-exp=below) | Создание и использование стандартизированных продуктов |
 | [AWS Systems Manager](https://aws.amazon.com/ru/systems-manager/?hp=tile&so-exp=below) | Операционная аналитика и возможность принять меры |
 | [AWS Trusted Advisor](https://aws.amazon.com/ru/trustedadvisor/?hp=tile&so-exp=below) | Оптимизация производительности и безопасности |

@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/fr/sns/?hp=tile&so-exp=below) | Publication/abonnement, SMS, e-mails et notifications push mobile |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/fr/sqs/?hp=tile&so-exp=below) | Files d'attente de messages gérées |
 | [AWS AppSync](https://aws.amazon.com/fr/appsync/?hp=tile&so-exp=below) | Optimiser vos applications avec les données adéquates provenant de nombreuses sources, à grande échelle |
-| [AWS Cost Explorer](https://aws.amazon.com/fr/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analyser vos frais et votre utilisation d'AWS |
-| [AWS Budgets](https://aws.amazon.com/fr/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Personnalisez la gestion de vos coûts et de votre utilisation |
-| [Rapport d'utilisation et de coût AWS](https://aws.amazon.com/fr/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Consulter des informations complètes sur vos coûts et votre utilisation |
-| [Rapports sur les instances réservées](https://aws.amazon.com/fr/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Bénéficier d'un meilleur contrôle sur vos instances réservées (RI) |
-| [Savings Plans](https://aws.amazon.com/fr/savingsplans/?hp=tile&so-exp=below) | Économisez jusqu'à 72 % sur l'utilisation de nos solutions de calcul grâce à une tarification flexible |
 | [Amazon Managed Blockchain](https://aws.amazon.com/fr/managed-blockchain/?hp=tile&so-exp=below) | Créez et gérez des réseaux de chaîne de blocs évolutifs |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/fr/qldb/?hp=tile&so-exp=below) | Base de données de registres entièrement gérée |
 | [Alexa for Business](https://aws.amazon.com/fr/alexaforbusiness/?hp=tile&so-exp=below) | Optimisation de votre organisation avec Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Bêta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Créez des applications Web et mobiles sans programmation |
 | [Amazon WorkDocs](https://aws.amazon.com/fr/workdocs/?hp=tile&so-exp=below) | Stockage et partage sécurisés de documents d'entreprise |
 | [Amazon WorkMail](https://aws.amazon.com/fr/workmail/?hp=tile&so-exp=below) | Messagerie et gestion d'agenda sécurisées |
+| [AWS Cost Explorer](https://aws.amazon.com/fr/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analyser vos frais et votre utilisation d'AWS |
+| [AWS Budgets](https://aws.amazon.com/fr/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Personnalisez la gestion de vos coûts et de votre utilisation |
+| [Rapport d'utilisation et de coût AWS](https://aws.amazon.com/fr/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Consulter des informations complètes sur vos coûts et votre utilisation |
+| [Rapports sur les instances réservées](https://aws.amazon.com/fr/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Bénéficier d'un meilleur contrôle sur vos instances réservées (RI) |
+| [Savings Plans](https://aws.amazon.com/fr/savingsplans/?hp=tile&so-exp=below) | Économisez jusqu'à 72 % sur l'utilisation de nos solutions de calcul grâce à une tarification flexible |
 | [Amazon EC2](https://aws.amazon.com/fr/ec2/?hp=tile&so-exp=below) | Serveurs virtuels dans le cloud |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/fr/ec2/autoscaling/?hp=tile&so-exp=below) | Mettre à l'échelle la capacité de calcul pour répondre à la demande |
 | [Amazon Lightsail](https://aws.amazon.com/fr/lightsail/?hp=tile&so-exp=below) | Lancement et gestion de serveurs privés virtuels |
@@ -58,7 +58,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/fr/vmware/?hp=tile&so-exp=below) | Développer un cloud hybride sans matériel spécifique |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/fr/ecr/?hp=tile&so-exp=below) | Stockage, gestion et déploiement facile des images de conteneur |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/fr/ecs/?hp=tile&so-exp=below) | Un moyen très sûr, fiable et évolutif d'exécuter des conteneurs  |
-| [Amazon ECS Anywhere](https://aws.amazon.com/fr/ecs/anywhere/?hp=tile&so-exp=below) | Exécuter des conteneurs sur une infrastructure géré par le client |
+| [Amazon ECS Anywhere](https://aws.amazon.com/fr/ecs/anywhere/?hp=tile&so-exp=below) | Exécution de conteneurs sur une infrastructure gérée par le client |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/fr/eks/?hp=tile&so-exp=below) | La méthode la plus sûre d'exécuter Kubernetes |
 | [Amazon EKS Anywhere (bientôt disponible)](https://aws.amazon.com/fr/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes sur votre infrastructure |
 | [Amazon EKS Distro](https://aws.amazon.com/fr/eks/eks-distro/?hp=tile&so-exp=below) | Exécuter des clusters Kubernetes cohérents |
@@ -105,8 +105,8 @@
 | [Amazon WorkLink](https://aws.amazon.com/fr/worklink/?hp=tile&so-exp=below) | Autoriser l’accès mobile aux sites web internes |
 | [AWS Amplify](https://aws.amazon.com/fr/amplify/?hp=tile&so-exp=below) | Créer et déployer des applications mobiles et Web |
 | [Amazon API Gateway](https://aws.amazon.com/fr/api-gateway/?hp=tile&so-exp=below) | Création, déploiement et gestion des API |
-| [Amazon Location Service (version préliminaire)](https://aws.amazon.com/fr/location/?hp=tile&so-exp=below) | Ajouter facilement et en toute sécurité des données de localisation aux applications |
-| [Amazon Pinpoint](https://aws.amazon.com/fr/pinpoint/?hp=tile&so-exp=below) | Engagement personnalisé de l'utilisateur à travers les canaux de distribution |
+| [Amazon Location Service](https://aws.amazon.com/fr/location/?hp=tile&so-exp=below) | Ajouter facilement et en toute sécurité des données de localisation aux applications |
+| [Amazon Pinpoint](https://aws.amazon.com/fr/pinpoint/?hp=tile&so-exp=below) | Engagement personnalisé de l'utilisateur à travers les canaux |
 | [AWS AppSync](https://aws.amazon.com/fr/appsync/?hp=tile&so-exp=below) | Optimiser vos applications avec les données adéquates provenant de nombreuses sources, à grande échelle |
 | [AWS Device Farm](https://aws.amazon.com/fr/device-farm/?hp=tile&so-exp=below) | Test de vos applications Android, iOS et web sur de véritables appareils dans le cloud AWS |
 | [Amazon GameLift](https://aws.amazon.com/fr/gamelift/?hp=tile&so-exp=below) | Hébergement de serveur de jeu dédié économique, rapide et simple |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/fr/opsworks/?hp=tile&so-exp=below) | Automatisations des opérations grâce à Chef et Puppet |
 | [AWS Organizations](https://aws.amazon.com/fr/organizations/?hp=tile&so-exp=below) | Gouvernance et gestion centralisées de comptes AWS |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/fr/premiumsupport/phd/?hp=tile&so-exp=below) | Affichage personnalisé de l'état des services AWS |
-| [AWS Proton (version préliminaire)](https://aws.amazon.com/fr/proton/?hp=tile&so-exp=below) | Gestion automatisée pour le déploiement sans serveur et les conteneurs |
+| [AWS Proton](https://aws.amazon.com/fr/proton/?hp=tile&so-exp=below) | Gestion automatisée pour les déploiements sans conteneurs et sans serveur |
 | [AWS Service Catalog](https://aws.amazon.com/fr/servicecatalog/?hp=tile&so-exp=below) | Créer et utiliser des produits standardisés |
 | [AWS Systems Manager](https://aws.amazon.com/fr/systems-manager/?hp=tile&so-exp=below) | Obtenir des connaissances opérationnelles et prendre des mesures |
 | [AWS Trusted Advisor](https://aws.amazon.com/fr/trustedadvisor/?hp=tile&so-exp=below) | Optimiser les performances et la sécurité |

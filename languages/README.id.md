@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/id/sns/?hp=tile&so-exp=below) | Pub/sub, SMS, email, dan pemberitahuan push mobile |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/id/sqs/?hp=tile&so-exp=below) | Antrean pesan terkelola |
 | [AWS AppSync](https://aws.amazon.com/id/appsync/?hp=tile&so-exp=below) | Dukung aplikasi Anda dengan data yang tepat dari banyak sumber dalam skala besar |
-| [AWS Cost Explorer](https://aws.amazon.com/id/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analisis biaya dan penggunaan AWS Anda |
-| [Anggaran AWS](https://aws.amazon.com/id/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Tetapkan biaya kustom dan anggaran penggunaan |
-| [Laporan Biaya dan Penggunaan AWS](https://aws.amazon.com/id/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Akses informasi biaya dan penggunaan yang komprehensif |
-| [Pelaporan Instans Cadangan](https://aws.amazon.com/id/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Pelajari lebih dalam tentang instans cadangan (RI) Anda |
-| [Savings Plans](https://aws.amazon.com/id/savingsplans/?hp=tile&so-exp=below) | Hemat hingga 72% untuk penggunaan komputasi dengan harga yang fleksibel |
 | [Amazon Managed Blockchain](https://aws.amazon.com/id/managed-blockchain/?hp=tile&so-exp=below) | Buat dan kelola jaringan blokchain yang dapat diskalakan |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/id/qldb/?hp=tile&so-exp=below) | Database ledger yang dikelola sepenuhnya |
 | [Alexa for Business](https://aws.amazon.com/id/alexaforbusiness/?hp=tile&so-exp=below) | Berdayakan organisasi Anda dengan Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Build aplikasi seluler & web tanpa pemrograman |
 | [Amazon WorkDocs](https://aws.amazon.com/id/workdocs/?hp=tile&so-exp=below) | Mengamankan penyimpanan dan berbagi dokumen perusahaan |
 | [Amazon WorkMail](https://aws.amazon.com/id/workmail/?hp=tile&so-exp=below) | Mengamankan pengaturan kalender dan email |
+| [AWS Cost Explorer](https://aws.amazon.com/id/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analisis biaya dan penggunaan AWS Anda |
+| [Anggaran AWS](https://aws.amazon.com/id/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Tetapkan biaya kustom dan anggaran penggunaan |
+| [Laporan Biaya dan Penggunaan AWS](https://aws.amazon.com/id/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Akses informasi biaya dan penggunaan yang komprehensif |
+| [Pelaporan Instans Cadangan](https://aws.amazon.com/id/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Pelajari lebih dalam tentang instans cadangan (RI) Anda |
+| [Savings Plans](https://aws.amazon.com/id/savingsplans/?hp=tile&so-exp=below) | Hemat hingga 72% untuk penggunaan komputasi dengan harga yang fleksibel |
 | [Amazon EC2](https://aws.amazon.com/id/ec2/?hp=tile&so-exp=below) | Server virtual di cloud |
 | [Auto Scaling Amazon EC2](https://aws.amazon.com/id/ec2/autoscaling/?hp=tile&so-exp=below) | Menskalakan kapasitas komputasi untuk memenuhi kebutuhan |
 | [Amazon Lightsail](https://aws.amazon.com/id/lightsail/?hp=tile&so-exp=below) | Meluncurkan dan mengelola server pribadi virtual |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/id/worklink/?hp=tile&so-exp=below) | Aktifkan akses seluler ke situs web internal |
 | [AWS Amplify](https://aws.amazon.com/id/amplify/?hp=tile&so-exp=below) | Bangun dan terapkan aplikasi seluler serta web |
 | [Amazon API Gateway](https://aws.amazon.com/id/api-gateway/?hp=tile&so-exp=below) | Mem-build, men-deploy, dan mengelola API |
-| [Layanan Lokasi Amazon (Pratinjau)](https://aws.amazon.com/id/location/?hp=tile&so-exp=below) | Menambahkan data lokasi ke aplikasi dengan aman dan mudah |
+| [Amazon Location Service](https://aws.amazon.com/id/location/?hp=tile&so-exp=below) | Menambahkan data lokasi ke aplikasi dengan aman dan mudah |
 | [Amazon Pinpoint](https://aws.amazon.com/id/pinpoint/?hp=tile&so-exp=below) | Keterlibatan pengguna secara pribadi di seluruh saluran |
 | [AWS AppSync](https://aws.amazon.com/id/appsync/?hp=tile&so-exp=below) | Dukung aplikasi Anda dengan data yang tepat dari banyak sumber dalam skala besar |
 | [AWS Device Farm](https://aws.amazon.com/id/device-farm/?hp=tile&so-exp=below) | Menguji aplikasi Android, iOS, dan web pada perangkat sesungguhnya di AWS Cloud |
@@ -168,15 +168,15 @@
 | [AWS Console Mobile Application](https://aws.amazon.com/id/console/mobile/?hp=tile&so-exp=below) | Akses sumber daya di mana saja |
 | [AWS Distro for OpenTelemetry (Pratinjau)](https://aws.amazon.com/id/otel/?hp=tile&so-exp=below) | Mengumpulkan metrik dan jejak yang berhubungan |
 | [AWS License Manager](https://aws.amazon.com/id/license-manager/?hp=tile&so-exp=below) | Lacak, kelola, dan kontrol lisensi |
-| [Konsol Manajemen AWS](https://aws.amazon.com/id/console/?hp=tile&so-exp=below) | Antarmuka pengguna berbasis web |
+| [AWS Management Console](https://aws.amazon.com/id/console/?hp=tile&so-exp=below) | Antarmuka pengguna berbasis web |
 | [AWS Managed Services](https://aws.amazon.com/id/managed-services/?hp=tile&so-exp=below) | Pengelolaan pengoperasian infrastruktur untuk AWS |
 | [Amazon Managed Service for Grafana (Pratinjau)](https://aws.amazon.com/id/grafana/?hp=tile&so-exp=below) | Visualisasi data interaktif yang tangguh |
 | [Amazon Managed Service for Prometheus (Pratinjau)](https://aws.amazon.com/id/prometheus/?hp=tile&so-exp=below) | Pemantauan dengan ketersediaan yang sangat baik dan aman untuk kontainer |
 | [AWS OpsWorks](https://aws.amazon.com/id/opsworks/?hp=tile&so-exp=below) | Mengotomatiskan pengoperasian dengan Chef and Puppet |
 | [AWS Organizations](https://aws.amazon.com/id/organizations/?hp=tile&so-exp=below) | Tata kelola dan manajemen pusat di seluruh akun AWS |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/id/premiumsupport/phd/?hp=tile&so-exp=below) | Tampilan yang dipersonalisasi dari kesehatan layanan AWS |
-| [AWS Proton (Pratinjau)](https://aws.amazon.com/id/proton/?hp=tile&so-exp=below) | Manajemen otomatis untuk deployment container dan tanpa server |
-| [AWS Service Catalog](https://aws.amazon.com/id/servicecatalog/?hp=tile&so-exp=below) | Buat dan gunakan produk yang distandardisasi |
+| [AWS Proton](https://aws.amazon.com/id/proton/?hp=tile&so-exp=below) | Manajemen otomatis untuk penerapan kontainer dan tanpa server |
+| [AWS Service Catalog](https://aws.amazon.com/id/servicecatalog/?hp=tile&so-exp=below) | Membuat dan menggunakan produk yang distandardisasi |
 | [AWS Systems Manager](https://aws.amazon.com/id/systems-manager/?hp=tile&so-exp=below) | Mendapatkan wawasan operasional dan mengambil tindakan |
 | [AWS Trusted Advisor](https://aws.amazon.com/id/trustedadvisor/?hp=tile&so-exp=below) | Mengoptimalkan kinerja dan keamanan |
 | [AWS Well-Architected Tool](https://aws.amazon.com/id/well-architected-tool/?hp=tile&so-exp=below) | Meninjau dan meningkatkan beban kerja |
@@ -247,7 +247,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/id/s3/?hp=tile&so-exp=below) | Penyimpanan yang dapat diskalakan di cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/id/ebs/?hp=tile&so-exp=below) | Volume penyimpanan blok EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/id/efs/?hp=tile&so-exp=below) | Sistem file yang dikelola sepenuhnya untuk EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/id/fsx/lustre/?hp=tile&so-exp=below) | Sistem file berkinerja tinggi terintegrasi dengan S3 |
+| [Amazon FSx untuk Lustre](https://aws.amazon.com/id/fsx/lustre/?hp=tile&so-exp=below) | Sistem file berkinerja tinggi terintegrasi dengan S3 |
 | [Amazon FSx for Windows File Server](https://aws.amazon.com/id/fsx/windows/?hp=tile&so-exp=below) | Sistem file native Windows yang dikelola sepenuhnya |
 | [Amazon S3 Glacier](https://aws.amazon.com/id/glacier/?hp=tile&so-exp=below) | Penyimpanan arsip biaya terjangkau di cloud |
 | [AWS Backup](https://aws.amazon.com/id/backup/?hp=tile&so-exp=below) | Pencadangan terpusat di seluruh layanan AWS |

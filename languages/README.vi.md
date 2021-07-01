@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/vi/sns/?hp=tile&so-exp=below) | Thông báo đẩy bằng cơ chế Pub/sub, SMS, email và di động |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/vi/sqs/?hp=tile&so-exp=below) | Hàng đợi tin nhắn được quản lý |
 | [AWS AppSync](https://aws.amazon.com/vi/appsync/?hp=tile&so-exp=below) | Tăng cường sức mạnh cho ứng dụng của bạn với dữ liệu phù hợp từ nhiều nguồn, trên quy mô lớn |
-| [AWS Cost Explorer](https://aws.amazon.com/vi/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Phân tích chi phí và lượng sử dụng AWS của bạn |
-| [AWS Budgets](https://aws.amazon.com/vi/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Thiết lập chi phí tùy chỉnh và ngân sách có thể sử dụng |
-| [Báo cáo chi phí và lượng sử dụng AWS](https://aws.amazon.com/vi/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Tiếp cận thông tin toàn diện về mặt chi phí và lượng sử dụng |
-| [Báo cáo phiên bản dự trữ](https://aws.amazon.com/vi/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Phân tích chuyên sâu phiên bản dự trữ (RI) |
-| [Savings Plans](https://aws.amazon.com/vi/savingsplans/?hp=tile&so-exp=below) | Tiết kiệm đến 72% cho mức sử dụng điện toán với mức giá linh hoạt |
 | [Amazon Managed Blockchain](https://aws.amazon.com/vi/managed-blockchain/?hp=tile&so-exp=below) | Tạo và quản lý mạng lưới blockchain có thể thay đổi quy mô |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/vi/qldb/?hp=tile&so-exp=below) | Cơ sở dữ liệu sổ cái được quản lý toàn phần |
 | [Alexa for Business](https://aws.amazon.com/vi/alexaforbusiness/?hp=tile&so-exp=below) | Trang bị Alexa để tiếp thêm sức mạnh cho tổ chức của bạn |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Xây dựng ứng dụng di động và web mà không cần lập trình |
 | [Amazon WorkDocs](https://aws.amazon.com/vi/workdocs/?hp=tile&so-exp=below) | Bảo mật việc lưu trữ và chia sẻ tài liệu của doanh nghiệp |
 | [Amazon WorkMail](https://aws.amazon.com/vi/workmail/?hp=tile&so-exp=below) | Bảo mật email và lịch |
+| [AWS Cost Explorer](https://aws.amazon.com/vi/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Phân tích chi phí và lượng sử dụng AWS của bạn |
+| [AWS Budgets](https://aws.amazon.com/vi/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Thiết lập chi phí tùy chỉnh và ngân sách có thể sử dụng |
+| [Báo cáo chi phí và lượng sử dụng AWS](https://aws.amazon.com/vi/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Tiếp cận thông tin toàn diện về mặt chi phí và lượng sử dụng |
+| [Báo cáo phiên bản dự trữ](https://aws.amazon.com/vi/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Phân tích chuyên sâu phiên bản dự trữ (RI) |
+| [Savings Plans](https://aws.amazon.com/vi/savingsplans/?hp=tile&so-exp=below) | Tiết kiệm đến 72% cho mức sử dụng điện toán với mức giá linh hoạt |
 | [Amazon EC2](https://aws.amazon.com/vi/ec2/?hp=tile&so-exp=below) | Máy chủ ảo trên đám mây |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/vi/ec2/autoscaling/?hp=tile&so-exp=below) | Thay đổi quy mô năng lực điện toán nhằm đáp ứng nhu cầu |
 | [Amazon Lightsail](https://aws.amazon.com/vi/lightsail/?hp=tile&so-exp=below) | Chạy và quản lý máy chủ riêng ảo |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/vi/worklink/?hp=tile&so-exp=below) | Cho phép truy cập di động vào các trang web nội bộ |
 | [AWS Amplify](https://aws.amazon.com/vi/amplify/?hp=tile&so-exp=below) | Dựng và triển khai ứng dụng di động và web |
 | [Amazon API Gateway](https://aws.amazon.com/vi/api-gateway/?hp=tile&so-exp=below) | Xây dựng, triển khai và quản lý API |
-| [Amazon Location Service (Bản xem trước)](https://aws.amazon.com/vi/location/?hp=tile&so-exp=below) | Dễ dàng thêm dữ liệu vị trí vào ứng dụng một cách bảo mật |
+| [Amazon Location Service](https://aws.amazon.com/vi/location/?hp=tile&so-exp=below) | Dễ dàng thêm dữ liệu vị trí vào ứng dụng một cách bảo mật |
 | [Amazon Pinpoint](https://aws.amazon.com/vi/pinpoint/?hp=tile&so-exp=below) | Tương tác người dùng cá nhân hóa trên nhiều kênh |
 | [AWS AppSync](https://aws.amazon.com/vi/appsync/?hp=tile&so-exp=below) | Tăng cường sức mạnh cho ứng dụng của bạn với dữ liệu phù hợp từ nhiều nguồn, trên quy mô lớn |
 | [AWS Device Farm](https://aws.amazon.com/vi/device-farm/?hp=tile&so-exp=below) | Chạy thử ứng dụng Android, iOS và web trên thiết bị thực trên đám mây AWS |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/vi/opsworks/?hp=tile&so-exp=below) | Tự động hóa hoạt động bằng Chef và Puppet |
 | [AWS Organizations](https://aws.amazon.com/vi/organizations/?hp=tile&so-exp=below) | Quản lý và quản trị tập trung trên các tài khoản AWS |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/vi/premiumsupport/phd/?hp=tile&so-exp=below) | Dạng xem cá nhân hóa tình trạng dịch vụ AWS |
-| [AWS Proton (Bản xem trước)](https://aws.amazon.com/vi/proton/?hp=tile&so-exp=below) | Quản lý tự động việc triển khai dịch vụ bộ chứa và phi máy chủ |
+| [AWS Proton](https://aws.amazon.com/vi/proton/?hp=tile&so-exp=below) | Quản lý tự động việc triển khai dịch vụ bộ chứa và phi máy chủ |
 | [AWS Service Catalog](https://aws.amazon.com/vi/servicecatalog/?hp=tile&so-exp=below) | Tạo và sử dụng các sản phẩm chuẩn hóa |
 | [AWS Systems Manager](https://aws.amazon.com/vi/systems-manager/?hp=tile&so-exp=below) | Thu thập thông tin chuyên sâu về hoạt động và thực hiện hành động |
 | [AWS Trusted Advisor](https://aws.amazon.com/vi/trustedadvisor/?hp=tile&so-exp=below) | Tối ưu hóa hiệu năng và bảo mật |

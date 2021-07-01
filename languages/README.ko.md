@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service(SNS)](https://aws.amazon.com/ko/sns/?hp=tile&so-exp=below) | pub/sub, SMS, 이메일 및 모바일 푸시 알림 |
 | [Amazon Simple Queue Service(SQS) ](https://aws.amazon.com/ko/sqs/?hp=tile&so-exp=below) | 관리형 메시지 대기열 |
 | [AWS AppSync](https://aws.amazon.com/ko/appsync/?hp=tile&so-exp=below) | 여러 원본의 적절한 데이터를 사용하여 대규모로 앱을 지원 |
-| [AWS Cost Explorer](https://aws.amazon.com/ko/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS 비용 및 사용량 분석 |
-| [AWS Budgets](https://aws.amazon.com/ko/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 사용자 지정 비용 및 사용 예산을 설정 |
-| [AWS 비용 및 사용 보고서](https://aws.amazon.com/ko/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 포괄적인 비용 및 사용량 정보에 액세스 |
-| [예약 인스턴스 보고](https://aws.amazon.com/ko/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 예약 인스턴스(RI) 심층 분석 |
-| [Savings Plans](https://aws.amazon.com/ko/savingsplans/?hp=tile&so-exp=below) | 유연한 요금으로 컴퓨팅 사용량에 따른 비용 72% 절감 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/ko/managed-blockchain/?hp=tile&so-exp=below) | 확장 가능한 블록체인 네트워크 생성 및 관리 |
 | [Amazon Quantum Ledger Database(QLDB)](https://aws.amazon.com/ko/qldb/?hp=tile&so-exp=below) | 완전관리형 원장 데이터베이스 |
 | [Alexa for Business](https://aws.amazon.com/ko/alexaforbusiness/?hp=tile&so-exp=below) | Alexa로 조직의 역량 강화 |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode(베타)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | 프로그래밍 없이 모바일 및 웹 앱 구축 |
 | [Amazon WorkDocs](https://aws.amazon.com/ko/workdocs/?hp=tile&so-exp=below) | 안전한 엔터프라이즈 문서 스토리지 및 공유 |
 | [Amazon WorkMail](https://aws.amazon.com/ko/workmail/?hp=tile&so-exp=below) | 안전한 이메일 및 일정 관리 |
+| [AWS Cost Explorer](https://aws.amazon.com/ko/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS 비용 및 사용량 분석 |
+| [AWS Budgets](https://aws.amazon.com/ko/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 사용자 지정 비용 및 사용 예산을 설정 |
+| [AWS 비용 및 사용 보고서](https://aws.amazon.com/ko/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 포괄적인 비용 및 사용량 정보에 액세스 |
+| [예약 인스턴스 보고](https://aws.amazon.com/ko/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 예약 인스턴스(RI) 심층 분석 |
+| [Savings Plans](https://aws.amazon.com/ko/savingsplans/?hp=tile&so-exp=below) | 유연한 요금으로 컴퓨팅 사용량에 따른 비용 72% 절감 |
 | [Amazon EC2](https://aws.amazon.com/ko/ec2/?hp=tile&so-exp=below) | 클라우드의 가상 서버 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ko/ec2/autoscaling/?hp=tile&so-exp=below) | 수요에 맞춰 컴퓨팅 용량 조정 |
 | [Amazon Lightsail](https://aws.amazon.com/ko/lightsail/?hp=tile&so-exp=below) | 가상 프라이빗 서버 시작 및 관리 |
@@ -105,8 +105,8 @@
 | [Amazon WorkLink](https://aws.amazon.com/ko/worklink/?hp=tile&so-exp=below) | 내부 웹 사이트에 대한 모바일 액세스 활성화 |
 | [AWS Amplify](https://aws.amazon.com/ko/amplify/?hp=tile&so-exp=below) | 모바일 및 웹 애플리케이션의 구축과 배포 |
 | [Amazon API Gateway](https://aws.amazon.com/ko/api-gateway/?hp=tile&so-exp=below) | API 빌드, 배포 및 관리 |
-| [Amazon Location Service(평가판)](https://aws.amazon.com/ko/location/?hp=tile&so-exp=below) | 애플리케이션에 쉽고 안전하게 위치 데이터 추가 |
-| [Amazon Pinpoint](https://aws.amazon.com/ko/pinpoint/?hp=tile&so-exp=below) | 채널 전체의 사용자 인게이지먼트 개인화 |
+| [Amazon Location Service](https://aws.amazon.com/ko/location/?hp=tile&so-exp=below) | 애플리케이션에 쉽고 안전하게 위치 데이터 추가 |
+| [Amazon Pinpoint](https://aws.amazon.com/ko/pinpoint/?hp=tile&so-exp=below) | 채널 전체에서 사용자 인게이지먼트 개인화 |
 | [AWS AppSync](https://aws.amazon.com/ko/appsync/?hp=tile&so-exp=below) | 여러 원본의 적절한 데이터를 사용하여 대규모로 앱을 지원 |
 | [AWS Device Farm](https://aws.amazon.com/ko/device-farm/?hp=tile&so-exp=below) | 실제 디바이스로 AWS 클라우드에서 Android, iOS 및 웹 앱 테스트 |
 | [Amazon GameLift](https://aws.amazon.com/ko/gamelift/?hp=tile&so-exp=below) | 간단하고 빠르며 비용 효율적인 전용 게임 서버 호스팅 |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/ko/opsworks/?hp=tile&so-exp=below) | Chef 및 Puppet을 사용하여 운영 자동화 |
 | [AWS Organizations](https://aws.amazon.com/ko/organizations/?hp=tile&so-exp=below) | AWS 계정 전체에 걸쳐 중앙 집중식 거버넌스 및 관리 |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/ko/premiumsupport/phd/?hp=tile&so-exp=below) | AWS 서비스 상태의 개인 맞춤형 보기 |
-| [AWS Proton(평가판)](https://aws.amazon.com/ko/proton/?hp=tile&so-exp=below) | 컨터이너 및 서비리스 배포의 자동화된 관리 |
+| [AWS Proton](https://aws.amazon.com/ko/proton/?hp=tile&so-exp=below) | 컨테이너 및 서버리스 배포의 자동화된 관리 |
 | [AWS Service Catalog](https://aws.amazon.com/ko/servicecatalog/?hp=tile&so-exp=below) | 표준화된 제품 생성 및 사용 |
 | [AWS Systems Manager](https://aws.amazon.com/ko/systems-manager/?hp=tile&so-exp=below) | 운영 인사이트 확보 및 조치 수행 |
 | [AWS Trusted Advisor](https://aws.amazon.com/ko/trustedadvisor/?hp=tile&so-exp=below) | 성능 및 보안 최적화 |

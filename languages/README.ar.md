@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/ar/sns/?hp=tile&so-exp=below) | إخطارات مؤقتة عبر الجوال والبريد الإلكتروني والرسائل النصية القصيرة وعبر أنظمة pub/sub |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/ar/sqs/?hp=tile&so-exp=below) | قوائم انتظار الرسائل المدارة |
 | [AWS AppSync](https://aws.amazon.com/ar/appsync/?hp=tile&so-exp=below) | زد من الإمكانيات المتاحة بتطبيقاتك من خلال توفير البيانات المناسبة المستمدة من العديد من المصادر على نطاق واسع |
-| [AWS Cost Explorer](https://aws.amazon.com/ar/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | حلّل تكلفة واستخدام AWS الخاصة بك |
-| [AWS Budgets](https://aws.amazon.com/ar/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | ضبط ميزانيات مخصصة للتكلفة والاستخدام |
-| [تقرير تكاليف واستخدام AWS](https://aws.amazon.com/ar/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | تمكّن من الوصول إلى معلومات التكلفة والاستخدام الشاملة |
-| [إعداد تقارير المثيلات المحجوزة](https://aws.amazon.com/ar/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | تعمّق داخل المثيلات المحجوزة (RIs) الخاصة بك |
-| [Savings Plans](https://aws.amazon.com/ar/savingsplans/?hp=tile&so-exp=below) | وفّر ما يصل إلى 72% على استخدام الحوسبة مع التسعير المرن |
 | [Amazon Managed Blockchain](https://aws.amazon.com/ar/managed-blockchain/?hp=tile&so-exp=below) | أنشئ شبكات سلسلة كتل قابلة للتوسُّع وأدرّها |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/ar/qldb/?hp=tile&so-exp=below) | قاعدة بيانات سجل حسابات مُدارة بالكامل |
 | [Alexa for Business](https://aws.amazon.com/ar/alexaforbusiness/?hp=tile&so-exp=below) | ادعم مؤسستك باستخدام Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (تجريبي)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | ابنِ تطبيقات الموبايل والويب دون برمجة |
 | [Amazon WorkDocs](https://aws.amazon.com/ar/workdocs/?hp=tile&so-exp=below) | بادر بتأمين تخزين مستندات المؤسسات ومشاركتها |
 | [Amazon WorkMail](https://aws.amazon.com/ar/workmail/?hp=tile&so-exp=below) | البريد الإلكتروني الآمن والتقويم |
+| [AWS Cost Explorer](https://aws.amazon.com/ar/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | حلّل تكلفة واستخدام AWS الخاصة بك |
+| [AWS Budgets](https://aws.amazon.com/ar/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | ضبط ميزانيات مخصصة للتكلفة والاستخدام |
+| [تقرير تكاليف واستخدام AWS](https://aws.amazon.com/ar/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | تمكّن من الوصول إلى معلومات التكلفة والاستخدام الشاملة |
+| [إعداد تقارير المثيلات المحجوزة](https://aws.amazon.com/ar/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | تعمّق داخل المثيلات المحجوزة (RIs) الخاصة بك |
+| [Savings Plans](https://aws.amazon.com/ar/savingsplans/?hp=tile&so-exp=below) | وفّر ما يصل إلى 72% على استخدام الحوسبة مع التسعير المرن |
 | [Amazon EC2](https://aws.amazon.com/ar/ec2/?hp=tile&so-exp=below) | الخوادم الافتراضية في السحابة |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/ar/ec2/autoscaling/?hp=tile&so-exp=below) | طوّر سعة الحوسبة لتلبية المتطلبات |
 | [Amazon Lightsail](https://aws.amazon.com/ar/lightsail/?hp=tile&so-exp=below) | أطلق الخوادم الخاصة الافتراضية وأَدرّها |
@@ -59,7 +59,7 @@
 | [Amazon Elastic Container Registry](https://aws.amazon.com/ar/ecr/?hp=tile&so-exp=below) | يمكنك بسهولة تخزين صور الحاوية وإدارتها وتوزيعها |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ar/ecs/?hp=tile&so-exp=below) | أسلوب تشغيل حاويات يتسم بشدة الأمان والموثوقية وقابلية التوسع  |
 | [Amazon ECS Anywhere](https://aws.amazon.com/ar/ecs/anywhere/?hp=tile&so-exp=below) | تشغيل الحاويات على البنية التحتية التي يديرها العميل |
-| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ar/eks/?hp=tile&so-exp=below) | أكثر طريقة جديرة بالثقة لتشغيل Kubernetes |
+| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ar/eks/?hp=tile&so-exp=below) | الطريقة الموثوقة والآمنة لتشغيل Kubernetes |
 | [Amazon EKS Anywhere (تتوفر قريبًا)](https://aws.amazon.com/ar/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes على بنيتك الأساسية |
 | [Amazon EKS Distro](https://aws.amazon.com/ar/eks/eks-distro/?hp=tile&so-exp=below) | تشغيل مجموعات Kubernetes متسقة |
 | [AWS App2Container](https://aws.amazon.com/ar/app2container/?hp=tile&so-exp=below) | وضع التطبيقات الحالية في حاويات وترحيلها |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/ar/worklink/?hp=tile&so-exp=below) | تمكين وصول الهاتف المحمول لمواقع الويب الداخلية |
 | [AWS Amplify](https://aws.amazon.com/ar/amplify/?hp=tile&so-exp=below) | طوّر تطبيقات الهاتف المحمول والويب وانشرها |
 | [Amazon API Gateway](https://aws.amazon.com/ar/api-gateway/?hp=tile&so-exp=below) | أنشئ واجهات برمجة التطبيقات ووزعّها وأدرّها |
-| [Amazon Location Service (معاينة)](https://aws.amazon.com/ar/location/?hp=tile&so-exp=below) | أضِف بيانات الموقع إلى التطبيقات بطريقة سهلة وآمنة |
+| [Amazon Location Service](https://aws.amazon.com/ar/location/?hp=tile&so-exp=below) | أضِف بيانات الموقع إلى التطبيقات بطريقة سهلة وآمنة |
 | [Amazon Pinpoint](https://aws.amazon.com/ar/pinpoint/?hp=tile&so-exp=below) | تفاعل المستخدمين المخصص عبر القنوات |
 | [AWS AppSync](https://aws.amazon.com/ar/appsync/?hp=tile&so-exp=below) | زد من الإمكانيات المتاحة بتطبيقاتك من خلال توفير البيانات المناسبة المستمدة من العديد من المصادر على نطاق واسع |
 | [AWS Device Farm](https://aws.amazon.com/ar/device-farm/?hp=tile&so-exp=below) | اختبار تطبيقات Android وiOS وتطبيقات الويب على الأجهزة الحقيقية في سحابة AWS |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/ar/opsworks/?hp=tile&so-exp=below) | أتمتة العمليات مع Chef وPuppet |
 | [AWS Organizations](https://aws.amazon.com/ar/organizations/?hp=tile&so-exp=below) | الحوكمة والإدارة المركزية عبر حسابات AWS |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/ar/premiumsupport/phd/?hp=tile&so-exp=below) | عرض مخصص لسلامة الخدمة لدى AWS |
-| [AWS Proton (معاينة)](https://aws.amazon.com/ar/proton/?hp=tile&so-exp=below) | إدارة مؤتمتة لنشر الحاويات والنشر بلا خوادم |
+| [AWS Proton](https://aws.amazon.com/ar/proton/?hp=tile&so-exp=below) | إدارة مؤتمتة لنشر الحاويات والنشر بلا خوادم |
 | [AWS Service Catalog](https://aws.amazon.com/ar/servicecatalog/?hp=tile&so-exp=below) | أنشئ منتجات موحدة واستخدمها |
 | [AWS Systems Manager](https://aws.amazon.com/ar/systems-manager/?hp=tile&so-exp=below) | اكتسب الرؤى التشغيلية واتخذ الإجراءات |
 | [AWS Trusted Advisor](https://aws.amazon.com/ar/trustedadvisor/?hp=tile&so-exp=below) | حسّن الأداء والأمان |

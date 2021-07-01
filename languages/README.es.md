@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/es/sns/?hp=tile&so-exp=below) | Notificaciones push móviles, correo electrónico, SMS y mensajería de publicación/suscripción |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/es/sqs/?hp=tile&so-exp=below) | Colas de mensajes administradas |
 | [AWS AppSync](https://aws.amazon.com/es/appsync/?hp=tile&so-exp=below) | Utilice los datos adecuados de múltiples orígenes para impulsar sus aplicaciones a escala |
-| [AWS Cost Explorer](https://aws.amazon.com/es/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analice el uso y el costo de AWS |
-| [AWS Budgets](https://aws.amazon.com/es/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Defina presupuestos personalizados del uso y el costo |
-| [Informe de uso y costo de AWS](https://aws.amazon.com/es/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Obtenga acceso a información detallada de costo y uso |
-| [Informes de instancias reservadas](https://aws.amazon.com/es/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Conozca a fondo sus instancias reservadas (RI) |
-| [Savings Plans](https://aws.amazon.com/es/savingsplans/?hp=tile&so-exp=below) | Ahorre hasta un 72 % en el uso de recursos informáticos con precios flexibles |
 | [Amazon Managed Blockchain](https://aws.amazon.com/es/managed-blockchain/?hp=tile&so-exp=below) | Cree y administre redes de cadenas de bloques escalables |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/es/qldb/?hp=tile&so-exp=below) | Base de datos de libro mayor completamente administrada |
 | [Alexa for Business](https://aws.amazon.com/es/alexaforbusiness/?hp=tile&so-exp=below) | Otorgue mayor capacidad a su organización con Alexa |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Cree aplicaciones web y móviles sin programar |
 | [Amazon WorkDocs](https://aws.amazon.com/es/workdocs/?hp=tile&so-exp=below) | Proteja el almacenamiento y el uso compartido de documentos en empresas |
 | [Amazon WorkMail](https://aws.amazon.com/es/workmail/?hp=tile&so-exp=below) | Correo electrónico y calendario seguros |
+| [AWS Cost Explorer](https://aws.amazon.com/es/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | Analice el uso y el coste de AWS |
+| [AWS Budgets](https://aws.amazon.com/es/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Defina presupuestos personalizados del uso y el costo |
+| [Informe de uso y costo de AWS](https://aws.amazon.com/es/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Obtenga acceso a información detallada de costo y uso |
+| [Informes de instancias reservadas](https://aws.amazon.com/es/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Conozca a fondo sus instancias reservadas (RI) |
+| [Savings Plans](https://aws.amazon.com/es/savingsplans/?hp=tile&so-exp=below) | Ahorre hasta un 72 % en el uso de recursos informáticos con precios flexibles |
 | [Amazon EC2](https://aws.amazon.com/es/ec2/?hp=tile&so-exp=below) | Servidores virtuales en la nube |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/es/ec2/autoscaling/?hp=tile&so-exp=below) | Ajuste la capacidad informática para adaptarse a los niveles de la demanda |
 | [Amazon Lightsail](https://aws.amazon.com/es/lightsail/?hp=tile&so-exp=below) | Lance y administre servidores privados virtuales |
@@ -58,7 +58,7 @@
 | [VMware Cloud on AWS](https://aws.amazon.com/es/vmware/?hp=tile&so-exp=below) | Cree una nube híbrida sin hardware personalizado |
 | [Amazon Elastic Container Registry](https://aws.amazon.com/es/ecr/?hp=tile&so-exp=below) | Almacene, administre e implemente de forma sencilla imágenes de contenedores |
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/es/ecs/?hp=tile&so-exp=below) | Una manera muy segura, confiable y escalable de ejecutar contenedores  |
-| [Amazon ECS Anywhere](https://aws.amazon.com/es/ecs/anywhere/?hp=tile&so-exp=below) | Ejecute contenedores en infraestructura administrada por el cliente |
+| [Amazon ECS Anywhere](https://aws.amazon.com/es/ecs/anywhere/?hp=tile&so-exp=below) | Ejecute contenedores en la infraestructura administrada por el cliente |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/es/eks/?hp=tile&so-exp=below) | El modo más confiable de ejecutar Kubernetes |
 | [Amazon EKS Anywhere (Próximamente)](https://aws.amazon.com/es/eks/eks-anywhere/?hp=tile&so-exp=below) | Kubernetes en su infraestructura. |
 | [Amazon EKS Distro](https://aws.amazon.com/es/eks/eks-distro/?hp=tile&so-exp=below) | Ejecute clústeres de Kubernetes de manera uniforme |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/es/worklink/?hp=tile&so-exp=below) | Habilite el acceso mediante teléfonos móviles a sitios web internos |
 | [AWS Amplify](https://aws.amazon.com/es/amplify/?hp=tile&so-exp=below) | Cree e implemente aplicaciones web y móviles |
 | [Amazon API Gateway](https://aws.amazon.com/es/api-gateway/?hp=tile&so-exp=below) | Cree, implemente y administre las API |
-| [Amazon Location Service (versión preliminar)](https://aws.amazon.com/es/location/?hp=tile&so-exp=below) | Agregue datos de ubicación a las aplicaciones de forma segura y sencilla |
+| [Amazon Location Service](https://aws.amazon.com/es/location/?hp=tile&so-exp=below) | Agregue datos de ubicación a las aplicaciones de forma segura y sencilla |
 | [Amazon Pinpoint](https://aws.amazon.com/es/pinpoint/?hp=tile&so-exp=below) | Interacción personalizada con usuarios mediante diferentes canales |
 | [AWS AppSync](https://aws.amazon.com/es/appsync/?hp=tile&so-exp=below) | Utilice los datos adecuados de múltiples orígenes para impulsar sus aplicaciones a escala |
 | [AWS Device Farm](https://aws.amazon.com/es/device-farm/?hp=tile&so-exp=below) | Pruebe aplicaciones web, para Android e iOS en dispositivos reales en la nube de AWS |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/es/opsworks/?hp=tile&so-exp=below) | Automatice operaciones con Chef y Puppet |
 | [AWS Organizations](https://aws.amazon.com/es/organizations/?hp=tile&so-exp=below) | Gobernanza y administración centralizadas en cuentas de AWS |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/es/premiumsupport/phd/?hp=tile&so-exp=below) | Vista personalizada del estado del servicio de AWS |
-| [AWS Proton (Versión preliminar)](https://aws.amazon.com/es/proton/?hp=tile&so-exp=below) | Administración automatizada para la implementación de contenedores y tecnologías sin servidor |
+| [AWS Proton](https://aws.amazon.com/es/proton/?hp=tile&so-exp=below) | Administración automatizada para la implementación de contenedores y tecnologías sin servidor |
 | [AWS Service Catalog](https://aws.amazon.com/es/servicecatalog/?hp=tile&so-exp=below) | Cree y utilice productos estandarizados |
 | [AWS Systems Manager](https://aws.amazon.com/es/systems-manager/?hp=tile&so-exp=below) | Adquiera conocimientos de operaciones e impleméntelos |
 | [AWS Trusted Advisor](https://aws.amazon.com/es/trustedadvisor/?hp=tile&so-exp=below) | Optimice el rendimiento y la seguridad |

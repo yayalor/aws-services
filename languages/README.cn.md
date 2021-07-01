@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/cn/sns/?hp=tile&so-exp=below) | 发布/订阅短信、电子邮件和移动推送通知 |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/cn/sqs/?hp=tile&so-exp=below) | 托管型消息队列 |
 | [AWS AppSync](https://aws.amazon.com/cn/appsync/?hp=tile&so-exp=below) | 使用多个来源的恰当数据，为您的应用程序提供大规模支持 |
-| [AWS Cost Explorer](https://aws.amazon.com/cn/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | 分析您的 AWS 成本和使用率 |
-| [AWS 预算](https://aws.amazon.com/cn/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 设置自定义成本和使用率预算 |
-| [AWS 成本和使用情况报告](https://aws.amazon.com/cn/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 获取全面的成本和使用率信息 |
-| [预留实例报告](https://aws.amazon.com/cn/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 深入了解您的预留实例 (RI) |
-| [Savings Plans](https://aws.amazon.com/cn/savingsplans/?hp=tile&so-exp=below) | 使用灵活的定价，最多可节省 72% 的计算使用量 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/cn/managed-blockchain/?hp=tile&so-exp=below) | 创建并管理可扩展的区块链网络 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/cn/qldb/?hp=tile&so-exp=below) | 完全托管型分类账数据库 |
 | [Alexa for Business](https://aws.amazon.com/cn/alexaforbusiness/?hp=tile&so-exp=below) | 使用 Alexa 为贵组织赋能 |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode（测试版）](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | 构建移动应用程序和 Web 应用程序而无需编程 |
 | [Amazon WorkDocs](https://aws.amazon.com/cn/workdocs/?hp=tile&so-exp=below) | 安全的企业文档存储和共享 |
 | [Amazon WorkMail](https://aws.amazon.com/cn/workmail/?hp=tile&so-exp=below) | 安全的电子邮件和日程编排 |
+| [AWS Cost Explorer](https://aws.amazon.com/cn/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | 分析您的 AWS 成本和使用率 |
+| [AWS 预算](https://aws.amazon.com/cn/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | 设置自定义成本和使用率预算 |
+| [AWS 成本和使用情况报告](https://aws.amazon.com/cn/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 获取全面的成本和使用率信息 |
+| [预留实例报告](https://aws.amazon.com/cn/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | 深入了解您的预留实例 (RI) |
+| [Savings Plans](https://aws.amazon.com/cn/savingsplans/?hp=tile&so-exp=below) | 使用灵活的定价，最多可节省 72% 的计算使用量 |
 | [Amazon EC2](https://aws.amazon.com/cn/ec2/?hp=tile&so-exp=below) | 云端虚拟服务器 |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/cn/ec2/autoscaling/?hp=tile&so-exp=below) | 扩展计算能力以满足需求 |
 | [Amazon Lightsail](https://aws.amazon.com/cn/lightsail/?hp=tile&so-exp=below) | 启动并管理虚拟专有服务器 |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/cn/worklink/?hp=tile&so-exp=below) | 支持移动访问内部网站 |
 | [AWS Amplify](https://aws.amazon.com/cn/amplify/?hp=tile&so-exp=below) | 构建和部署移动和 Web 应用程序 |
 | [Amazon API Gateway](https://aws.amazon.com/cn/api-gateway/?hp=tile&so-exp=below) | 构建、部署和管理 API |
-| [Amazon Location Service（预览版）](https://aws.amazon.com/cn/location/?hp=tile&so-exp=below) | 安全且轻松地向应用程序添加位置数据 |
+| [Amazon Location Service](https://aws.amazon.com/cn/location/?hp=tile&so-exp=below) | 安全且轻松地向应用程序添加位置数据 |
 | [Amazon Pinpoint](https://aws.amazon.com/cn/pinpoint/?hp=tile&so-exp=below) | 各渠道间的个性化用户参与度 |
 | [AWS AppSync](https://aws.amazon.com/cn/appsync/?hp=tile&so-exp=below) | 使用多个来源的恰当数据，为您的应用程序提供大规模支持 |
 | [AWS Device Farm](https://aws.amazon.com/cn/device-farm/?hp=tile&so-exp=below) | 使用真实设备，在 AWS 云中测试 Android、iOS 和 Web 应用程序 |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/cn/opsworks/?hp=tile&so-exp=below) | 利用 Chef 和 Puppet 实现操作自动化 |
 | [AWS Organizations](https://aws.amazon.com/cn/organizations/?hp=tile&so-exp=below) | 集中管控所有 AWS 账户 |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/cn/premiumsupport/phd/?hp=tile&so-exp=below) | AWS 服务运行状况的个性化视图 |
-| [AWS Proton（预览版）](https://aws.amazon.com/cn/proton/?hp=tile&so-exp=below) | 自动化的容器和无服务器部署管理 |
+| [AWS Proton](https://aws.amazon.com/cn/proton/?hp=tile&so-exp=below) | 自动化的容器和无服务器部署管理 |
 | [AWS Service Catalog](https://aws.amazon.com/cn/servicecatalog/?hp=tile&so-exp=below) | 创建和使用标准化产品 |
 | [AWS Systems Manager](https://aws.amazon.com/cn/systems-manager/?hp=tile&so-exp=below) | 了解运行状况并采取相应措施 |
 | [AWS Trusted Advisor](https://aws.amazon.com/cn/trustedadvisor/?hp=tile&so-exp=below) | 优化性能和安全性 |

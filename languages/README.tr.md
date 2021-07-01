@@ -32,11 +32,6 @@
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/tr/sns/?hp=tile&so-exp=below) | Pub/sub, SMS, e-posta ve mobil anlık bildirimler |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/tr/sqs/?hp=tile&so-exp=below) | Yönetilen ileti kuyrukları |
 | [AWS AppSync](https://aws.amazon.com/tr/appsync/?hp=tile&so-exp=below) | Uygulamalarınızı, birçok kaynaktan alınan, uygun ölçekteki doğru verilerle güçlendirin |
-| [AWS Cost Explorer](https://aws.amazon.com/tr/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS maliyetinizi ve kullanımınızı analiz edin |
-| [AWS Bütçeleri](https://aws.amazon.com/tr/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Özel maliyet ve kullanım bütçelerini belirleyin |
-| [AWS Maliyet ve Kullanım Raporu](https://aws.amazon.com/tr/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Kapsamlı maliyet ve kullanım bilgilerine erişin |
-| [Rezerve Edilmiş Bulut Sunucusu Raporlama](https://aws.amazon.com/tr/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Rezerve edilmiş bulut sunucularınızı (RI) daha ayrıntılı inceleyin |
-| [Savings Plans](https://aws.amazon.com/tr/savingsplans/?hp=tile&so-exp=below) | Esnek fiyatlandırma sayesinde işlem kullanımında %72'ye varan tasarruf edin |
 | [Amazon Managed Blockchain](https://aws.amazon.com/tr/managed-blockchain/?hp=tile&so-exp=below) | Ölçeklenebilir blok zinciri ağları oluşturun ve yönetin |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/tr/qldb/?hp=tile&so-exp=below) | Tam olarak yönetilen kayıt defteri veritabanı |
 | [Alexa for Business](https://aws.amazon.com/tr/alexaforbusiness/?hp=tile&so-exp=below) | Alexa ile kurumunuza güç katın |
@@ -44,6 +39,11 @@
 | [Amazon Honeycode (Beta)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | Programlamadan mobil ve web uygulamaları oluşturun |
 | [Amazon WorkDocs](https://aws.amazon.com/tr/workdocs/?hp=tile&so-exp=below) | Güvenli kurumsal belge depolama ve paylaşımı |
 | [Amazon WorkMail](https://aws.amazon.com/tr/workmail/?hp=tile&so-exp=below) | Güvenli e-posta ve takvim özellikleri |
+| [AWS Cost Explorer](https://aws.amazon.com/tr/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS maliyetinizi ve kullanımınızı analiz edin |
+| [AWS Bütçeleri](https://aws.amazon.com/tr/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | Özel maliyet ve kullanım bütçelerini belirleyin |
+| [AWS Maliyet ve Kullanım Raporu](https://aws.amazon.com/tr/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | Kapsamlı maliyet ve kullanım bilgilerine erişin |
+| [Rezerve Edilmiş Bulut Sunucusu Raporlama](https://aws.amazon.com/tr/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | Rezerve edilmiş bulut sunucularınızı (RI) daha ayrıntılı inceleyin |
+| [Savings Plans](https://aws.amazon.com/tr/savingsplans/?hp=tile&so-exp=below) | Esnek fiyatlandırma sayesinde işlem kullanımında %72'ye varan tasarruf edin |
 | [Amazon EC2](https://aws.amazon.com/tr/ec2/?hp=tile&so-exp=below) | Bulutta sanal sunucular |
 | [Amazon EC2 Auto Scaling](https://aws.amazon.com/tr/ec2/autoscaling/?hp=tile&so-exp=below) | İşlem kapasitesini talebi karşılayacak şekilde ölçeklendirme |
 | [Amazon Lightsail](https://aws.amazon.com/tr/lightsail/?hp=tile&so-exp=below) | Sanal özel sunucuları başlatma ve yönetme |
@@ -105,7 +105,7 @@
 | [Amazon WorkLink](https://aws.amazon.com/tr/worklink/?hp=tile&so-exp=below) | Dahili web sitelerine mobil erişimi etkinleştirin |
 | [AWS Amplify](https://aws.amazon.com/tr/amplify/?hp=tile&so-exp=below) | Mobil uygulamalar ve web uygulamaları oluşturup dağıtın |
 | [Amazon API Gateway](https://aws.amazon.com/tr/api-gateway/?hp=tile&so-exp=below) | API oluşturun, dağıtın ve yönetin |
-| [Amazon Location Service (Önizleme)](https://aws.amazon.com/tr/location/?hp=tile&so-exp=below) | Uygulamalarınıza güvenle ve kolayca konum verisi ekleyin |
+| [Amazon Location Service](https://aws.amazon.com/tr/location/?hp=tile&so-exp=below) | Uygulamalarınıza güvenle ve kolayca konum verisi ekleyin |
 | [Amazon Pinpoint](https://aws.amazon.com/tr/pinpoint/?hp=tile&so-exp=below) | Kanallar arasında kişiselleştirilmiş kullanıcı etkileşimi |
 | [AWS AppSync](https://aws.amazon.com/tr/appsync/?hp=tile&so-exp=below) | Uygulamalarınızı, birçok kaynaktan alınan, uygun ölçekteki doğru verilerle güçlendirin |
 | [AWS Device Farm](https://aws.amazon.com/tr/device-farm/?hp=tile&so-exp=below) | Android, iOS ve web uygulamalarını AWS Bulut'ta gerçek cihazlar üzerinde test edin |
@@ -175,7 +175,7 @@
 | [AWS OpsWorks](https://aws.amazon.com/tr/opsworks/?hp=tile&so-exp=below) | Chef ve Puppet ile operasyonları otomatikleştirin |
 | [AWS Organizations](https://aws.amazon.com/tr/organizations/?hp=tile&so-exp=below) | AWS hesaplarında merkezi idare ve yönetim |
 | [AWS Personal Health Dashboard](https://aws.amazon.com/tr/premiumsupport/phd/?hp=tile&so-exp=below) | AWS hizmet durumunun kişiselleştirilmiş görünümü |
-| [AWS Proton (Önizleme)](https://aws.amazon.com/tr/proton/?hp=tile&so-exp=below) | Container ve sunucusuz dağıtım için otomatikleştirilmiş yönetim |
+| [AWS Proton](https://aws.amazon.com/tr/proton/?hp=tile&so-exp=below) | Container ve sunucusuz dağıtım için otomatikleştirilmiş yönetim |
 | [AWS Service Catalog](https://aws.amazon.com/tr/servicecatalog/?hp=tile&so-exp=below) | Standartlaştırılmış ürünler oluşturun ve kullanın |
 | [AWS Systems Manager](https://aws.amazon.com/tr/systems-manager/?hp=tile&so-exp=below) | Operasyonel öngörüler edinme ve eyleme geçme |
 | [AWS Trusted Advisor](https://aws.amazon.com/tr/trustedadvisor/?hp=tile&so-exp=below) | Performansı ve güvenliği iyileştirme |
