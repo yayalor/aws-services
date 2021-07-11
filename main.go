@@ -2,11 +2,13 @@ package main
 
 import (
 	"errors"
-	"io/fs"
+	"flag"
 	"io/ioutil"
 	"log"
 	"os"
 	"strings"
+	"text/template"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -16,13 +18,37 @@ type TableRow struct {
 	Description string
 }
 
+type Options struct {
+	FlagSet  *flag.FlagSet
+	Output   string
+	Template string
+}
+
 const defaultLanguage = "en"
 
-var supportedLanguages = []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
+var (
+	supportedLanguages = []string{"ar", "cn", "de", "en", "es", "fr", "id", "it", "jp", "ko", "pt", "ru", "th", "tr", "tw", "vi"}
+	single             = false
+	options            Options
+)
+
+func init() {
+	flag.CommandLine.Init("aws-services", flag.ExitOnError)
+	options.FlagSet = flag.NewFlagSet("aws-services", flag.ExitOnError)
+	options.FlagSet.StringVar(&options.Output, "o", "README.md", "output path on single")
+	options.FlagSet.StringVar(&options.Template, "t", "", "template path on single")
+}
 
 func main() {
 	if len(os.Args) > 1 {
+		single = true
+		flag.Parse()
+		args := flag.Args()
+		options.FlagSet.Parse(args[1:])
 		arg := os.Args[1]
+		if err := checkTemplate(); err != nil {
+			log.Fatal(err)
+		}
 		if err := checkLanguageSupport(arg); err != nil {
 			log.Fatal(err)
 		}
@@ -36,6 +62,22 @@ func main() {
 			}
 		}
 	}
+}
+
+func checkTemplate() error {
+	path := options.Template
+	if path != "" {
+		if _, err := os.Stat(path); os.IsNotExist(err) {
+			errMsg := strings.Join([]string{path, ": no such file"}, "")
+			return errors.New(errMsg)
+		}
+	}
+	return nil
+}
+
+func isExistPath(path string) bool {
+	_, err := os.Stat(path)
+	return !os.IsNotExist(err)
 }
 
 func checkLanguageSupport(lang string) error {
@@ -100,7 +142,10 @@ func output(lang string, isDefault bool) error {
 	if err != nil {
 		return err
 	}
-	nav := getNav(isDefault)
+	var nav string
+	if !single {
+		nav = getNav(isDefault)
+	}
 	tableHeader := "| Service | Description |\n| --- | --- |\n"
 	tableContent := ""
 	for _, item := range items {
@@ -112,18 +157,41 @@ func output(lang string, isDefault bool) error {
 			return err
 		}
 	}
-	if isDefault {
-		if err := WriteFile("./README.md", []byte(res), 0644); err != nil {
-			return err
+	if isDefault || single {
+		out := "./README.md"
+		if single {
+			out = options.Output
+		}
+		if options.Template != "" {
+			type Template struct {
+				Content string
+				Date    string
+			}
+			var tp Template
+			tp.Content = res
+			tp.Date = time.Now().Format("2006/01/02")
+			tpl, err := template.ParseFiles(options.Template)
+			if err != nil {
+				return err
+			}
+			nf, err := os.Create(out)
+			if err != nil {
+				return err
+			}
+			defer nf.Close()
+			err = tpl.Execute(nf, tp)
+			if err != nil {
+				return err
+			}
+		} else {
+			if err := ioutil.WriteFile(out, []byte(res), 0644); err != nil {
+				return err
+			}
 		}
 	} else {
-		if err := WriteFile(strings.Join([]string{"./languages/README.", lang, ".md"}, ""), []byte(res), 0644); err != nil {
+		if err := ioutil.WriteFile(strings.Join([]string{"./languages/README.", lang, ".md"}, ""), []byte(res), 0644); err != nil {
 			return err
 		}
 	}
 	return err
-}
-
-func WriteFile(path string, data []byte, perm fs.FileMode) error {
-	return ioutil.WriteFile(path, data, perm)
 }

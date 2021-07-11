@@ -247,7 +247,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/id/s3/?hp=tile&so-exp=below) | Penyimpanan yang dapat diskalakan di cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/id/ebs/?hp=tile&so-exp=below) | Volume penyimpanan blok EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/id/efs/?hp=tile&so-exp=below) | Sistem file yang dikelola sepenuhnya untuk EC2 |
-| [Amazon FSx untuk Lustre](https://aws.amazon.com/id/fsx/lustre/?hp=tile&so-exp=below) | Sistem file berkinerja tinggi terintegrasi dengan S3 |
+| [Amazon FSx for Lustre](https://aws.amazon.com/id/fsx/lustre/?hp=tile&so-exp=below) | Sistem file berkinerja tinggi terintegrasi dengan S3 |
 | [Amazon FSx for Windows File Server](https://aws.amazon.com/id/fsx/windows/?hp=tile&so-exp=below) | Sistem file native Windows yang dikelola sepenuhnya |
 | [Amazon S3 Glacier](https://aws.amazon.com/id/glacier/?hp=tile&so-exp=below) | Penyimpanan arsip biaya terjangkau di cloud |
 | [AWS Backup](https://aws.amazon.com/id/backup/?hp=tile&so-exp=below) | Pencadangan terpusat di seluruh layanan AWS |

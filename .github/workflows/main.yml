@@ -1,11 +1,8 @@
+name: main
 on:
   schedule:
     - cron: "* * * * 1"
-  push:
-    branches:
-      - master
 
-name: Run
 jobs:
   runs:
     runs-on: ubuntu-20.04
