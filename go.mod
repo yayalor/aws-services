@@ -1,4 +1,4 @@
-module main
+module github.com/kis9a/aws-services
 
 go 1.16
 
