@@ -1,7 +1,10 @@
 name: main
 on:
+  push:
+    paths:
+      - ".github/workflows/main.yml"
   schedule:
-    - cron: "0 2 * * 1"
+    - cron: "0 13 * * 1"
 
 jobs:
   main:
