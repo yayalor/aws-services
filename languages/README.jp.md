@@ -2,251 +2,249 @@
 
 | Service | Description |
 | --- | --- |
-| [Amazon EC2](https://aws.amazon.com/jp/ec2/?hp=tile&so-exp=below&c=fs) | クラウド内の仮想サーバー |
-| [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?hp=tile&so-exp=below&c=fs) | クラウド内のスケーラブルなストレージ |
-| [Amazon Aurora](https://aws.amazon.com/jp/rds/aurora/?hp=tile&so-exp=below&c=fs) | 高性能マネージド型リレーショナルデータベース |
-| [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?hp=tile&so-exp=below&c=fs) | マネージド型 NoSQL データベース |
-| [Amazon RDS](https://aws.amazon.com/jp/rds/?hp=tile&so-exp=below&c=fs) | MySQL、PostgreSQL、Oracle、SQL Server、MariaDB 向けのマネージド型リレーショナルデータベースサービス |
-| [AWS Lambda](https://aws.amazon.com/jp/lambda/?hp=tile&so-exp=below&c=fs) | サーバーに煩わされずにコードを実行 |
-| [Amazon VPC](https://aws.amazon.com/jp/vpc/?hp=tile&so-exp=below&c=fs) | 独立したクラウドリソース |
-| [Amazon Lightsail](https://aws.amazon.com/jp/lightsail/?hp=tile&so-exp=below&c=fs) | 仮想プライベートサーバーを起動および管理 |
-| [Amazon SageMaker](https://aws.amazon.com/jp/sagemaker/?hp=tile&so-exp=below&c=fs) | 機械学習モデルを大規模に構築、トレーニング、デプロイ |
-| [Amazon Athena](https://aws.amazon.com/jp/athena/?hp=tile&so-exp=below) | SQL を使用して S3 でデータをクエリ |
-| [Amazon CloudSearch](https://aws.amazon.com/jp/cloudsearch/?hp=tile&so-exp=below) | マネージド型検索サービス |
-| [Amazon Elasticsearch Service](https://aws.amazon.com/jp/elasticsearch-service/?hp=tile&so-exp=below) | Elasticsearch クラスターを実行およびスケール |
-| [Amazon EMR](https://aws.amazon.com/jp/elasticmapreduce/?hp=tile&so-exp=below) | ホストされた Hadoop フレームワーク |
-| [Amazon Kinesis](https://aws.amazon.com/jp/kinesis/?hp=tile&so-exp=below) | リアルタイムのビデオとデータストリームを分析 |
-| [Amazon Managed Streaming for Apache Kafka](https://aws.amazon.com/jp/msk/?hp=tile&so-exp=below) | フルマネージド型 Apache Kafka サービス |
-| [Amazon Redshift](https://aws.amazon.com/jp/redshift/?hp=tile&so-exp=below) | 高速、シンプル、費用対効果の高いデータウェアハウジングサービス |
-| [Amazon QuickSight](https://aws.amazon.com/jp/quicksight/?hp=tile&so-exp=below) | 高速ビジネス分析サービス |
-| [AWS Data Exchange](https://aws.amazon.com/jp/data-exchange/?hp=tile&so-exp=below) | クラウド上でサードパーティのデータを検索、購読、および使用 |
-| [AWS Data Pipeline](https://aws.amazon.com/jp/datapipeline/?hp=tile&so-exp=below) | 定期的なデータ駆動型ワークフローに対するオーケストレーションサービス |
-| [AWS Glue](https://aws.amazon.com/jp/glue/?hp=tile&so-exp=below) | データを準備およびロード |
-| [AWS Lake Formation](https://aws.amazon.com/jp/lake-formation/?hp=tile&so-exp=below) | 安全なデータレイクを数日で構築 |
-| [AWS Step Functions](https://aws.amazon.com/jp/step-functions/?hp=tile&so-exp=below) | 分散型アプリケーションの調整 |
-| [Amazon AppFlow](https://aws.amazon.com/jp/appflow/?hp=tile&so-exp=below) | SaaS アプリケーションと AWS のサービス向けのコード統合が不要 |
-| [Amazon EventBridge](https://aws.amazon.com/jp/eventbridge/?hp=tile&so-exp=below) | SaaS アプリと AWS のサービス向けサーバーレスイベントバス |
-| [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/?hp=tile&so-exp=below) | 可用性に優れたセキュアなマネージドワークフローオーケストレーション |
-| [Amazon MQ](https://aws.amazon.com/jp/amazon-mq/?hp=tile&so-exp=below) | マネージド型メッセージブローカーサービス |
-| [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/jp/sns/?hp=tile&so-exp=below) | Pub/sub、SMS、E メール、およびモバイルプッシュ通知 |
-| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/jp/sqs/?hp=tile&so-exp=below) | マネージド型メッセージキュー |
-| [AWS AppSync](https://aws.amazon.com/jp/appsync/?hp=tile&so-exp=below) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
-| [AWS Cost Explorer](https://aws.amazon.com/jp/aws-cost-management/aws-cost-explorer/?hp=tile&so-exp=below) | AWS のコストと使用状況を分析 |
-| [AWS Budgets](https://aws.amazon.com/jp/aws-cost-management/aws-budgets/?hp=tile&so-exp=below) | カスタムコストと使用予算を設定 |
-| [AWS のコストと使用状況レポート](https://aws.amazon.com/jp/aws-cost-management/aws-cost-and-usage-reporting/?hp=tile&so-exp=below) | 包括的なコストと使用状況の情報にアクセス |
-| [リザーブドインスタンスレポート](https://aws.amazon.com/jp/aws-cost-management/reserved-instance-reporting/?hp=tile&so-exp=below) | リザーブドインスタンス (RI) の詳細を把握する |
-| [Savings Plans](https://aws.amazon.com/jp/savingsplans/?hp=tile&so-exp=below) | 柔軟な料金設定でコンピューティング使用コストを最大 72% 節約 |
-| [Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/?hp=tile&so-exp=below) | スケーラブルなブロックチェーンネットワークを作成および管理 |
-| [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/jp/qldb/?hp=tile&so-exp=below) | フルマネージド型台帳データベース |
-| [Alexa for Business](https://aws.amazon.com/jp/alexaforbusiness/?hp=tile&so-exp=below) | 組織に Alexa の力を |
-| [Amazon Chime](https://aws.amazon.com/jp/chime/?hp=tile&so-exp=below) | フラストレーションフリーの会議、ビデオ電話、チャット |
-| [Amazon Honeycode (ベータ)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_homepage_products_tile&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | プログラミングなしでモバイルおよびウェブアプリケーションを構築 |
-| [Amazon WorkDocs](https://aws.amazon.com/jp/workdocs/?hp=tile&so-exp=below) | エンタープライズドキュメントの安全なストレージと共有 |
-| [Amazon WorkMail](https://aws.amazon.com/jp/workmail/?hp=tile&so-exp=below) | セキュリティに優れた E メールとカレンダー |
-| [Amazon EC2](https://aws.amazon.com/jp/ec2/?hp=tile&so-exp=below) | クラウド内の仮想サーバー |
-| [Amazon EC2 Auto Scaling](https://aws.amazon.com/jp/ec2/autoscaling/?hp=tile&so-exp=below) | 需要に合わせてコンピューティング性能をスケール |
-| [Amazon Lightsail](https://aws.amazon.com/jp/lightsail/?hp=tile&so-exp=below) | 仮想プライベートサーバーを起動および管理 |
-| [AWS Batch](https://aws.amazon.com/jp/batch/?hp=tile&so-exp=below) | あらゆる規模でバッチジョブを実行 |
-| [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/?hp=tile&so-exp=below) | ウェブアプリケーションを実行および管理 |
-| [AWS Lambda](https://aws.amazon.com/jp/lambda/?hp=tile&so-exp=below) | サーバーに煩わされずにコードを実行 |
-| [AWS Outposts](https://aws.amazon.com/jp/outposts/?hp=tile&so-exp=below) | AWS インフラストラクチャをオンプレミスで実行 |
-| [AWS Serverless Application Repository](https://aws.amazon.com/jp/serverlessrepo/?hp=tile&so-exp=below) | サーバーレスアプリケーションの検索、デプロイと公開 |
-| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?hp=tile&so-exp=below) | エッジロケーションでデータを集約および処理して AWS に転送するデバイス |
-| [AWS Wavelength](https://aws.amazon.com/jp/wavelength/?hp=tile&so-exp=below) | 5G デバイスのための超低レイテンシーアプリケーションを提供 |
-| [VMware Cloud on AWS](https://aws.amazon.com/jp/vmware/?hp=tile&so-exp=below) | カスタムハードウェアを使用せずにハイブリッドクラウドを構築 |
-| [Amazon Elastic Container Registry](https://aws.amazon.com/jp/ecr/?hp=tile&so-exp=below) | コンテナイメージを簡単に保存、管理、デプロイ |
-| [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/jp/ecs/?hp=tile&so-exp=below) | コンテナを実行するためのきわめて安全で信頼性と拡張性が高い方法  |
-| [Amazon ECS Anywhere (近日公開)](https://aws.amazon.com/ttps://pages.awscloud.com/AmazonECSAnywherePreview.html?hp=tile&so-exp=below) | インフラストラクチャでの ECS |
-| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/jp/eks/?hp=tile&so-exp=below) | 信頼性が最も高い Kubernetes の実行方法 |
-| [Amazon EKS Anywhere (近日公開)](https://aws.amazon.com/jp/eks/eks-anywhere/?hp=tile&so-exp=below) | インフラストラクチャでの Kubernetes |
-| [Amazon EKS Distro](https://aws.amazon.com/jp/eks/eks-distro/?hp=tile&so-exp=below) | 一貫した Kubernetes クラスターの実行 |
-| [AWS App2Container](https://aws.amazon.com/jp/app2container/?hp=tile&so-exp=below) | 既存のアプリケーションのコンテナ化と移行 |
+| [Amazon Athena](https://aws.amazon.com/jp/athena/?c=1&pt=1) | SQL を使用した S3 でのデータクエリ |
+| [Amazon CloudSearch](https://aws.amazon.com/jp/cloudsearch/?c=1&pt=2) | マネージド型検索サービス |
+| [Amazon Elasticsearch Service](https://aws.amazon.com/jp/elasticsearch-service/?c=1&pt=3) | Elasticsearch クラスターを実行し、スケールする |
+| [Amazon EMR](https://aws.amazon.com/jp/elasticmapreduce/?c=1&pt=4) | ホスト型 Hadoop フレームワーク |
+| [Amazon FinSpace](https://aws.amazon.com/jp/finspace/?c=1&pt=5a) | 金融サービス業界向けの分析 |
+| [Amazon Kinesis](https://aws.amazon.com/jp/kinesis/?c=1&pt=5) | リアルタイムストリーミングデータとの連携 |
+| [Amazon Managed Streaming for Apache Kafka](https://aws.amazon.com/jp/msk/?c=1&pt=6) | フルマネージド型 Apache Kafka サービス |
+| [Amazon Redshift](https://aws.amazon.com/jp/redshift/?c=1&pt=7) | 高速かつシンプルで、費用対効果の高いデータウェアハウス |
+| [Amazon QuickSight](https://aws.amazon.com/jp/quicksight/?c=1&pt=8) | 高速ビジネス分析サービス |
+| [AWS Data Exchange](https://aws.amazon.com/jp/data-exchange/?c=1&pt=9) | クラウド上でサードパーティのデータを検索、購読、および使用 |
+| [AWS Data Pipeline](https://aws.amazon.com/jp/datapipeline/?c=1&pt=10) | 定期的なデータ駆動型ワークフローに対するオーケストレーションサービス |
+| [AWS Glue](https://aws.amazon.com/jp/glue/?c=1&pt=11) | シンプルでスケーラブルなサーバーレスデータ統合 |
+| [AWS Lake Formation](https://aws.amazon.com/jp/lake-formation/?c=1&pt=12) | 安全なデータレイクを数日で構築 |
+| [AWS Step Functions](https://aws.amazon.com/jp/step-functions/?c=2&pt=1) | 分散アプリケーションの調整 |
+| [Amazon AppFlow](https://aws.amazon.com/jp/appflow/?c=2&pt=2a) | SaaS アプリケーションと AWS のサービス向けのコード統合が不要 |
+| [Amazon EventBridge](https://aws.amazon.com/jp/eventbridge/?c=2&pt=2) | SaaS アプリと AWS のサービス向けサーバーレスイベントバス |
+| [Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/jp/managed-workflows-for-apache-airflow/?c=2&pt=3a) | 可用性に優れたセキュアなマネージドワークフローオーケストレーション |
+| [Amazon MQ](https://aws.amazon.com/jp/amazon-mq/?c=2&pt=3) | マネージド型メッセージブローカーサービス |
+| [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/jp/sns/?c=2&pt=4) | Pub/sub、SMS、E メール、およびモバイルプッシュ通知 |
+| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/jp/sqs/?c=2&pt=5) | マネージド型メッセージキュー |
+| [Amazon AppSync](https://aws.amazon.com/jp/appsync/?c=2&pt=6) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
+| [Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/?c=5&pt=1) | スケーラブルなブロックチェーンネットワークを作成および管理 |
+| [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/jp/qldb/?c=5&pt=2) | フルマネージド型台帳データベース |
+| [Alexa for Business](https://aws.amazon.com/jp/alexaforbusiness/?c=6&pt=1) | Alexa を使って組織を強化 |
+| [Amazon Chime](https://aws.amazon.com/jp/chime/?c=6&pt=2) | フラストレーションフリーの会議、ビデオ電話、チャット |
+| [Amazon Honeycode (ベータ)](https://aws.amazon.com/ttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_global_menu_products_link&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult) | プログラミングなしでモバイルおよびウェブアプリケーションを構築 |
+| [Amazon WorkDocs](https://aws.amazon.com/jp/workdocs/?c=6&pt=3) | エンタープライズドキュメントの安全なストレージと共有 |
+| [Amazon WorkMail](https://aws.amazon.com/jp/workmail/?c=6&pt=4) | セキュリティで保護されたマネージド型の企業向け E メールおよびカレンダー |
+| [AWS Cost Explorer](https://aws.amazon.com/jp/aws-cost-management/aws-cost-explorer/?c=4&pt=1) | AWS のコストと使用状況を分析する |
+| [AWS 予算](https://aws.amazon.com/jp/aws-cost-management/aws-budgets/?c=4&pt=2) | カスタムコストと使用予算を設定する |
+| [AWS のコストと使用状況レポート](https://aws.amazon.com/jp/aws-cost-management/aws-cost-and-usage-reporting/?c=4&pt=3) | 包括的なコストと使用状況情報へのアクセス |
+| [リザーブドインスタンスレポート](https://aws.amazon.com/jp/aws-cost-management/reserved-instance-reporting/?c=4&pt=4) | リザーブドインスタンス (RI) の詳細を把握する |
+| [Savings Plans](https://aws.amazon.com/jp/savingsplans/?c=4&pt=5) | 柔軟な料金設定でコンピューティング使用コストを最大 72% 節約 |
+| [Amazon EC2](https://aws.amazon.com/jp/ec2/?c=7&pt=1) | クラウド内の仮想サーバー |
+| [Amazon EC2 Auto Scaling](https://aws.amazon.com/jp/ec2/autoscaling/?c=7&pt=2) | 需要に合わせてコンピューティング性能をスケール |
+| [Amazon Lightsail](https://aws.amazon.com/jp/lightsail/?c=7&pt=6) | 仮想プライベートサーバーを起動および管理 |
+| [AWS App Runner](https://aws.amazon.com/jp/apprunner/?c=7&pt=7a) | コンテナ化されたウェブアプリを大規模に構築・実行 |
+| [AWS Batch](https://aws.amazon.com/jp/batch/?c=7&pt=7) | あらゆる規模でバッチジョブを実行 |
+| [AWS Elastic Beanstalk](https://aws.amazon.com/jp/elasticbeanstalk/?c=7&pt=8) | ウェブアプリの実行と管理 |
+| [AWS Lambda](https://aws.amazon.com/jp/lambda/?c=7&pt=10) | イベント発生時にコードを実行 |
+| [AWS Outposts](https://aws.amazon.com/jp/outposts/?c=7&pt=11) | AWS サービスをオンプレミスで実行 |
+| [AWS Serverless Application Repository](https://aws.amazon.com/jp/serverlessrepo/?c=7&pt=12) | サーバーレスアプリケーションを検索、デプロイ、公開する |
+| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?c=7&pt=12a) | エッジロケーションでデータを集約および処理して AWS に転送するデバイス |
+| [AWS Wavelength](https://aws.amazon.com/jp/wavelength/?c=7&pt=13) | 5G デバイスのための超低レイテンシーアプリケーションを提供 |
+| [VMware Cloud on AWS](https://aws.amazon.com/jp/vmware/?c=7&pt=14) | カスタムハードウェアを使用せずにハイブリッドクラウドを構築する |
+| [Amazon Elastic Container Registry](https://aws.amazon.com/jp/ecr/?c=7a&pt=1) | コンテナイメージを簡単に保存、管理、デプロイ |
+| [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/jp/ecs/?c=7a&pt=2) | コンテナを実行するためのきわめて安全で信頼性と拡張性が高い方法 |
+| [Amazon ECS Anywhere](https://aws.amazon.com/jp/ecs/anywhere/?c=7a&pt=2) | 顧客が管理するインフラでコンテナを実行 |
+| [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/jp/eks/?c=7a&pt=3) | 信頼性が最も高い Kubernetes の実行方法 |
+| [Amazon EKS Anywhere (近日公開)](https://aws.amazon.com/jp/eks/eks-anywhere/) | インフラストラクチャでの Kubernetes |
+| [Amazon EKS Distro](https://aws.amazon.com/jp/eks/eks-distro/) | 一貫した Kubernetes クラスターの実行 |
+| [AWS App2Container](https://aws.amazon.com/jp/app2container/?c=7a&pt=1a) | 既存のアプリケーションのコンテナ化と移行 |
+| [AWS App Runner](https://aws.amazon.com/jp/apprunner/?c=7a&pt=1b) | コンテナ化されたウェブアプリを大規模に構築・実行 |
 | [AWS Copilot](https://aws.amazon.com/jp/containers/copilot/?c=7a&pt=1b) | コンテナ化されたアプリケーションを簡単にデプロイして運用する |
-| [AWS Fargate](https://aws.amazon.com/jp/fargate/?hp=tile&so-exp=below) | コンテナ向けサーバーレスコンピューティング |
-| [AWS での Red Hat OpenShift](https://aws.amazon.com/jp/rosa/?hp=tile&so-exp=below) | マネージド Red Hat OpenShift クラスター |
-| [Amazon Connect](https://aws.amazon.com/jp/connect/?hp=tile&so-exp=below) | クラウドベースのコンタクトセンターサービス |
-| [Amazon Pinpoint](https://aws.amazon.com/jp/pinpoint/?hp=tile&so-exp=below) | チャネル間でのパーソナライズされたユーザーエンゲージメント |
-| [Amazon Simple Email Service (SES)](https://aws.amazon.com/jp/ses/?hp=tile&so-exp=below) | E メールの送受信 |
-| [Contact Lens for Amazon Connect](https://aws.amazon.com/jp/connect/contact-lens/?hp=tile&so-exp=below) | 機械学習駆動型のコンタクトセンター分析 |
-| [Amazon Aurora](https://aws.amazon.com/jp/rds/aurora/?hp=tile&so-exp=below) | 高性能マネージド型リレーショナルデータベース |
-| [Amazon Aurora Serverless v2 (プレビュー)](https://aws.amazon.com/jp/rds/aurora/serverless/?hp=tile&so-exp=below) | 毎秒 100,000 件を超えるトランザクションに瞬時にスケール |
-| [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?hp=tile&so-exp=below) | マネージド型の NoSQL データベース |
-| [Amazon DocumentDB (MongoDB 互換)](https://aws.amazon.com/jp/documentdb/?hp=tile&so-exp=below) | フルマネージド型ドキュメントデータベース |
-| [Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/?hp=tile&so-exp=below) | インメモリキャッシングシステム |
-| [Amazon Keyspaces (Apache Cassandra 向け)](https://aws.amazon.com/jp/mcs/?hp=tile&so-exp=below) | マネージド型の Cassandra 対応データベース |
-| [Amazon Neptune ](https://aws.amazon.com/jp/neptune/?hp=tile&so-exp=below) | フルマネージド型グラフデータベースサービス |
-| [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/jp/qldb/?hp=tile&so-exp=below) | フルマネージド型台帳データベース |
-| [Amazon RDS](https://aws.amazon.com/jp/rds/?hp=tile&so-exp=below) | MySQL、PostgreSQL、Oracle、SQL Server、MariaDB 向けのマネージド型リレーショナルデータベースサービス |
-| [Amazon RDS on VMware](https://aws.amazon.com/jp/rds/vmware/?hp=tile&so-exp=below) | オンプレミスデータベースの管理を自動化 |
-| [Amazon Redshift](https://aws.amazon.com/jp/redshift/?hp=tile&so-exp=below) | 高速、シンプル、費用対効果の高いデータウェアハウジングサービス |
-| [Amazon Timestream](https://aws.amazon.com/jp/timestream/?hp=tile&so-exp=below) | フルマネージド型の時系列データベース |
-| [AWS Database Migration Service](https://aws.amazon.com/jp/dms/?hp=tile&so-exp=below) | 最小限のダウンタイムでデータベースを移行できるサービス |
-| [Amazon Corretto](https://aws.amazon.com/jp/corretto/?hp=tile&so-exp=below) | 本番環境に向けて OpenJDK を配信 |
-| [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/jp/cdk/?hp=tile&so-exp=below) | コードを使用してクラウドインフラストラクチャをモデル化する |
-| [AWS Cloud9](https://aws.amazon.com/jp/cloud9/?hp=tile&so-exp=below) | Cloud IDE でコードを記述、実行、デバッグ |
-| [AWS CloudShell](https://aws.amazon.com/jp/cloudshell/?hp=tile&so-exp=below) | ブラウザベースのシェル環境 |
-| [AWS CodeArtifact](https://aws.amazon.com/jp/codeartifact/?hp=tile&so-exp=below) | ソフトウェア開発のためのセキュアかつスケーラブルでコスト効率性に優れたアーティファクト管理 |
-| [AWS CodeBuild](https://aws.amazon.com/jp/codebuild/?hp=tile&so-exp=below) | コードを構築およびテスト |
-| [AWS CodeCommit](https://aws.amazon.com/jp/codecommit/?hp=tile&so-exp=below) | プライベート Git リポジトリにコードを保存 |
-| [AWS CodeDeploy](https://aws.amazon.com/jp/codedeploy/?hp=tile&so-exp=below) | コードデプロイの自動化 |
-| [Amazon CodeGuru](https://aws.amazon.com/jp/codeguru/?hp=tile&so-exp=below) | 最もコストがかかるコード行を見つける |
-| [AWS CodePipeline](https://aws.amazon.com/jp/codepipeline/?hp=tile&so-exp=below) | 継続的デリバリーを使用したソフトウェアのリリース |
-| [AWS CodeStar](https://aws.amazon.com/jp/codestar/?hp=tile&so-exp=below) | AWS アプリケーションを開発およびデプロイ  |
-| [AWS コマンドラインインターフェイス](https://aws.amazon.com/jp/cli/?hp=tile&so-exp=below) | AWS のサービスを管理するための統合ツール |
-| [AWS Device Farm](https://aws.amazon.com/jp/device-farm/?hp=tile&so-exp=below) | AWS クラウド内の実際のデバイスを使った Android、iOS、ウェブアプリケーションのテスト |
-| [AWS Fault Injection Simulator (近日公開)](https://aws.amazon.com/jp/fis/?hp=tile&so-exp=below) | 完全マネージド型のカオスエンジニアリングサービス |
-| [AWS ツールと SDK](https://aws.amazon.com/jp/getting-started/tools-sdks/?hp=tile&so-exp=below) | AWS のツールと SDK |
-| [AWS X-Ray](https://aws.amazon.com/jp/xray/?hp=tile&so-exp=below) | アプリケーションの分析とデバッグ |
-| [Amazon WorkSpaces](https://aws.amazon.com/jp/workspaces/?hp=tile&so-exp=below) | クラウド内の仮想デスクトップ |
-| [Amazon AppStream 2.0](https://aws.amazon.com/jp/appstream2/?hp=tile&so-exp=below) | デスクトップアプリケーションを安全にブラウザへストリーミングするサービス |
-| [Amazon WorkLink](https://aws.amazon.com/jp/worklink/?hp=tile&so-exp=below) | 社内のウェブサイトへのモバイルアクセスを可能にする |
-| [AWS Amplify](https://aws.amazon.com/jp/amplify/?hp=tile&so-exp=below) | モバイルおよびウェブアプリケーションの構築とデプロイ |
-| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?hp=tile&so-exp=below) | API の構築、デプロイ、管理 |
-| [Amazon Location Service (プレビュー)](https://aws.amazon.com/jp/location/?hp=tile&so-exp=below) | アプリケーションにロケーションデータをセキュアかつ簡単に追加 |
-| [Amazon Pinpoint](https://aws.amazon.com/jp/pinpoint/?hp=tile&so-exp=below) | チャネル間でのパーソナライズされたユーザーエンゲージメント |
-| [AWS AppSync](https://aws.amazon.com/jp/appsync/?hp=tile&so-exp=below) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
-| [AWS Device Farm](https://aws.amazon.com/jp/device-farm/?hp=tile&so-exp=below) | AWS クラウド内の実際のデバイスを使った Android、iOS、ウェブアプリケーションのテスト |
-| [Amazon GameLift](https://aws.amazon.com/jp/gamelift/?hp=tile&so-exp=below) | シンプルで高速な費用対効果の高い専用ゲームサーバーホスティング |
-| [Amazon Lumberyard](https://aws.amazon.com/jp/lumberyard/?hp=tile&so-exp=below) | AWS や Twitch と統合された完全なソースを利用できる、無料のクロスプラットフォーム 3D ゲームエンジン |
-| [AWS IoT Core](https://aws.amazon.com/jp/iot-core/?hp=tile&so-exp=below) | デバイスをクラウドに接続 |
-| [AWS Greengrass](https://aws.amazon.com/jp/greengrass/?hp=tile&so-exp=below) | デバイスのローカルでのコンピューティング、メッセージング、同期 |
-| [AWS IoT 1-Click](https://aws.amazon.com/jp/iot-1-click/?hp=tile&so-exp=below) | AWS Lambda トリガーのワンクリック作成 |
-| [AWS IoT Analytics](https://aws.amazon.com/jp/iot-analytics/?hp=tile&so-exp=below) | IoT デバイスの分析 |
-| [AWS IoT ボタン](https://aws.amazon.com/jp/iot/button/?hp=tile&so-exp=below) | クラウドのプログラミング可能なダッシュボタン |
-| [AWS IoT Device Defender](https://aws.amazon.com/jp/iot-device-defender/?hp=tile&so-exp=below) | IoT デバイスのセキュリティ管理 |
-| [AWS IoT Device Management](https://aws.amazon.com/jp/iot-device-management/?hp=tile&so-exp=below) | IoT デバイスのオンボード、編成、リモート管理 |
-| [AWS IoT Events](https://aws.amazon.com/jp/iot-events/?hp=tile&so-exp=below) | IoT イベントを検出し、対応 |
-| [AWS IoT SiteWise](https://aws.amazon.com/jp/iot-sitewise/?hp=tile&so-exp=below) | IoT データコレクターおよびインタプリタ |
-| [AWS IoT Things Graph](https://aws.amazon.com/jp/iot-things-graph/?hp=tile&so-exp=below) | デバイスおよびウェブサービスを簡単に接続 |
-| [AWS Partner Device Catalog](https://aws.amazon.com/ttps://devices.amazonaws.com?hp=tile&so-exp=below) | AWS 互換の IoT ハードウェアの精選カタログ |
-| [FreeRTOS](https://aws.amazon.com/jp/freertos/?hp=tile&so-exp=below) | マイクロコントローラ向けリアルタイムオペレーティングシステム |
-| [Amazon SageMaker](https://aws.amazon.com/jp/sagemaker/?hp=tile&so-exp=below) | 機械学習モデルを大規模に構築、トレーニング、デプロイ |
-| [Amazon Augmented AI](https://aws.amazon.com/jp/augmented-ai/?hp=tile&so-exp=below) | ML 予測のヒューマンレビューを簡単に導入 |
-| [Amazon CodeGuru](https://aws.amazon.com/jp/codeguru/?hp=tile&so-exp=below) | 最もコストがかかるコード行を見つける |
-| [Amazon Comprehend](https://aws.amazon.com/jp/comprehend/?hp=tile&so-exp=below) | テキスト内でインサイトや関係性を検出 |
-| [Amazon DevOps Guru](https://aws.amazon.com/jp/devops-guru/?hp=tile&so-exp=below) | ML 駆動のクラウドオペレーションサービス |
-| [Amazon Elastic Inference](https://aws.amazon.com/jp/elastic-inference/?hp=tile&so-exp=below) | 深層学習推論の高速化 |
-| [Amazon Forecast](https://aws.amazon.com/jp/forecast/?hp=tile&so-exp=below) | 機械学習を使用して予測の精度を向上させる |
-| [Amazon Fraud Detector](https://aws.amazon.com/jp/fraud-detector/?hp=tile&so-exp=below) | オンライン詐欺をより素早く検知 |
-| [Amazon Kendra](https://aws.amazon.com/jp/kendra/?hp=tile&so-exp=below) | ML を利用してエンタープライズ検索を改革 |
-| [Amazon Lex](https://aws.amazon.com/jp/lex/?hp=tile&so-exp=below) | 音声やテキストに対応するチャットボットを構築 |
-| [ Amazon Lookout for Equipment (プレビュー)](https://aws.amazon.com/jp/lookout-for-equipment/?hp=tile&so-exp=below) | センサーデータの分析による異常動作の検知 |
-| [ Amazon Lookout for Metrics (プレビュー)](https://aws.amazon.com/jp/lookout-for-metrics/?hp=tile&so-exp=below) | メトリクスにおける異常の検知 |
-| [ Amazon Lookout for Vision (プレビュー)](https://aws.amazon.com/jp/lookout-for-vision/?hp=tile&so-exp=below) | コンピュータビジョンを使用した製品欠陥の検出 |
-| [Amazon Monitron](https://aws.amazon.com/jp/monitron/?hp=tile&so-exp=below) | 機器モニタリングのためのエンドツーエンドシステム |
-| [Amazon Personalize](https://aws.amazon.com/jp/personalize/?hp=tile&so-exp=below) | アプリケーションへのリアルタイムレコメンデーションの構築 |
-| [Amazon Polly](https://aws.amazon.com/jp/polly/?hp=tile&so-exp=below) | テキストを生きた話し声に変換 |
-| [Amazon Rekognition](https://aws.amazon.com/jp/rekognition/?hp=tile&so-exp=below) | 画像と動画を分析 |
-| [Amazon SageMaker Data Wrangler](https://aws.amazon.com/jp/sagemaker/data-wrangler/?hp=tile&so-exp=below) | ML 用にデータを準備するための最も速い方法 |
-| [Amazon SageMaker Ground Truth](https://aws.amazon.com/jp/sagemaker/groundtruth/?hp=tile&so-exp=below) | 精度の高い機械学習トレーニングデータセットの構築 |
-| [Amazon Textract](https://aws.amazon.com/jp/textract/?hp=tile&so-exp=below) | ドキュメントからテキストやデータを抽出する |
-| [Amazon Translate](https://aws.amazon.com/jp/translate/?hp=tile&so-exp=below) | 自然で流ちょうな言語翻訳 |
-| [Amazon Transcribe](https://aws.amazon.com/jp/transcribe/?hp=tile&so-exp=below) | 自動音声認識 |
-| [AWS 深層学習 AMI](https://aws.amazon.com/jp/machine-learning/amis/?hp=tile&so-exp=below) | Amazon EC2 での深層学習 |
-| [AWS Deep Learning Containers](https://aws.amazon.com/jp/machine-learning/containers/?hp=tile&so-exp=below) | 深層学習向け Docker イメージ |
-| [AWS DeepComposer](https://aws.amazon.com/jp/deepcomposer/?hp=tile&so-exp=below) | 機械学習が有効化されたミュージカルキーボード |
-| [AWS DeepLens](https://aws.amazon.com/jp/deeplens/?hp=tile&so-exp=below) | 深層学習に対応したビデオカメラ |
-| [AWS DeepRacer](https://aws.amazon.com/jp/deepracer/?hp=tile&so-exp=below) | 機械学習による 18 分の 1 のスケールでの自律走行型レースカー |
-| [AWS Inferentia](https://aws.amazon.com/jp/inferentia/?hp=tile&so-exp=below) | 機械学習インファレンスチップ |
-| [AWS Panorama (プレビュー)](https://aws.amazon.com/jp/panorama/?hp=tile&so-exp=below) | エッジに設置したコンピュータビジョンによる運営改善 |
-| [AWS での Apache MXNet](https://aws.amazon.com/jp/mxnet/?hp=tile&so-exp=below) | スケーラブルなオープンソースの深層学習フレームワーク |
-| [AWS での PyTorch](https://aws.amazon.com/jp/pytorch/?hp=tile&so-exp=below) | 柔軟なオープンソースの機械学習フレームワーク |
-| [AWS での TensorFlow](https://aws.amazon.com/jp/tensorflow/?hp=tile&so-exp=below) | オープンソースのマシンインテリジェンスライブラリ |
-| [Amazon CloudWatch](https://aws.amazon.com/jp/cloudwatch/?hp=tile&so-exp=below) | リソースとアプリケーションのモニタリング |
-| [AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/?hp=tile&so-exp=below) | 需要に合わせて複数のリソースをスケール |
-| [ AWS Chatbot](https://aws.amazon.com/jp/chatbot/?hp=tile&so-exp=below) | ChatOps for AWS |
-| [AWS CloudFormation](https://aws.amazon.com/jp/cloudformation/?hp=tile&so-exp=below) | テンプレートを使用してリソースを作成および管理 |
-| [AWS CloudTrail](https://aws.amazon.com/jp/cloudtrail/?hp=tile&so-exp=below) | ユーザーアクティビティと API 使用状況の追跡 |
-| [AWS コマンドラインインターフェイス](https://aws.amazon.com/jp/cli/?hp=tile&so-exp=below) | AWS サービスを管理するための統合ツール |
-| [AWS Compute Optimizer](https://aws.amazon.com/jp/compute-optimizer/?hp=tile&so-exp=below) | 最適な AWS コンピューティングリソースを特定 |
-| [AWS Config](https://aws.amazon.com/jp/config/?hp=tile&so-exp=below) | リソースのインベントリと変更の追跡 |
-| [AWS Control Tower](https://aws.amazon.com/jp/controltower/?hp=tile&so-exp=below) | 安全かつ基準に準拠した複数のアカウント環境をセットアップおよび管理する |
-| [AWS コンソールモバイルアプリ](https://aws.amazon.com/jp/console/mobile/?hp=tile&so-exp=below) | リソースの状態を外出先で確認 |
-| [AWS Distro for OpenTelemetry (プレビュー)](https://aws.amazon.com/jp/otel/?hp=tile&so-exp=below) | 相関するメトリクスとトレースの収集 |
-| [AWS License Manager](https://aws.amazon.com/jp/license-manager/?hp=tile&so-exp=below) | ライセンスの追跡、管理、制御 |
-| [AWS マネジメントコンソール](https://aws.amazon.com/jp/console/?hp=tile&so-exp=below) | ウェブベースのユーザーインターフェイス |
-| [AWS マネージドサービス](https://aws.amazon.com/jp/managed-services/?hp=tile&so-exp=below) | AWS のインフラストラクチャ運用管理 |
-| [Amazon Managed Service for Grafana (プレビュー)](https://aws.amazon.com/jp/grafana/?hp=tile&so-exp=below) | 強力でインタラクティブなデータ視覚化 |
-| [Amazon Managed Service for Prometheus (プレビュー)](https://aws.amazon.com/jp/prometheus/?hp=tile&so-exp=below) | コンテナのためのセキュアで可用性に優れたモニタリング |
-| [AWS OpsWorks](https://aws.amazon.com/jp/opsworks/?hp=tile&so-exp=below) | Chef と Puppet を使って運用を自動化 |
-| [AWS Organizations](https://aws.amazon.com/jp/organizations/?hp=tile&so-exp=below) | AWS アカウント全体の一元管理 |
-| [AWS Personal Health Dashboard](https://aws.amazon.com/jp/premiumsupport/phd/?hp=tile&so-exp=below) | AWS のサービス状態のパーソナライズされた表示 |
-| [AWS Proton (プレビュー)](https://aws.amazon.com/jp/proton/?hp=tile&so-exp=below) | コンテナとサーバーレスデプロイメントのための自動化された管理 |
-| [AWS Service Catalog](https://aws.amazon.com/jp/servicecatalog/?hp=tile&so-exp=below) | 標準化された製品の作成と使用 |
-| [AWS Systems Manager](https://aws.amazon.com/jp/systems-manager/?hp=tile&so-exp=below) | 運用時のインサイトに基づいて改善する |
-| [AWS Trusted Advisor](https://aws.amazon.com/jp/trustedadvisor/?hp=tile&so-exp=below) | パフォーマンスとセキュリティを最適化 |
-| [AWS Well-Architected Tool](https://aws.amazon.com/jp/well-architected-tool/?hp=tile&so-exp=below) | ワークロードの見直しと改善 |
-| [Amazon Elastic Transcoder](https://aws.amazon.com/jp/elastictranscoder/?hp=tile&so-exp=below) | 使いやすいスケーラブルなメディア変換サービス |
-| [Amazon Interactive Video Service](https://aws.amazon.com/jp/ivs/?hp=tile&so-exp=below) | マネージド型のライブ動画ソリューション |
-| [Amazon Kinesis Video Streams](https://aws.amazon.com/jp/kinesis/video-streams/?hp=tile&so-exp=below) | 動画ストリームの処理と分析 |
-| [AWS Elemental MediaConnect](https://aws.amazon.com/jp/mediaconnect/?hp=tile&so-exp=below) | 高い信頼性を安全性を持つライブ動画転送 |
-| [AWS Elemental MediaConvert](https://aws.amazon.com/jp/mediaconvert/?hp=tile&so-exp=below) | ファイルベースの動画コンテンツを変換 |
-| [AWS Elemental MediaLive](https://aws.amazon.com/jp/medialive/?hp=tile&so-exp=below) | ライブビデオコンテンツを変換 |
-| [AWS Elemental MediaPackage](https://aws.amazon.com/jp/mediapackage/?hp=tile&so-exp=below) | 動画を発信およびパッケージ化 |
-| [AWS Elemental MediaStore](https://aws.amazon.com/jp/mediastore/?hp=tile&so-exp=below) | メディアストレージとシンプルな HTTP オリジン |
-| [AWS Elemental MediaTailor](https://aws.amazon.com/jp/mediatailor/?hp=tile&so-exp=below) | 動画のパーソナライズと収益化 |
-| [AWS Elemental アプライアンスとソフトウェア](https://aws.amazon.com/jp/elemental-appliances-software/?hp=tile&so-exp=below) | オンプレミスメディアソリューション |
-| [AWS Migration Hub](https://aws.amazon.com/jp/migration-hub/?hp=tile&so-exp=below) | 複数の移行の追跡を 1 か所から実行 |
-| [AWS Application Discovery Service](https://aws.amazon.com/jp/application-discovery/?hp=tile&so-exp=below) | オンプレミスのアプリケーションを検出して合理的に移行 |
-| [AWS Database Migration Service](https://aws.amazon.com/jp/dms/?hp=tile&so-exp=below) | 最小限のダウンタイムでデータベースを移行できるサービス |
-| [AWS DataSync](https://aws.amazon.com/jp/datasync/?hp=tile&so-exp=below) | シンプルかつ高速なオンラインデータ転送 |
-| [AWS Server Migration Service ](https://aws.amazon.com/jp/server-migration-service/?hp=tile&so-exp=below) | オンプレミスサーバーを AWS に移行 |
-| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?hp=tile&so-exp=below) | AWS との間でデータを移行するためのデバイス |
-| [AWS Transfer Family](https://aws.amazon.com/jp/aws-transfer-family/?hp=tile&so-exp=below) | フルマネージド SFTP、FTPS、および FTP サービス |
-| [CloudEndure Migration](https://aws.amazon.com/jp/cloudendure-migration/?hp=tile&so-exp=below) | AWS クラウドへの大規模な移行を自動化 |
-| [Migration Evaluator (旧 TSO Logic)](https://aws.amazon.com/jp/migration-evaluator/?hp=tile&so-exp=below) | クラウド移行のビジネスケースを作成 |
-| [Amazon VPC](https://aws.amazon.com/jp/vpc/?hp=tile&so-exp=below) | 独立したクラウドリソース |
-| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?hp=tile&so-exp=below) | API の構築、デプロイ、管理 |
-| [Amazon CloudFront](https://aws.amazon.com/jp/cloudfront/?hp=tile&so-exp=below) | グローバルなコンテンツ配信ネットワーク |
-| [Amazon Route 53](https://aws.amazon.com/jp/route53/?hp=tile&so-exp=below) | スケーラブルなドメインネームシステム (DNS) |
-| [AWS PrivateLink](https://aws.amazon.com/jp/privatelink/?hp=tile&so-exp=below) | AWS でホストされているサービスに安全にアクセス |
-| [AWS App Mesh](https://aws.amazon.com/jp/app-mesh/?hp=tile&so-exp=below) | マイクロサービスをモニタリングおよびコントロール |
-| [AWS Cloud Map](https://aws.amazon.com/jp/cloud-map/?hp=tile&so-exp=below) | クラウドリソースのサービス検出 |
-| [AWS Direct Connect](https://aws.amazon.com/jp/directconnect/?hp=tile&so-exp=below) | AWS への専用ネットワーク接続 |
-| [AWS Global Accelerator](https://aws.amazon.com/jp/global-accelerator/?hp=tile&so-exp=below) | アプリケーションの可用性とパフォーマンスを向上 |
-| [AWS Transit Gateway](https://aws.amazon.com/jp/transit-gateway/?hp=tile&so-exp=below) | VPC およびアカウント接続を簡単にスケール |
-| [Elastic Load Balancing (ELB)](https://aws.amazon.com/jp/elasticloadbalancing/?hp=tile&so-exp=below) | 複数のターゲットにわたる着信トラフィックの分配 |
-| [Amazon Braket](https://aws.amazon.com/jp/braket/?hp=tile&so-exp=below) | 量子コンピューティングを探索して実験 |
-| [AWS RoboMaker](https://aws.amazon.com/jp/robomaker/?hp=tile&so-exp=below) | ロボット工学アプリケーションの開発、テスト、デプロイ |
-| [AWS Ground Station](https://aws.amazon.com/jp/ground-station/?hp=tile&so-exp=below) | サービスとしてのフルマネージド型地上局 |
-| [AWS Identity and Access Management (IAM)](https://aws.amazon.com/jp/iam/?hp=tile&so-exp=below) | サービスとリソースへのアクセスを安全に管理 |
-| [Amazon Cognito](https://aws.amazon.com/jp/cognito/?hp=tile&so-exp=below) | アプリケーションの ID 管理 |
-| [Amazon Detective](https://aws.amazon.com/jp/detective/?hp=tile&so-exp=below) | 潜在的なセキュリティ問題を調査 |
-| [Amazon GuardDuty](https://aws.amazon.com/jp/guardduty/?hp=tile&so-exp=below) | マネージド型脅威検出サービス |
-| [Amazon Inspector](https://aws.amazon.com/jp/inspector/?hp=tile&so-exp=below) | アプリケーションのセキュリティの分析 |
-| [Amazon Macie](https://aws.amazon.com/jp/macie/?hp=tile&so-exp=below) | 大規模な機密データを検出して保護する |
-| [AWS Artifact](https://aws.amazon.com/jp/artifact/?hp=tile&so-exp=below) | AWS のコンプライアンスレポートへのオンデマンドアクセス |
-| [AWS Audit Manager](https://aws.amazon.com/jp/audit-manager/?hp=tile&so-exp=below) | AWS 利用状況の継続的な監査 |
-| [AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/?hp=tile&so-exp=below) | SSL/TLS 証明書のプロビジョニング、管理、およびデプロイメント |
-| [AWS CloudHSM](https://aws.amazon.com/jp/cloudhsm/?hp=tile&so-exp=below) | コンプライアンスのためのハードウェアベースキーストレージ |
-| [AWS Directory Service](https://aws.amazon.com/jp/directoryservice/?hp=tile&so-exp=below) | Active Directory をホスティングおよび管理 |
-| [AWS Firewall Manager](https://aws.amazon.com/jp/firewall-manager/?hp=tile&so-exp=below) | ファイアウォールルールの一元管理 |
-| [AWS Key Management Service](https://aws.amazon.com/jp/kms/?hp=tile&so-exp=below) | マネージド型の暗号化キーの作成と管理 |
-| [AWS Network Firewall](https://aws.amazon.com/jp/network-firewall/?hp=tile&so-exp=below) | VPC 保護のためのネットワークセキュリティ |
-| [AWS Resource Access Manager](https://aws.amazon.com/jp/ram/?hp=tile&so-exp=below) | AWS のリソースを共有するためのシンプルでセキュアなサービス |
-| [AWS Secrets Manager](https://aws.amazon.com/jp/secrets-manager/?hp=tile&so-exp=below) | 機密情報のローテーション、管理、取得 |
-| [AWS Security Hub](https://aws.amazon.com/jp/security-hub/?hp=tile&so-exp=below) | 統合された AWS セキュリティ & コンプライアンスセンター |
-| [AWS Shield](https://aws.amazon.com/jp/shield/?hp=tile&so-exp=below) | DDoS 保護 |
-| [AWS Single Sign-On](https://aws.amazon.com/jp/single-sign-on/?hp=tile&so-exp=below) | クラウドシングルサインオン (SSO) サービス |
-| [AWS WAF](https://aws.amazon.com/jp/waf/?hp=tile&so-exp=below) | 悪意のあるウェブトラフィックのフィルタリング |
-| [AWS Lambda](https://aws.amazon.com/jp/lambda/?hp=tile&so-exp=below) | サーバーに煩わされずにコードを実行 |
-| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?hp=tile&so-exp=below) | API の構築、デプロイ、管理 |
-| [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?hp=tile&so-exp=below) | マネージド型の NoSQL データベース |
-| [Amazon EventBridge](https://aws.amazon.com/jp/eventbridge/?hp=tile&so-exp=below) | SaaS アプリと AWS のサービス向けサーバーレスイベントバス |
-| [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/jp/sns/?hp=tile&so-exp=below) | Pub/sub、SMS、E メール、およびモバイルプッシュ通知 |
-| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/jp/sqs/?hp=tile&so-exp=below) | マネージド型メッセージキュー |
-| [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?hp=tile&so-exp=below) | クラウド内のスケーラブルなストレージ |
-| [AWS AppSync](https://aws.amazon.com/jp/appsync/?hp=tile&so-exp=below) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
-| [AWS Fargate](https://aws.amazon.com/jp/fargate/?hp=tile&so-exp=below) | コンテナ向けサーバーレスコンピューティング |
-| [AWS Step Functions](https://aws.amazon.com/jp/step-functions/?hp=tile&so-exp=below) | 分散型アプリケーションの調整 |
-| [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?hp=tile&so-exp=below) | クラウド内のスケーラブルなストレージ |
-| [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/jp/ebs/?hp=tile&so-exp=below) | EC2 ブロックストレージボリューム |
-| [Amazon Elastic File System (EFS)](https://aws.amazon.com/jp/efs/?hp=tile&so-exp=below) | EC2 用フルマネージド型ファイルシステム |
-| [Amazon FSx for Lustre](https://aws.amazon.com/jp/fsx/lustre/?hp=tile&so-exp=below) | S3 と統合されたハイパフォーマンスファイルシステム |
-| [Amazon FSx for Windows ファイルサーバー](https://aws.amazon.com/jp/fsx/windows/?hp=tile&so-exp=below) | フルマネージド型 Windows ネイティブのファイルシステム |
-| [Amazon S3 Glacier](https://aws.amazon.com/jp/glacier/?hp=tile&so-exp=below) | クラウド内の低コストなアーカイブ向けストレージ |
-| [AWS Backup](https://aws.amazon.com/jp/backup/?hp=tile&so-exp=below) | AWS のサービス全体にわたる一元管理型バックアップ |
-| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?hp=tile&so-exp=below) | 厳しい環境や切断された環境向けの物理エッジコンピューティングおよびストレージデバイス |
-| [AWS Storage Gateway](https://aws.amazon.com/jp/storagegateway/?hp=tile&so-exp=below) | ハイブリッドストレージの統合 |
-| [CloudEndure Disaster Recovery](https://aws.amazon.com/jp/cloudendure-disaster-recovery/?hp=tile&so-exp=below) | 高度に自動化した災害対策 |
-| [Amazon Sumerian](https://aws.amazon.com/jp/sumerian/?hp=tile&so-exp=below) | VR および AR アプリケーションの構築と実行 |
+| [AWS Fargate](https://aws.amazon.com/jp/fargate/?c=7a&pt=4) | コンテナ向けサーバーレスコンピューティング |
+| [AWS での Red Hat OpenShift](https://aws.amazon.com/jp/rosa/?c=7a&pt=5) | マネージド Red Hat OpenShift クラスター |
+| [Amazon Connect](https://aws.amazon.com/jp/connect/?c=8&pt=1) | クラウドベースのコンタクトセンター |
+| [Amazon Pinpoint](https://aws.amazon.com/jp/pinpoint/?c=8&pt=2) | チャンネル間でのパーソナライズされたユーザーエンゲージメント |
+| [Amazon Simple Email Service (SES)](https://aws.amazon.com/jp/ses/?c=8&pt=3) | E メールの送受信 |
+| [Amazon Aurora](https://aws.amazon.com/jp/rds/aurora/?c=9&pt=1) | 高性能マネージドリレーショナルデータベース |
+| [Amazon Aurora Serverless v2 (プレビュー)](https://aws.amazon.com/jp/rds/aurora/serverless/) | 毎秒 100,000 件を超えるトランザクションに瞬時にスケール |
+| [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?c=9&pt=2) | マネージド型の NoSQL データベース |
+| [Amazon DocumentDB (MongoDB 互換)](https://aws.amazon.com/jp/documentdb/?c=9&pt=3) | フルマネージド型ドキュメントデータベース |
+| [Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/?c=9&pt=4) | インメモリキャッシングシステム |
+| [Amazon Keyspaces (Apache Cassandra 用)](https://aws.amazon.com/jp/keyspaces/?c=9&pt=5) | マネージド型の Cassandra 対応データベース |
+| [Amazon Neptune ](https://aws.amazon.com/jp/neptune/?c=9&pt=6) | フルマネージド型グラフデータベースサービス |
+| [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/jp/qldb/?c=9&pt=7) | フルマネージド型台帳データベース |
+| [Amazon RDS](https://aws.amazon.com/jp/rds/?c=9&pt=8) | MySQL、PostgreSQL、Oracle、SQL Server、MariaDB 向けのマネージドリレーショナルデータベースサービス |
+| [Amazon RDS on VMware](https://aws.amazon.com/jp/rds/vmware/?c=9&pt=9) | オンプレミスデータベースの管理を自動化 |
+| [Amazon Redshift](https://aws.amazon.com/jp/redshift/?c=9&pt=10) | 高速、シンプル、費用対効果の高いデータウェアハウジング |
+| [Amazon Timestream](https://aws.amazon.com/jp/timestream/?c=9&pt=11) | フルマネージド型の時系列データベース |
+| [AWS Database Migration Service](https://aws.amazon.com/jp/dms/?c=9&pt=12) | 最小限のダウンタイムでデータベースを移行 |
+| [AWS Glue](https://aws.amazon.com/jp/glue/?c=1&pt=11) | シンプルでスケーラブルなサーバーレスデータ統合 |
+| [Amazon CodeGuru](https://aws.amazon.com/jp/codeguru/?c=10&pt=1a) | 最もコストがかかるコード行を見つける |
+| [Amazon Corretto](https://aws.amazon.com/jp/corretto/?c=10&pt=1) | 本番環境に向けて OpenJDK を配信 |
+| [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/jp/cdk/?c=10&pt=2) | コードを使用してクラウドインフラストラクチャをモデル化する |
+| [AWS Cloud9](https://aws.amazon.com/jp/cloud9/?c=10&pt=3) | Cloud IDE でコードを記述、実行、デバッグ |
+| [AWS CloudShell](https://aws.amazon.com/jp/cloudshell/?c=10&pt=4b) | ブラウザベースのシェル環境 |
+| [AWS CodeArtifact](https://aws.amazon.com/jp/codeartifact/?c=10&pt=4a) | ソフトウェア開発のためのセキュアかつスケーラブルでコスト効率性に優れたアーティファクト管理 |
+| [AWS CodeBuild](https://aws.amazon.com/jp/codebuild/?c=10&pt=4) | コードのビルドとテスト |
+| [AWS CodeCommit](https://aws.amazon.com/jp/codecommit/?c=10&pt=5) | プライベート Git リポジトリでのコードの保存 |
+| [AWS CodeDeploy](https://aws.amazon.com/jp/codedeploy/?c=10&pt=6) | コードデプロイの自動化 |
+| [AWS CodePipeline](https://aws.amazon.com/jp/codepipeline/?c=10&pt=7) | 継続的デリバリーを使用したソフトウェアのリリース |
+| [AWS CodeStar](https://aws.amazon.com/jp/codestar/?c=10&pt=8) | AWS アプリケーションの開発とデプロイ  |
+| [AWS コマンドラインインターフェイス](https://aws.amazon.com/jp/cli/?c=10&pt=9) | AWS サービスを管理するための統合ツール |
+| [AWS Device Farm](https://aws.amazon.com/jp/device-farm/?c=10&pt=10) | AWS クラウド内の実際のデバイスを使った Android、iOS、ウェブアプリケーションのテスト |
+| [AWS Fault Injection Simulator](https://aws.amazon.com/jp/fis/?c=10&pt=10a) | フルマネージド型フォールト挿入サービス |
+| [AWS ツールと SDK](https://aws.amazon.com/jp/getting-started/tools-sdks/?c=10&pt=11) | AWS のためのツールと SDK |
+| [AWS X-Ray](https://aws.amazon.com/jp/xray/?c=10&pt=12) | アプリケーションの分析とデバッグ |
+| [Amazon AppStream 2.0](https://aws.amazon.com/jp/appstream2/?c=11&pt=1) | デスクトップアプリケーションを安全にブラウザへストリーミングするサービスです |
+| [Amazon WorkDocs](https://aws.amazon.com/jp/workdocs/?c=11&pt=2) | エンタープライズドキュメントの安全なストレージと共有 |
+| [Amazon WorkLink](https://aws.amazon.com/jp/worklink/?c=11&pt=3) | 社内のウェブサイトへのモバイルアクセスを可能にする |
+| [Amazon WorkSpaces](https://aws.amazon.com/jp/workspaces/?c=11&pt=4) | デスクトップコンピューティングサービス |
+| [AWS Amplify](https://aws.amazon.com/jp/amplify/?c=18&pt=1) | モバイルおよびウェブアプリケーションの構築とデプロイ |
+| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?c=18&pt=2) | API を構築し、デプロイし、管理する |
+| [Amazon Location Service (プレビュー)](https://aws.amazon.com/jp/location/?c=18&pt=3) | アプリケーションにロケーションデータをセキュアかつ簡単に追加 |
+| [Amazon Pinpoint](https://aws.amazon.com/jp/pinpoint/?c=18&pt=3) | チャンネル間でのパーソナライズされたユーザーエンゲージメント |
+| [AWS AppSync](https://aws.amazon.com/jp/appsync/?c=18&pt=4) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
+| [AWS Device Farm](https://aws.amazon.com/jp/device-farm/?c=18&pt=5) | AWS クラウド内の実際のデバイスを使った Android、iOS、ウェブアプリケーションのテスト |
+| [Amazon GameLift](https://aws.amazon.com/jp/gamelift/?c=12&pt=1) | シンプルで高速な費用対効果の高い専用ゲームサーバーホスティング |
+| [Amazon Lumberyard](https://aws.amazon.com/jp/lumberyard/?c=12&pt=2) | AWS や Twitch と統合された完全なソースを利用できる、無料のクロスプラットフォーム 3D ゲームエンジンです。 |
+| [AWS IoT Core](https://aws.amazon.com/jp/iot-core/?c=13&pt=1) | デバイスをクラウドに接続 |
+| [AWS Greengrass](https://aws.amazon.com/jp/greengrass/?c=13&pt=3) | デバイスのローカルでのコンピューティング、メッセージング、および同期 |
+| [AWS IoT 1-Click](https://aws.amazon.com/jp/iot-1-click/?c=13&pt=4) | AWS Lambda トリガーのワンクリック作成 |
+| [AWS IoT Analytics](https://aws.amazon.com/jp/iot-analytics/?c=13&pt=5) | IoT デバイスの分析 |
+| [AWS IoT ボタン](https://aws.amazon.com/jp/iot/button/?c=13&pt=6) | クラウドのプログラミング可能なダッシュボタン |
+| [AWS IoT Device Defender](https://aws.amazon.com/jp/iot-device-defender/?c=13&pt=7) | IoT デバイスのセキュリティ管理 |
+| [AWS IoT Device Management](https://aws.amazon.com/jp/iot-device-management/?c=13&pt=8) | IoT デバイスのオンボード、編成、リモート管理 |
+| [AWS IoT Events](https://aws.amazon.com/jp/iot-events/?c=13&pt=9) | IoT イベントを検出し、対応 |
+| [AWS IoT SiteWise](https://aws.amazon.com/jp/iot-sitewise/?c=13&pt=10) | IoT データコレクターおよびインタプリタ |
+| [AWS IoT Things Graph](https://aws.amazon.com/jp/iot-things-graph/?c=13&pt=11) | デバイスおよびウェブサービスを簡単に接続 |
+| [AWS Partner Device Catalog](https://aws.amazon.com/jp/partners/programs/dqp/?c=13&pt=12) | AWS 互換の IoT ハードウェアの精選カタログ |
+| [FreeRTOS](https://aws.amazon.com/jp/freertos/?c=13&pt=13) | マイクロコントローラ向けリアルタイムオペレーティングシステム |
+| [Amazon SageMaker](https://aws.amazon.com/jp/sagemaker/?c=14&pt=1) | 機械学習モデルを大規模に構築、トレーニング、デプロイ |
+| [Amazon Augmented AI](https://aws.amazon.com/jp/augmented-ai/?c=14&pt=2) | ML 予測のヒューマンレビューを簡単に導入 |
+| [Amazon CodeGuru](https://aws.amazon.com/jp/codeguru/?c=14&pt=3) | 最もコストがかかるコード行を見つける |
+| [Amazon Comprehend](https://aws.amazon.com/jp/comprehend/?c=14&pt=4) | テキストのインサイトや関係性を検出 |
+| [Amazon DevOps Guru](https://aws.amazon.com/jp/devops-guru/) | ML 駆動のクラウドオペレーションサービス |
+| [Amazon Elastic Inference](https://aws.amazon.com/jp/elastic-inference/?c=14&pt=5) | 深層学習推論の高速化 |
+| [Amazon Forecast](https://aws.amazon.com/jp/forecast/?c=14&pt=6) | 機械学習を使用して予測の精度を向上させる |
+| [Amazon Fraud Detector](https://aws.amazon.com/jp/fraud-detector/?c=14&pt=7) | オンライン詐欺をより素早く検知 |
+| [Amazon Healthlake](https://aws.amazon.com/jp/healthlake/?c=14&pt=8a) | ヘルスデータの解明 |
+| [Amazon Kendra](https://aws.amazon.com/jp/kendra/?c=14&pt=8) | ML を利用してエンタープライズ検索を刷新する |
+| [Amazon Lex](https://aws.amazon.com/jp/lex/?c=14&pt=9) | 音声やテキストに対応するチャットボットの構築 |
+| [Amazon Lookout for Equipment](https://aws.amazon.com/jp/lookout-for-equipment/) | センサーデータの分析による異常動作の検知 |
+| [Amazon Lookout for Metrics](https://aws.amazon.com/jp/lookout-for-metrics/) | メトリクスの異常を検知 |
+| [Amazon Lookout for Vision](https://aws.amazon.com/jp/lookout-for-vision/) | コンピュータビジョンを使用した製品欠陥の検出 |
+| [Amazon Monitron](https://aws.amazon.com/jp/monitron/) | 機器モニタリングのためのエンドツーエンドシステム |
+| [Amazon Personalize](https://aws.amazon.com/jp/personalize/?c=14&pt=10) | アプリケーションへのリアルタイムレコメンデーションの構築 |
+| [Amazon Polly](https://aws.amazon.com/jp/polly/?c=14&pt=11) | テキストを生きた話し声に変換 |
+| [Amazon Rekognition](https://aws.amazon.com/jp/rekognition/?c=14&pt=12) | イメージとビデオを分析 |
+| [Amazon SageMaker Data Wrangler](https://aws.amazon.com/jp/sagemaker/data-wrangler/) | ML 用にデータを準備するための最も速い方法 |
+| [Amazon SageMaker Ground Truth](https://aws.amazon.com/jp/sagemaker/groundtruth/?c=14&pt=13) | 精度の高い機械学習トレーニングデータセットの構築 |
+| [Amazon Textract](https://aws.amazon.com/jp/textract/?c=14&pt=14) | ドキュメントからテキストやデータを抽出する |
+| [Amazon Translate](https://aws.amazon.com/jp/translate/?c=14&pt=15) | 自然で流ちょうな言語翻訳 |
+| [Amazon Transcribe](https://aws.amazon.com/jp/transcribe/?c=14&pt=16) | 自動音声認識 |
+| [AWS 深層学習 AMI](https://aws.amazon.com/jp/machine-learning/amis/?c=14&pt=17) | EC2 で今すぐ深層学習を始める |
+| [AWS Deep Learning Containers](https://aws.amazon.com/jp/machine-learning/containers/?c=14&pt=18) | 深層学習向け Docker イメージ |
+| [AWS DeepComposer](https://aws.amazon.com/jp/deepcomposer/?c=14&pt=19) | 機械学習が有効化されたミュージカルキーボード |
+| [AWS DeepLens](https://aws.amazon.com/jp/deeplens/?c=14&pt=20) | 深層学習に対応したビデオカメラ |
+| [AWS DeepRacer](https://aws.amazon.com/jp/deepracer/?c=14&pt=21) | 機械学習による 18 分の 1 のスケールでの自律走行型レースカー |
+| [AWS Inferentia](https://aws.amazon.com/jp/inferentia/?c=14&pt=22) | 機械学習インファレンスチップ |
+| [AWS Panorama (プレビュー)](https://aws.amazon.com/jp/panorama/) | エッジに設置したコンピュータビジョンによる運営改善 |
+| [AWS での PyTorch](https://aws.amazon.com/jp/pytorch/?c=14&pt=23a) | 柔軟なオープンソースの機械学習フレームワーク |
+| [AWS での Apache MXNet](https://aws.amazon.com/jp/mxnet/?c=14&pt=23) | スケーラブルでパフォーマンスに優れた深層学習 |
+| [AWS での TensorFlow](https://aws.amazon.com/jp/tensorflow/?c=14&pt=24) | オープンソースの Machine Intelligence Library |
+| [Amazon CloudWatch](https://aws.amazon.com/jp/cloudwatch/?c=15&pt=1) | リソースとアプリケーションのモニタリング |
+| [AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/?c=15&pt=2) | 需要に合わせて複数のリソースをスケール |
+| [AWS Chatbot](https://aws.amazon.com/jp/chatbot/?c=15&pt=3) | ChatOps for AWS |
+| [AWS CloudFormation](https://aws.amazon.com/jp/cloudformation/?c=15&pt=4) | テンプレートを使ったリソースの作成と管理 |
+| [AWS CloudTrail](https://aws.amazon.com/jp/cloudtrail/?c=15&pt=5) | ユーザーアクティビティと API 使用状況の追跡 |
+| [AWS コマンドラインインターフェイス](https://aws.amazon.com/jp/cli/?c=15&pt=6) | AWS サービスを管理するための統合ツール |
+| [AWS Compute Optimizer](https://aws.amazon.com/jp/compute-optimizer/?c=15&pt=7) | 最適な AWS コンピューティングリソースを特定 |
+| [AWS Config](https://aws.amazon.com/jp/config/?c=15&pt=8) | リソースのインベントリと変更の追跡 |
+| [AWS Control Tower](https://aws.amazon.com/jp/controltower/?c=15&pt=9) | 安全かつ基準に準拠した複数のアカウント環境をセットアップおよび管理 |
+| [AWS コンソールモバイルアプリ](https://aws.amazon.com/jp/console/mobile/?c=15&pt=10) | リソースの状態を外出先で確認 |
+| [AWS Distro for OpenTelemetry (プレビュー)](https://aws.amazon.com/jp/otel/?c=15&pt=11a) | 相関するメトリクスとトレースの収集 |
+| [AWS Launch Wizard](https://aws.amazon.com/jp/launchwizard/?c=15&pt=11) | AWS 上でサードパーティーのアプリケーションを簡単にサイジング、構成、デプロイできます |
+| [AWS License Manager](https://aws.amazon.com/jp/license-manager/?c=15&pt=11) | ライセンスの追跡、管理、制御 |
+| [AWS マネジメントコンソール](https://aws.amazon.com/jp/console/?c=15&pt=12) | ウェブベースのユーザーインターフェイス |
+| [AWS Managed Services](https://aws.amazon.com/jp/managed-services/?c=15&pt=13) | AWS のインフラストラクチャ運用管理 |
+| [Amazon Managed Service for Grafana](https://aws.amazon.com/jp/grafana/?c=15&pt=14) | 強力でインタラクティブなデータ視覚化 |
+| [Amazon Managed Service for Prometheus](https://aws.amazon.com/jp/prometheus/?c=15&pt=14) | コンテナのためのセキュアで可用性に優れたモニタリング |
+| [AWS OpsWorks](https://aws.amazon.com/jp/opsworks/?c=15&pt=14) | Chef と Puppet を使用した運用の自動化 |
+| [AWS Organizations](https://aws.amazon.com/jp/organizations/?c=15&pt=15) | AWS アカウント全体の一元管理 |
+| [AWS Personal Health Dashboard](https://aws.amazon.com/jp/premiumsupport/phd/?c=15&pt=16) | AWS のサービス状態のパーソナライズされた表示 |
+| [AWS Proton](https://aws.amazon.com/jp/proton/) | コンテナとサーバーレスデプロイメントのための自動化された管理 |
+| [AWS Service Catalog](https://aws.amazon.com/jp/servicecatalog/?c=15&pt=17) | 標準化された製品の作成と使用 |
+| [AWS Systems Manager](https://aws.amazon.com/jp/systems-manager/?c=15&pt=18) | 運用時の洞察を改善し、実行 |
+| [AWS Trusted Advisor](https://aws.amazon.com/jp/trustedadvisor/?c=15&pt=19) | パフォーマンスとセキュリティの最適化 |
+| [AWS Well-Architected Tool](https://aws.amazon.com/jp/well-architected-tool/?c=15&pt=20) | ワークロードの見直しと改善 |
+| [Amazon Elastic Transcoder](https://aws.amazon.com/jp/elastictranscoder/?c=16&pt=1) | スケーラブルで使いやすいメディア変換サービス |
+| [Amazon Interactive Video Service](https://aws.amazon.com/jp/ivs/?c=16&pt=2a) | マネージドライブ動画ソリューション |
+| [Amazon Kinesis Video Streams](https://aws.amazon.com/jp/kinesis/video-streams/?c=16&pt=2) | ビデオストリームの処理と分析 |
+| [AWS Elemental MediaConnect](https://aws.amazon.com/jp/mediaconnect/?c=16&pt=3) | 高い信頼性を安全性を持つライブ動画転送 |
+| [AWS Elemental MediaConvert](https://aws.amazon.com/jp/mediaconvert/?c=16&pt=4) | ファイルベースのビデオコンテンツを変換 |
+| [AWS Elemental MediaLive](https://aws.amazon.com/jp/medialive/?c=16&pt=5) | ライブビデオコンテンツを変換 |
+| [AWS Elemental MediaPackage](https://aws.amazon.com/jp/mediapackage/?c=16&pt=6) | 動画の発信とパッケージ化 |
+| [AWS Elemental MediaStore](https://aws.amazon.com/jp/mediastore/?c=16&pt=7) | メディアストレージとシンプルな HTTP オリジン |
+| [AWS Elemental MediaTailor](https://aws.amazon.com/jp/mediatailor/?c=16&pt=8) | 動画のパーソナライズと収益化 |
+| [AWS Elemental アプライアンスとソフトウェア](https://aws.amazon.com/jp/elemental-appliances-software/?c=16&pt=9) | オンプレミスメディアソリューション |
+| [AWS Nimble Studio](https://aws.amazon.com/jp/nimble-studio/?c=16&pt=10) | デジタルコンテンツ作成スタジオを構築する |
+| [AWS Migration Hub](https://aws.amazon.com/jp/migration-hub/?c=17&pt=1) | 複数の移行を 1 か所で追跡 |
+| [AWS Application Discovery Service](https://aws.amazon.com/jp/application-discovery/?c=17&pt=2) | オンプレミスのアプリケーションを検出して合理的に移行 |
+| [AWS Application Migration Service (CloudEndure Migration)](https://aws.amazon.com/jp/application-migration-service/?c=17&pt=3a) | 自動化されたリフトアンドシフト移行 |
+| [AWS Database Migration Service](https://aws.amazon.com/jp/dms/?c=17&pt=3) | 最小限のダウンタイムでデータベースを移行 |
+| [AWS DataSync](https://aws.amazon.com/jp/datasync/?c=17&pt=4) | シンプルかつ高速なオンラインデータ転送 |
+| [AWS Server Migration Service ](https://aws.amazon.com/jp/server-migration-service/?c=17&pt=5) | AWS へのオンプレミスサーバーの移行 |
+| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?c=17&pt=6) | AWS との間でデータを移行するためのデバイス |
+| [AWS Transfer Family](https://aws.amazon.com/jp/aws-transfer-family/?c=17&pt=7) | フルマネージド SFTP、FTPS、および FTP サービス |
+| [Migration Evaluator (旧 TSO Logic)](https://aws.amazon.com/jp/migration-evaluator/?c=17&pt=9) | クラウド移行のビジネスケースを作成 |
+| [Amazon VPC](https://aws.amazon.com/jp/vpc/?c=19&pt=1) | 独立したクラウドリソース |
+| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?c=19&pt=2) | API を構築、デプロイ、管理 |
+| [Amazon CloudFront](https://aws.amazon.com/jp/cloudfront/?c=19&pt=3) | グローバルコンテンツ配信ネットワーク |
+| [Amazon Route 53](https://aws.amazon.com/jp/route53/?c=19&pt=4) | スケーラブルなドメインネームシステム (DNS) |
+| [AWS PrivateLink](https://aws.amazon.com/jp/privatelink/?c=19&pt=5) | AWS でホストされているサービスに安全にアクセス |
+| [AWS App Mesh](https://aws.amazon.com/jp/app-mesh/?c=19&pt=6) | マイクロサービスをモニタリングおよびコントロール |
+| [AWS Cloud Map](https://aws.amazon.com/jp/cloud-map/?c=19&pt=7) | マイクロサービス向けのアプリケーションリソースレジストリ |
+| [AWS Direct Connect](https://aws.amazon.com/jp/directconnect/?c=19&pt=8) | AWS への専用ネットワーク接続 |
+| [AWS Global Accelerator](https://aws.amazon.com/jp/global-accelerator/?c=19&pt=9) | アプリケーションの可用性とパフォーマンスを向上 |
+| [AWS Transit Gateway](https://aws.amazon.com/jp/transit-gateway/?c=19&pt=10) | VPC およびアカウント接続を簡単にスケール |
+| [Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/?c=7&pt=11) | 複数のターゲットにわたる着信トラフィックの分配 |
+| [Amazon Braket](https://aws.amazon.com/jp/braket/) | 量子コンピューティングを探索して実験 |
+| [AWS RoboMaker](https://aws.amazon.com/jp/robomaker/?c=20&pt=1) | ロボット工学アプリケーションの開発、テスト、デプロイ |
+| [AWS Ground Station](https://aws.amazon.com/jp/ground-station/?c=21&pt=1) | サービスとしてのフルマネージド型地上局 |
+| [AWS Identity & Access Management](https://aws.amazon.com/jp/iam/?c=22&pt=1) | サービスとリソースへのアクセスを安全に管理 |
+| [Amazon Cognito](https://aws.amazon.com/jp/cognito/?c=22&pt=2) | アプリの ID 管理 |
+| [Amazon Detective](https://aws.amazon.com/jp/detective/?c=22&pt=3) | 潜在的なセキュリティ問題を調査 |
+| [Amazon GuardDuty](https://aws.amazon.com/jp/guardduty/?c=22&pt=4) | マネージド型脅威検出サービス |
+| [Amazon Inspector](https://aws.amazon.com/jp/inspector/?c=22&pt=5) | アプリケーションのセキュリティの分析 |
+| [Amazon Macie](https://aws.amazon.com/jp/macie/?c=22&pt=6) | 大規模な機密データを検出して保護する |
+| [AWS Artifact](https://aws.amazon.com/jp/artifact/?c=22&pt=7) | AWS のコンプライアンスレポートへのオンデマンドアクセス |
+| [AWS Audit Manager](https://aws.amazon.com/jp/audit-manager/) | AWS 利用状況の継続的な監査 |
+| [AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/?c=22&pt=8) | SSL/TLS 証明書のプロビジョニング、管理、およびデプロイメント |
+| [AWS CloudHSM](https://aws.amazon.com/jp/cloudhsm/?c=22&pt=9) | 法令遵守のためのハードウェアベースキーストレージ |
+| [AWS Directory Service](https://aws.amazon.com/jp/directoryservice/?c=22&pt=10) | Active Directory のホスティングと管理 |
+| [AWS Firewall Manager](https://aws.amazon.com/jp/firewall-manager/?c=22&pt=11) | ファイアウォールルールの一元管理 |
+| [AWS Key Management Service](https://aws.amazon.com/jp/kms/?c=22&pt=12) | マネージド型の暗号化キー作成と管理 |
+| [AWS Network Firewall](https://aws.amazon.com/jp/network-firewall/?c=22&pt=13a) | VPC 保護のためのネットワークセキュリティ |
+| [AWS Resource Access Manager](https://aws.amazon.com/jp/ram/?c=22&pt=13) | AWS のリソースを共有するためのシンプルでセキュアなサービス |
+| [AWS Secrets Manager](https://aws.amazon.com/jp/secrets-manager/?c=22&pt=14) | シークレットのローテーション、管理、取得 |
+| [AWS Security Hub](https://aws.amazon.com/jp/security-hub/?c=22&pt=15) | 統合された AWS セキュリティ & コンプライアンスセンター |
+| [AWS Shield](https://aws.amazon.com/jp/shield/?c=22&pt=16) | DDoS 保護 |
+| [AWS Single Sign-On](https://aws.amazon.com/jp/single-sign-on/?c=22&pt=17) | クラウドシングルサインオン (SSO) サービス |
+| [AWS WAF](https://aws.amazon.com/jp/waf/?c=22&pt=18) | 悪意のあるウェブトラフィックのフィルター |
+| [AWS Lambda](https://aws.amazon.com/jp/lambda/?c=23&pt=1) | サーバーに煩わされずにコードを実行 |
+| [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/?c=23&pt=2) | API の構築、デプロイ、管理 |
+| [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?c=23&pt=3) | マネージド型の NoSQL データベース |
+| [Amazon EventBridge](https://aws.amazon.com/jp/eventbridge/?c=23&pt=4) | SaaS アプリと AWS のサービス向けサーバーレスイベントバス |
+| [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/jp/sns/?c=23&pt=5) | Pub/sub、SMS、E メール、およびモバイルプッシュ通知 |
+| [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/jp/sqs/?c=23&pt=6) | マネージド型メッセージキュー |
+| [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?c=23&pt=7) | クラウド内のスケーラブルなストレージ |
+| [AWS AppSync](https://aws.amazon.com/jp/appsync/?c=23&pt=8) | 多くのソースから適切なデータを使用して、大規模にアプリを強化 |
+| [AWS Fargate](https://aws.amazon.com/jp/fargate/?c=23&pt=9) | コンテナ向けサーバーレスコンピューティング |
+| [AWS Step Functions](https://aws.amazon.com/jp/step-functions/?c=23&pt=10) | 分散型アプリケーションの調整 |
+| [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?c=24&pt=1) | スケーラブルなクラウドストレージ |
+| [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/jp/ebs/?c=24&pt=2) | EC2 ブロックストレージボリューム |
+| [Amazon Elastic File System (EFS)](https://aws.amazon.com/jp/efs/?c=24&pt=3) | EC2 用フルマネージド型ファイルシステム |
+| [Amazon FSx for Lustre](https://aws.amazon.com/jp/fsx/lustre/?c=24&pt=4) | S3 と統合されたハイパフォーマンスファイルシステム |
+| [Amazon FSx for Windows File Server](https://aws.amazon.com/jp/fsx/windows/?c=24&pt=5) | フルマネージド型 Windows ネイティブのファイルシステム |
+| [Amazon S3 Glacier](https://aws.amazon.com/jp/glacier1/?c=24&pt=6) | クラウド上の低コストなアーカイブストレージ |
+| [AWS Backup](https://aws.amazon.com/jp/backup/?c=24&pt=7) | AWS のサービス全体にわたる一元管理型バックアップ |
+| [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?c=24&pt=8) | 厳しい環境や切断された環境向けの物理エッジコンピューティングおよびストレージデバイス |
+| [AWS Storage Gateway](https://aws.amazon.com/jp/storagegateway/?c=24&pt=9) | ハイブリッドストレージの統合 |
+| [CloudEndure Disaster Recovery](https://aws.amazon.com/jp/cloudendure-disaster-recovery/?c=24&pt=10) | 高度に自動化した災害対策 |
+| [Amazon Sumerian](https://aws.amazon.com/jp/sumerian/?c=25&pt=1) | VR および AR アプリケーションの構築と実行 |

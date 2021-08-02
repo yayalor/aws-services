@@ -100,7 +100,12 @@ func checkLanguageSupport(lang string) error {
 func getTableRowItems(lang string) ([]TableRow, error) {
 	res := []TableRow{}
 	baseUrl := "https://aws.amazon.com/"
-	url := strings.Join([]string{baseUrl, lang}, "")
+	url := baseUrl
+	if lang != "en" {
+		url = strings.Join([]string{baseUrl, lang, "/products"}, "")
+	} else {
+		url = strings.Join([]string{baseUrl, "/products"}, "")
+	}
 	doc, err := goquery.NewDocument(url)
 	if err != nil {
 		return res, err
