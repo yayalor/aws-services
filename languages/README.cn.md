@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/cn/amazon-mq/?c=2&pt=3) | 托管消息代理服务 |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/cn/sns/?c=2&pt=4) | 发布/订阅短信、电子邮件和移动推送通知 |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/cn/sqs/?c=2&pt=5) | 托管消息队列 |
-| [Amazon AppSync](https://aws.amazon.com/cn/appsync/?c=2&pt=6) | 使用多个来源的正确数据为您的应用程序提供大规模支持 |
+| [AWS AppSync](https://aws.amazon.com/cn/appsync/?c=2&pt=6) | 使用多个来源的恰当数据，为您的应用程序提供大规模支持 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/cn/managed-blockchain/?c=5&pt=1) | 创建并管理可扩展的区块链网络 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/cn/qldb/?c=5&pt=2) | 完全托管型分类账数据库 |
 | [Alexa for Business](https://aws.amazon.com/cn/alexaforbusiness/?c=6&pt=1) | 使用 Alexa 为您的组织助力 |
@@ -175,6 +175,7 @@
 | [AWS Well-Architected Tool](https://aws.amazon.com/cn/well-architected-tool/?c=15&pt=20) | 检查并改进您的工作量 |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/cn/elastictranscoder/?c=16&pt=1) | 易用型可扩展媒体转码 |
 | [Amazon Interactive Video Service](https://aws.amazon.com/cn/ivs/?c=16&pt=2a) | 托管的直播视频解决方案 |
+| [Amazon Nimble Studio](https://aws.amazon.com/cn/nimble-studio/?c=16&pt=10) | 建立一个数字内容创建工作室 |
 | [Amazon Kinesis Video Streams](https://aws.amazon.com/cn/kinesis/video-streams/?c=16&pt=2) | 处理和分析视频流 |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/cn/mediaconnect/?c=16&pt=3) | 可靠且安全的实时视频传输 |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/cn/mediaconvert/?c=16&pt=4) | 转换基于文件的视频内容 |
@@ -183,7 +184,6 @@
 | [AWS Elemental MediaStore](https://aws.amazon.com/cn/mediastore/?c=16&pt=7) | 媒体存储和简单的 HTTP 发放 |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/cn/mediatailor/?c=16&pt=8) | 视频个性化和营利 |
 | [AWS Elemental 设备和软件](https://aws.amazon.com/cn/elemental-appliances-software/?c=16&pt=9) | 本地媒体解决方案 |
-| [AWS Nimble Studio](https://aws.amazon.com/cn/nimble-studio/?c=16&pt=10) | 建立一个数字内容创建工作室 |
 | [AWS Migration Hub](https://aws.amazon.com/cn/migration-hub/?c=17&pt=1) | 从一个位置跟踪迁移活动 |
 | [AWS Application Discovery Service](https://aws.amazon.com/cn/application-discovery/?c=17&pt=2) | 发现本地应用程序以简化迁移 |
 | [AWS 应用程序迁移服务 (CloudEndure Migration)](https://aws.amazon.com/cn/application-migration-service/?c=17&pt=3a) | 自动化的直接迁移 |

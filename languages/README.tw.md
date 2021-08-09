@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/tw/amazon-mq/?c=2&pt=3) | 受管訊息代理程式服務 |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/tw/sns/?c=2&pt=4) | 發佈/訂閱、簡訊、電子郵件和行動推送通知 |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/tw/sqs/?c=2&pt=5) | 受管訊息佇列 |
-| [Amazon AppSync](https://aws.amazon.com/tw/appsync/?c=2&pt=6) | 使用來自多種來源的正確資料大規模提升應用程式的能力 |
+| [AWS AppSync](https://aws.amazon.com/tw/appsync/?c=2&pt=6) | 使用來自多種來源的正確資料，來大規模提升應用程式的能力 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/tw/managed-blockchain/?c=5&pt=1) | 建立和管理可擴展的區塊鏈網路 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/tw/qldb/?c=5&pt=2) | 全受管總帳資料庫 |
 | [Alexa for Business](https://aws.amazon.com/tw/alexaforbusiness/?c=6&pt=1) | 使用 Alexa 提升組織的能力 |
@@ -174,7 +174,8 @@
 | [AWS Trusted Advisor](https://aws.amazon.com/tw/trustedadvisor/?c=15&pt=19) | 優化效能與安全 |
 | [AWS Well-Architected Tool](https://aws.amazon.com/tw/well-architected-tool/?c=15&pt=20) | 檢查和改進您的工作負載 |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/tw/elastictranscoder/?c=16&pt=1) | 易用的可擴展媒體轉碼 |
-| [Amazon 互動式影片服務](https://aws.amazon.com/tw/ivs/?c=16&pt=2a) | 受管的即時影片解決方案 |
+| [Amazon 互動影片服務](https://aws.amazon.com/tw/ivs/?c=16&pt=2a) | 受管的即時影片解決方案 |
+| [Amazon Nimble Studio](https://aws.amazon.com/tw/nimble-studio/?c=16&pt=10) | 打造數位內容創作工作室 |
 | [Amazon Kinesis Video Streams](https://aws.amazon.com/tw/kinesis/video-streams/?c=16&pt=2) | 處理和分析影片串流 |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/tw/mediaconnect/?c=16&pt=3) | 可靠、安全的即時影片傳輸 |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/tw/mediaconvert/?c=16&pt=4) | 轉換以檔案為基礎的影片內容 |
@@ -183,7 +184,6 @@
 | [AWS Elemental MediaStore](https://aws.amazon.com/tw/mediastore/?c=16&pt=7) | 媒體儲存和簡單 HTTP 來源 |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/tw/mediatailor/?c=16&pt=8) | 影片個人化和獲利 |
 | [AWS Elemental 設備與軟體](https://aws.amazon.com/tw/elemental-appliances-software/?c=16&pt=9) | 現場部屬媒體解決方案 |
-| [AWS Nimble Studio](https://aws.amazon.com/tw/nimble-studio/?c=16&pt=10) | 打造數位內容創作工作室 |
 | [AWS Migration Hub](https://aws.amazon.com/tw/migration-hub/?c=17&pt=1) | 從單一位置追蹤移轉 |
 | [AWS Application Discovery Service](https://aws.amazon.com/tw/application-discovery/?c=17&pt=2) | 探索現場部署應用程式以簡化移轉 |
 | [AWS Application Migration Service (CloudEndure Migration)](https://aws.amazon.com/tw/application-migration-service/?c=17&pt=3a) | 自動化的隨即遷移 |

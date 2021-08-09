@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/ru/amazon-mq/?c=2&pt=3) | Управляемый сервис брокера сообщений. |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/ru/sns/?c=2&pt=4) | Обмен сообщениями по модели «издатель – подписчик» (Pub/Sub), SMS, электронная почта и мобильные push-уведомления |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/ru/sqs/?c=2&pt=5) | Управляемые очереди сообщений |
-| [Amazon AppSync](https://aws.amazon.com/ru/appsync/?c=2&pt=6) | Использование в приложениях нужных данных из множества источников в любом масштабе |
+| [AWS AppSync](https://aws.amazon.com/ru/appsync/?c=2&pt=6) | Использование в приложениях нужных данных из множества источников в любом масштабе |
 | [Amazon Managed Blockchain](https://aws.amazon.com/ru/managed-blockchain/?c=5&pt=1) | Создание масштабируемых сетей блокчейн и управление ими |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/ru/qldb/?c=5&pt=2) | Полностью управляемая база данных для реестров |
 | [Alexa for Business](https://aws.amazon.com/ru/alexaforbusiness/?c=6&pt=1) | Расширение возможностей организации с помощью Alexa |
@@ -175,6 +175,7 @@
 | [AWS Well‑Architected Tool](https://aws.amazon.com/ru/well-architected-tool/?c=15&pt=20) | Анализ и оптимизация рабочих нагрузок |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/ru/elastictranscoder/?c=16&pt=1) | Удобное масштабируемое преобразование мультимедиа |
 | [Amazon Interactive Video Service](https://aws.amazon.com/ru/ivs/?c=16&pt=2a) | Управляемое решение для прямых видеотрансляций |
+| [Amazon Nimble Studio](https://aws.amazon.com/ru/nimble-studio/?c=16&pt=10) | Студия для создания цифрового контента |
 | [Amazon Kinesis Video Streams](https://aws.amazon.com/ru/kinesis/video-streams/?c=16&pt=2) | Обработка и анализ видеопотоков |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/ru/mediaconnect/?c=16&pt=3) | Надежная и безопасная передача видео в режиме реального времени |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/ru/mediaconvert/?c=16&pt=4) | Преобразование файлового видеоконтента |
@@ -183,7 +184,6 @@
 | [AWS Elemental MediaStore](https://aws.amazon.com/ru/mediastore/?c=16&pt=7) | Хранение мультимедийных данных и простой HTTP‑сервер в качестве источника |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/ru/mediatailor/?c=16&pt=8) | Индивидуальная настройка и монетизация видео |
 | [Устройства и программное обеспечение AWS Elemental](https://aws.amazon.com/ru/elemental-appliances-software/?c=16&pt=9) | Локальные решения для мультимедиа |
-| [AWS Nimble Studio](https://aws.amazon.com/ru/nimble-studio/?c=16&pt=10) | Студия для создания цифрового контента |
 | [AWS Migration Hub](https://aws.amazon.com/ru/migration-hub/?c=17&pt=1) | Централизованное отслеживание миграций |
 | [AWS Application Discovery Service](https://aws.amazon.com/ru/application-discovery/?c=17&pt=2) | Обнаружение локальных приложений для упрощения процедуры миграции |
 | [AWS Application Migration Service (CloudEndure Migration)](https://aws.amazon.com/ru/application-migration-service/?c=17&pt=3a) | Автоматизированная миграция путем переноса |

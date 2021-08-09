@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/fr/amazon-mq/?c=2&pt=3) | Service d'agent de messages géré |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/fr/sns/?c=2&pt=4) | Publication/abonnement, SMS, e-mails et notifications push mobile |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/fr/sqs/?c=2&pt=5) | Files d'attente de messages gérées |
-| [Amazon AppSync](https://aws.amazon.com/fr/appsync/?c=2&pt=6) | Faites fonctionner vos applications à l'aide des données adéquates provenant de nombreuses sources, à l'échelle de votre choix |
+| [AWS AppSync](https://aws.amazon.com/fr/appsync/?c=2&pt=6) | Optimiser vos applications avec les données adéquates provenant de nombreuses sources, à grande échelle |
 | [Amazon Managed Blockchain](https://aws.amazon.com/fr/managed-blockchain/?c=5&pt=1) | Créez et gérez des réseaux de chaîne de blocs évolutifs |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/fr/qldb/?c=5&pt=2) | Base de données de registres entièrement gérée |
 | [Alexa for Business](https://aws.amazon.com/fr/alexaforbusiness/?c=6&pt=1) | Optimisez votre organisation avec Alexa |
@@ -175,15 +175,15 @@
 | [Outil AWS Well-Architected Tool](https://aws.amazon.com/fr/well-architected-tool/?c=15&pt=20) | Examinez et améliorez vos charges de travail |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/fr/elastictranscoder/?c=16&pt=1) | Transcodage simple et évolutif de fichiers multimédia |
 | [Amazon Interactive Video Service](https://aws.amazon.com/fr/ivs/?c=16&pt=2a) | Solution de vidéo en direct gérée |
-| [Amazon Kinesis Video Streams](https://aws.amazon.com/fr/kinesis/video-streams/?c=16&pt=2) | Traitement et analyse de flux vidéo |
+| [Amazon Nimble Studio](https://aws.amazon.com/fr/nimble-studio/?c=16&pt=10) | Créer un studio de création de contenu numérique |
+| [Amazon Kinesis Video Streams](https://aws.amazon.com/fr/kinesis/video-streams/?c=16&pt=2) | Traiter et analyser des flux vidéo |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/fr/mediaconnect/?c=16&pt=3) | Transport vidéo en direct fiable et sécurisé |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/fr/mediaconvert/?c=16&pt=4) | Convertissez du contenu vidéo de fichier |
 | [AWS Elemental MediaLive](https://aws.amazon.com/fr/medialive/?c=16&pt=5) | Convertissez du contenu vidéo direct |
 | [AWS Elemental MediaPackage](https://aws.amazon.com/fr/mediapackage/?c=16&pt=6) | Mise en paquet et montage vidéo |
 | [AWS Elemental MediaStore](https://aws.amazon.com/fr/mediastore/?c=16&pt=7) | Stockage multimédia et origine HTTP simple |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/fr/mediatailor/?c=16&pt=8) | Monétisation et personnalisation vidéo |
-| [Appliances et logiciels AWS Elemental](https://aws.amazon.com/fr/elemental-appliances-software/?c=16&pt=9) | Solutions média sur site |
-| [AWS Nimble Studio](https://aws.amazon.com/fr/nimble-studio/?c=16&pt=10) | Créez un studio de création de contenu numérique |
+| [AWS Elemental Appliances & Software](https://aws.amazon.com/fr/elemental-appliances-software/?c=16&pt=9) | Solutions média sur site |
 | [AWS Migration Hub](https://aws.amazon.com/fr/migration-hub/?c=17&pt=1) | Suivre les transferts depuis un lieu unique |
 | [AWS Application Discovery Service](https://aws.amazon.com/fr/application-discovery/?c=17&pt=2) | Découvrez les applications sur site pour rationaliser la migration |
 | [AWS Application Migration Service (CloudEndure Migration)](https://aws.amazon.com/fr/application-migration-service/?c=17&pt=3a) | Migration automatisée par portage et remodélisation |

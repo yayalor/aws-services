@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/it/amazon-mq/?c=2&pt=3) | Servizio di broker di messaggi gestito |
 | [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/it/sns/?c=2&pt=4) | Pub/sub, SMS, e-mail e notifiche push per dispositivi mobili |
 | [Amazon Simple Queue Service (SQS) ](https://aws.amazon.com/it/sqs/?c=2&pt=5) | Accodamento messaggi gestito |
-| [Amazon AppSync](https://aws.amazon.com/it/appsync/?c=2&pt=6) | Alimenta le tue applicazioni con i dati giusti provenienti da più risorse e su vasta scala |
+| [AWS AppSync](https://aws.amazon.com/it/appsync/?c=2&pt=6) | Alimenta le tue applicazioni con i dati giusti provenienti da più risorse e su vasta scala |
 | [Amazon Managed Blockchain](https://aws.amazon.com/it/managed-blockchain/?c=5&pt=1) | Crea e gestisci reti scalabili con tecnologia blockchain |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/it/qldb/?c=5&pt=2) | Database per libri mastri completamente gestito |
 | [Alexa for Business](https://aws.amazon.com/it/alexaforbusiness/?c=6&pt=1) | Utilizzo di Alexa in azienda |
@@ -175,15 +175,15 @@
 | [AWS Well-Architected Tool](https://aws.amazon.com/it/well-architected-tool/?c=15&pt=20) | Controlla e migliora i tuoi carichi di lavoro |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/it/elastictranscoder/?c=16&pt=1) | Transcodifica semplice e scalabile di contenuti multimediali |
 | [Amazon Interactive Video Service](https://aws.amazon.com/it/ivs/?c=16&pt=2a) | Soluzione gestita per video live |
-| [Amazon Kinesis Video Streams](https://aws.amazon.com/it/kinesis/video-streams/?c=16&pt=2) | Elaborazione e analisi di flussi video |
+| [Amazon Nimble Studio](https://aws.amazon.com/it/nimble-studio/?c=16&pt=10) | Crea uno studio per realizzare contenuti digitali |
+| [Amazon Kinesis Video Streams](https://aws.amazon.com/it/kinesis/video-streams/?c=16&pt=2) | Elaborazione e analisi di Video Streams |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/it/mediaconnect/?c=16&pt=3) | Trasferimento di video live sicuro e affidabile |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/it/mediaconvert/?c=16&pt=4) | Conversione di contenuti video basati su file |
 | [AWS Elemental MediaLive](https://aws.amazon.com/it/medialive/?c=16&pt=5) | Conversione di contenuti video in diretta |
 | [AWS Elemental MediaPackage](https://aws.amazon.com/it/mediapackage/?c=16&pt=6) | Creazione di origini e pacchetti video |
 | [AWS Elemental MediaStore](https://aws.amazon.com/it/mediastore/?c=16&pt=7) | Storage multimediale e origini in HTTP semplice |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/it/mediatailor/?c=16&pt=8) | Personalizzazione e monetizzazione di video |
-| [Dispositivi e software AWS Elemental](https://aws.amazon.com/it/elemental-appliances-software/?c=16&pt=9) | Soluzioni per i media in sito |
-| [AWS Nimble Studio](https://aws.amazon.com/it/nimble-studio/?c=16&pt=10) | Crea uno studio per realizzare contenuti digitali |
+| [Appliance e software AWS Elemental](https://aws.amazon.com/it/elemental-appliances-software/?c=16&pt=9) | Soluzioni per i media in sito |
 | [AWS Migration Hub](https://aws.amazon.com/it/migration-hub/?c=17&pt=1) | Monitoraggio delle migrazioni da un'unica posizione |
 | [AWS Application Discovery Service](https://aws.amazon.com/it/application-discovery/?c=17&pt=2) | Rilevamento di applicazioni locali per semplificare la migrazione |
 | [AWS Application Migration Service (CloudEndure Migration)](https://aws.amazon.com/it/application-migration-service/?c=17&pt=3a) | Migrazione lift-and-shift automatizzata |

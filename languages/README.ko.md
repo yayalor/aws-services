@@ -22,7 +22,7 @@
 | [Amazon MQ](https://aws.amazon.com/ko/amazon-mq/?c=2&pt=3) | 관리형 메시지 브로커 서비스 |
 | [Amazon Simple Notification Service(SNS)](https://aws.amazon.com/ko/sns/?c=2&pt=4) | pub/sub, SMS, 이메일 및 모바일 푸시 알림 |
 | [Amazon Simple Queue Service(SQS) ](https://aws.amazon.com/ko/sqs/?c=2&pt=5) | 관리형 메시지 대기열 |
-| [Amazon AppSync](https://aws.amazon.com/ko/appsync/?c=2&pt=6) | 여러 원본의 적절한 데이터를 사용하여 대규모로 앱을 지원 |
+| [AWS AppSync](https://aws.amazon.com/ko/appsync/?c=2&pt=6) | 여러 원본의 적절한 데이터를 사용하여 대규모로 앱을 지원 |
 | [Amazon Managed Blockchain](https://aws.amazon.com/ko/managed-blockchain/?c=5&pt=1) | 확장 가능한 블록체인 네트워크 생성 및 관리 |
 | [Amazon Quantum Ledger Database(QLDB)](https://aws.amazon.com/ko/qldb/?c=5&pt=2) | 완전관리형 원장 데이터베이스 |
 | [Alexa for Business](https://aws.amazon.com/ko/alexaforbusiness/?c=6&pt=1) | Alexa로 조직의 역량 강화 |
@@ -175,6 +175,7 @@
 | [AWS Well-Architected Tool](https://aws.amazon.com/ko/well-architected-tool/?c=15&pt=20) | 워크로드 검토 및 개선 |
 | [Amazon Elastic Transcoder](https://aws.amazon.com/ko/elastictranscoder/?c=16&pt=1) | 사용이 쉽고 확장 가능한 미디어 트랜스코딩 |
 | [Amazon Interactive Video Service](https://aws.amazon.com/ko/ivs/?c=16&pt=2a) | 관리형 라이브 동영상 솔루션 |
+| [Amazon Nimble Studio](https://aws.amazon.com/ko/nimble-studio/?c=16&pt=10) | 디지털 콘텐츠 제작 스튜디오 구축 |
 | [Amazon Kinesis Video Streams](https://aws.amazon.com/ko/kinesis/video-streams/?c=16&pt=2) | 동영상 스트림 처리 및 분석 |
 | [AWS Elemental MediaConnect](https://aws.amazon.com/ko/mediaconnect/?c=16&pt=3) | 안정적이고 안전한 라이브 비디오 전송 |
 | [AWS Elemental MediaConvert](https://aws.amazon.com/ko/mediaconvert/?c=16&pt=4) | 파일 기반 비디오 콘텐츠를 변환 |
@@ -183,7 +184,6 @@
 | [AWS Elemental MediaStore](https://aws.amazon.com/ko/mediastore/?c=16&pt=7) | 미디어 스토리지 및 간단한 HTTP 오리진 |
 | [AWS Elemental MediaTailor](https://aws.amazon.com/ko/mediatailor/?c=16&pt=8) | 비디오 개인화 및 수익화 |
 | [AWS Elemental 어플라이언스 및 소프트웨어](https://aws.amazon.com/ko/elemental-appliances-software/?c=16&pt=9) | 온프레미스 미디어 솔루션 |
-| [AWS Nimble Studio](https://aws.amazon.com/ko/nimble-studio/?c=16&pt=10) | 디지털 콘텐츠 제작 스튜디오 구축 |
 | [AWS Migration Hub](https://aws.amazon.com/ko/migration-hub/?c=17&pt=1) | 한 곳에서 마이그레이션을 추적 |
 | [AWS Application Discovery Service](https://aws.amazon.com/ko/application-discovery/?c=17&pt=2) | 온프레미스 애플리케이션을 파악하여 마이그레이션을 간소화 |
 | [AWS Application Migration Service(CloudEndure Migration)](https://aws.amazon.com/ko/application-migration-service/?c=17&pt=3a) | 자동화된 리프트 및 시프트 마이그레이션 |
