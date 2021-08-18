@@ -6,7 +6,6 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"strings"
 	"text/template"
 	"time"
 
@@ -68,8 +67,7 @@ func checkTemplate() error {
 	path := options.Template
 	if path != "" {
 		if _, err := os.Stat(path); os.IsNotExist(err) {
-			errMsg := strings.Join([]string{path, ": no such file"}, "")
-			return errors.New(errMsg)
+			return errors.New(path + ": no such file")
 		}
 	}
 	return nil
@@ -88,9 +86,9 @@ func checkLanguageSupport(lang string) error {
 		}
 	}
 	if is == false {
-		errMsg := strings.Join([]string{lang, " language is not supported\nsupported languages:"}, "")
+		errMsg := lang + " language is not supported\nsupported languages:"
 		for _, v := range supportedLanguages {
-			errMsg = strings.Join([]string{v, "\n"}, "")
+			errMsg = v + "\n"
 		}
 		return errors.New(errMsg)
 	}
@@ -102,9 +100,9 @@ func getTableRowItems(lang string) ([]TableRow, error) {
 	baseUrl := "https://aws.amazon.com/"
 	url := baseUrl
 	if lang != "en" {
-		url = strings.Join([]string{baseUrl, lang, "/products"}, "")
+		url = baseUrl + lang + "/products"
 	} else {
-		url = strings.Join([]string{baseUrl, "/products"}, "")
+		url = baseUrl + "/products"
 	}
 	doc, err := goquery.NewDocument(url)
 	if err != nil {
@@ -115,8 +113,8 @@ func getTableRowItems(lang string) ([]TableRow, error) {
 		name := item.Find("span").Text()
 		description := item.Find("cite").Text()
 		path, _ := item.Find("a").Attr("href")
-		path = strings.Join([]string{baseUrl, path[1:]}, "")
-		name = strings.Join([]string{"[", name, "](", path, ")"}, "")
+		path = baseUrl + path[1:]
+		name = "[" + name + "](" + path + ")"
 		res = append(res, TableRow{Service: name, Description: description})
 	})
 	return res, err
@@ -128,17 +126,17 @@ func getNav(isDefaultOutput bool) string {
 		isDefaultLanguage := lang == defaultLanguage
 		if isDefaultOutput {
 			if !isDefaultLanguage {
-				res = strings.Join([]string{res, " | [", lang, "](./languages/README.", lang, ".md)"}, "")
+				res = res + " | [" + lang + "](./languages/README." + lang + ".md)"
 			}
 		} else {
 			if isDefaultLanguage {
-				res = strings.Join([]string{res, " | [", lang, "](../README.md)"}, "")
+				res = res + " | [" + lang + "](../README.md)"
 			} else {
-				res = strings.Join([]string{res, " | [", lang, "](./README.", lang, ".md)"}, "")
+				res = res + " | [" + lang + "](./README." + lang + ".md)"
 			}
 		}
 	}
-	return strings.Join([]string{res, " |\n"}, "")
+	return res + " |\n"
 }
 
 func output(lang string, isDefault bool) error {
@@ -154,9 +152,9 @@ func output(lang string, isDefault bool) error {
 	tableHeader := "| Service | Description |\n| --- | --- |\n"
 	tableContent := ""
 	for _, item := range items {
-		tableContent = strings.Join([]string{tableContent, "| ", item.Service, " | ", item.Description, " |\n"}, "")
+		tableContent = tableContent + "| " + item.Service + " | " + item.Description + " |\n"
 	}
-	res := strings.Join([]string{nav, "\n", tableHeader, tableContent}, "")
+	res := nav + "\n" + tableHeader + tableContent
 	if _, err := os.Stat("./languages"); os.IsNotExist(err) {
 		if err := os.Mkdir("./languages", 0755); err != nil {
 			return err
@@ -194,7 +192,7 @@ func output(lang string, isDefault bool) error {
 			}
 		}
 	} else {
-		if err := ioutil.WriteFile(strings.Join([]string{"./languages/README.", lang, ".md"}, ""), []byte(res), 0644); err != nil {
+		if err := ioutil.WriteFile("./languages/README."+lang+".md", []byte(res), 0644); err != nil {
 			return err
 		}
 	}
