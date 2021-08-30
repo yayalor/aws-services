@@ -67,6 +67,7 @@
 | [Amazon DocumentDB (MongoDB ile uyumlu)](https://aws.amazon.com/tr/documentdb/?c=9&pt=3) | Tam olarak yönetilen belge veritabanı |
 | [Amazon ElastiCache](https://aws.amazon.com/tr/elasticache/?c=9&pt=4) | Bellek İçi Önbelleğe Alma Sistemi |
 | [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/tr/keyspaces/?c=9&pt=5) | Managed Cassandra uyumlu veritabanı |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/tr/memorydb/) | Ultra hızlı performans sunan Redis uyumlu, dayanıklı, bellek içi veritabanı |
 | [Amazon Neptune ](https://aws.amazon.com/tr/neptune/?c=9&pt=6) | Tam Olarak Yönetilen Grafik Veritabanı Hizmeti |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/tr/qldb/?c=9&pt=7) | Tam olarak yönetilen kayıt defteri veritabanı |
 | [Amazon RDS](https://aws.amazon.com/tr/rds/?c=9&pt=8) | MySQL, PostgreSQL, Oracle, SQL Server ve MariaDB İçin Yönetilen İlişkisel Veritabanı Hizmeti |

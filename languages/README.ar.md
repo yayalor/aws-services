@@ -67,6 +67,7 @@
 | [Amazon DocumentDB (مع التوافق مع MongoDB)](https://aws.amazon.com/ar/documentdb/?c=9&pt=3) | قاعدة بيانات الوثائق المُدارة بالكامل |
 | [Amazon ElastiCache](https://aws.amazon.com/ar/elasticache/?c=9&pt=4) | نظام التخزين المؤقت في الذاكرة |
 | [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/ar/keyspaces/?c=9&pt=5) | قاعدة بيانات متوافقة مع Managed Cassandra |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/ar/memorydb/) | قواعد بيانات في الذاكرة متوافقة مع Redis وعالية التحمل وذات أداء فائق السرعة |
 | [Amazon Neptune ](https://aws.amazon.com/ar/neptune/?c=9&pt=6) | خدمة قاعدة بيانات رسومية مدارة بشكل كامل |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/ar/qldb/?c=9&pt=7) | قاعدة بيانات سجل حسابات مُدارة بالكامل |
 | [Amazon RDS](https://aws.amazon.com/ar/rds/?c=9&pt=8) | خدمة قاعدة البيانات الارتباطية المُدارة لـ MySQL وPostgreSQL وOracle وSQL Server وMariaDB |

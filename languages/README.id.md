@@ -67,7 +67,8 @@
 | [Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/id/documentdb/?c=9&pt=3) | Database dokumen yang dikelola sepenuhnya |
 | [Amazon ElastiCache](https://aws.amazon.com/id/elasticache/?c=9&pt=4) | Sistem Cache In-memory |
 | [Amazon Keyspaces (untuk Apache Cassandra)](https://aws.amazon.com/id/keyspaces/?c=9&pt=5) | Mengelola database kompatibel-Cassandra |
-| [Amazon Neptune ](https://aws.amazon.com/id/neptune/?c=9&pt=6) | Layanan Database Grafik Terkelola Penuh |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/id/memorydb/) | Basis data dalam memori yang tahan lama dan kompatibel dengan Redis sehingga mampu memberikan performa sangat cepat |
+| [Amazon Neptune ](https://aws.amazon.com/id/neptune/?c=9&pt=6) | Layanan Basis Data Grafik Terkelola Penuh |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/id/qldb/?c=9&pt=7) | Database ledger yang dikelola sepenuhnya |
 | [Amazon RDS](https://aws.amazon.com/id/rds/?c=9&pt=8) | Layanan Database Relasional Terkelola untuk MySQL, PostgreSQL, Oracle, SQL Server, dan MariaDB |
 | [Amazon RDS on VMware](https://aws.amazon.com/id/rds/vmware/?c=9&pt=9) | Automasi manajemen database di lokasi |

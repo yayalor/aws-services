@@ -67,7 +67,8 @@
 | [Amazon DocumentDB (có khả năng tương thích với MongoDB)](https://aws.amazon.com/vi/documentdb/?c=9&pt=3) | Cơ sở dữ liệu tài liệu được quản lý toàn phần |
 | [Amazon ElastiCache](https://aws.amazon.com/vi/elasticache/?c=9&pt=4) | Hệ thống bộ nhớ đệm trong bộ nhớ |
 | [Amazon Keyspaces (cho Apache Cassandra)](https://aws.amazon.com/vi/keyspaces/?c=9&pt=5) | Cơ sở dữ liệu tương thích với Managed Cassandra |
-| [Amazon Neptune ](https://aws.amazon.com/vi/neptune/?c=9&pt=6) | Dịch vụ cơ sở dữ liệu đồ thị được quản lý toàn phần |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/vi/memorydb/) | Dịch vụ cơ sở dữ liệu trên bộ nhớ, bền, tương thích với Redis mang đến hiệu suất siêu nhanh |
+| [Amazon Neptune ](https://aws.amazon.com/vi/neptune/?c=9&pt=6) | Dịch vụ cơ sở dữ liệu đồ thị được quản lý hoàn toàn |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/vi/qldb/?c=9&pt=7) | Cơ sở dữ liệu sổ cái được quản lý toàn phần |
 | [Amazon RDS](https://aws.amazon.com/vi/rds/?c=9&pt=8) | Dịch vụ cơ sở dữ liệu quan hệ được quản lý cho MySQL, PostgreSQL, Oracle, SQL Server và MariaDB |
 | [Amazon RDS on VMware](https://aws.amazon.com/vi/rds/vmware/?c=9&pt=9) | Tự động hóa quản lý cơ sở dữ liệu tại chỗ |

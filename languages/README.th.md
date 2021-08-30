@@ -67,6 +67,7 @@
 | [Amazon DocumentDB (ใช้งานร่วมกับ MongoDB ได้)](https://aws.amazon.com/th/documentdb/?c=9&pt=3) | ฐานข้อมูลเอกสารที่มีการจัดการอย่างเต็มรูปแบบ |
 | [Amazon ElastiCache](https://aws.amazon.com/th/elasticache/?c=9&pt=4) | ระบบแคชในหน่วยความจำ |
 | [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/th/keyspaces/?c=9&pt=5) | ฐานข้อมูลที่เข้ากันได้กับ Cassandra ที่ได้รับการจัดการ |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/th/memorydb/) | ฐานข้อมูลในหน่วยความจำที่ใช้งานร่วมกันได้กับ Redis และทนทานซึ่งให้ประสิทธิภาพที่มีความเร็วสูงเป็นพิเศษ |
 | [Amazon Neptune ](https://aws.amazon.com/th/neptune/?c=9&pt=6) | บริการฐานข้อมูลกราฟที่มีการจัดการเต็มรูปแบบ |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/th/qldb/?c=9&pt=7) | ฐานข้อมูลแยกประเภทที่มีการจัดการเต็มรูปแบบ |
 | [Amazon RDS](https://aws.amazon.com/th/rds/?c=9&pt=8) | Relational Database Service ที่มีการจัดการสำหรับ MySQL, PostgreSQL, Oracle, SQL Server และ MariaDB |
