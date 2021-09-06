@@ -215,7 +215,7 @@
 | [Amazon Inspector](https://aws.amazon.com/tr/inspector/?c=22&pt=5) | Uygulama Güvenliğini Analiz Etme |
 | [Amazon Macie](https://aws.amazon.com/tr/macie/?c=22&pt=6) | Uygun ölçekte, hassas verilerinizi keşfedin ve koruyun |
 | [AWS Artifact](https://aws.amazon.com/tr/artifact/?c=22&pt=7) | AWS mevzuat uyumluluğu raporlarına isteğe bağlı erişim |
-| [AWS Denetim Yöneticisi](https://aws.amazon.com/tr/audit-manager/) | AWS kullanımınızı sürekli denetleyin |
+| [AWS Audit Manager](https://aws.amazon.com/tr/audit-manager/) | AWS kullanımınızı sürekli denetleyin |
 | [AWS Certificate Manager](https://aws.amazon.com/tr/certificate-manager/?c=22&pt=8) | SSL/TLS Sertifikalarını Tedarik Edin, Yönetin ve Dağıtın |
 | [AWS CloudHSM](https://aws.amazon.com/tr/cloudhsm/?c=22&pt=9) | Yasal Düzenleme Uyumluluğu İçin Donanım Tabanlı Anahtar Depolama |
 | [AWS Directory Service](https://aws.amazon.com/tr/directoryservice/?c=22&pt=10) | Active Directory Barındırma ve Yönetme |
