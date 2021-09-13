@@ -67,6 +67,7 @@
 | [Amazon DocumentDB (與 MongoDB 相容)](https://aws.amazon.com/tw/documentdb/?c=9&pt=3) | 全受管文件資料庫 |
 | [Amazon ElastiCache](https://aws.amazon.com/tw/elasticache/?c=9&pt=4) | 記憶體內快取系統 |
 | [Amazon Keyspaces (適用於 Apache Cassandra)](https://aws.amazon.com/tw/keyspaces/?c=9&pt=5) | 受管 Cassandra 相容資料庫 |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/tw/memorydb/) | 可提供超快效能的與 Redis 相容的、耐用性記憶體內資料庫 |
 | [Amazon Neptune ](https://aws.amazon.com/tw/neptune/?c=9&pt=6) | 全受管圖形資料庫服務 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/tw/qldb/?c=9&pt=7) | 全受管總帳資料庫 |
 | [Amazon RDS](https://aws.amazon.com/tw/rds/?c=9&pt=8) | 適用於 MySQL、PostgreSQL、Oracle、SQL Server 和 MariaDB 的受管關聯式資料庫服務 |

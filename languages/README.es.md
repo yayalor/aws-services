@@ -66,7 +66,8 @@
 | [Amazon DynamoDB](https://aws.amazon.com/es/dynamodb/?c=9&pt=2) | Base de datos NoSQL administrada |
 | [Amazon DocumentDB (compatible con MongoDB)](https://aws.amazon.com/es/documentdb/?c=9&pt=3) | Base de datos de documentos completamente administrada |
 | [Amazon ElastiCache](https://aws.amazon.com/es/elasticache/?c=9&pt=4) | Sistema de almacenamiento en caché en memoria |
-| [Amazon Keyspaces (para Apache Cassandra)](https://aws.amazon.com/es/keyspaces/?c=9&pt=5) | Base de datos administrada compatible con Cassandra |
+| [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/es/keyspaces/?c=9&pt=5) | Base de datos administrada compatible con Cassandra |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/es/memorydb/) | Base de datos en memoria, duradera y compatible con Redis, que ofrece un rendimiento ultrarrápido |
 | [Amazon Neptune ](https://aws.amazon.com/es/neptune/?c=9&pt=6) | Servicio completamente administrado de bases de datos de gráficos |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/es/qldb/?c=9&pt=7) | Base de datos de libro mayor completamente administrada |
 | [Amazon RDS](https://aws.amazon.com/es/rds/?c=9&pt=8) | Servicio de bases de datos relacionales administradas para MySQL, PostgreSQL, Oracle, SQL Server y MariaDB |

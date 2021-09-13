@@ -66,7 +66,8 @@
 | [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?c=9&pt=2) | 托管 NoSQL 数据库 |
 | [Amazon DocumentDB（兼容 MongoDB）](https://aws.amazon.com/cn/documentdb/?c=9&pt=3) | 完全托管型文档数据库 |
 | [Amazon ElastiCache](https://aws.amazon.com/cn/elasticache/?c=9&pt=4) | 内存中的缓存系统 |
-| [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/cn/keyspaces/?c=9&pt=5) | 托管型 Cassandra 兼容数据库 |
+| [Amazon Keyspaces（适用于 Apache Cassandra）](https://aws.amazon.com/cn/keyspaces/?c=9&pt=5) | 托管型 Cassandra 兼容数据库 |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/cn/memorydb/) | 与 Redis 兼容、持久的内存数据库，可提供超快的性能 |
 | [Amazon Neptune ](https://aws.amazon.com/cn/neptune/?c=9&pt=6) | 完全托管的图形数据库服务 |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/cn/qldb/?c=9&pt=7) | 完全托管型分类账数据库 |
 | [Amazon RDS](https://aws.amazon.com/cn/rds/?c=9&pt=8) | 适用于 MySQL、PostgreSQL、Oracle、SQL Server 和 MariaDB 的托管关系数据库服务 |

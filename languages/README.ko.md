@@ -67,7 +67,8 @@
 | [Amazon DocumentDB(MongoDB 호환)](https://aws.amazon.com/ko/documentdb/?c=9&pt=3) | 완전관리형 문서 데이터베이스 |
 | [Amazon ElastiCache](https://aws.amazon.com/ko/elasticache/?c=9&pt=4) | 인 메모리 캐싱 시스템 |
 | [Amazon Keyspaces(Apache Cassandra용)](https://aws.amazon.com/ko/keyspaces/?c=9&pt=5) | 관리형 Cassandra 호환 데이터베이스 |
-| [Amazon Neptune ](https://aws.amazon.com/ko/neptune/?c=9&pt=6) | 완전관리형 그래프 데이터 서비스 |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/ko/memorydb/) | 내구성을 갖춘 Redis 호환 인 메모리 데이터베이스 서비스로, 초고속 성능을 제공 |
+| [Amazon Neptune ](https://aws.amazon.com/ko/neptune/?c=9&pt=6) | 완전관리형 그래프 데이터베이스 서비스 |
 | [Amazon Quantum Ledger Database(QLDB)](https://aws.amazon.com/ko/qldb/?c=9&pt=7) | 완전관리형 원장 데이터베이스 |
 | [Amazon RDS](https://aws.amazon.com/ko/rds/?c=9&pt=8) | MySQL, PostgreSQL, Oracle, SQL Server 및 MariaDB를 위한 관리형의 관계형 데이터베이스 서비스 |
 | [Amazon RDS on VMware](https://aws.amazon.com/ko/rds/vmware/?c=9&pt=9) | 온프레미스 데이터베이스 관리 자동화 |

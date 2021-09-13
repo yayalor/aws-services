@@ -66,8 +66,9 @@
 | [Amazon DynamoDB](https://aws.amazon.com/pt/dynamodb/?c=9&pt=2) | Banco de dados NoSQL gerenciado |
 | [Amazon DocumentDB (com compatibilidade com o MongoDB)](https://aws.amazon.com/pt/documentdb/?c=9&pt=3) | Banco de dados de documentos totalmente gerenciado |
 | [Amazon ElastiCache](https://aws.amazon.com/pt/elasticache/?c=9&pt=4) | Sistema de cache de memória |
-| [Amazon Keyspaces (para Apache Cassandra)](https://aws.amazon.com/pt/keyspaces/?c=9&pt=5) | Banco de dados gerenciado compatível com o Cassandra |
-| [Amazon Neptune ](https://aws.amazon.com/pt/neptune/?c=9&pt=6) | Serviço gerenciado de banco de dados gráfico |
+| [Amazon Keyspaces (for Apache Cassandra)](https://aws.amazon.com/pt/keyspaces/?c=9&pt=5) | Banco de dados gerenciado compatível com o Cassandra |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/pt/memorydb/) | Banco de dados na memória, compatível com o Redis e durável que fornece performance ultraveloz |
+| [Amazon Neptune ](https://aws.amazon.com/pt/neptune/?c=9&pt=6) | Serviço totalmente gerenciado de banco de dados de grafos |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/pt/qldb/?c=9&pt=7) | Banco de dados ledger totalmente gerenciado |
 | [Amazon RDS](https://aws.amazon.com/pt/rds/?c=9&pt=8) | Serviço de banco de dados relacional gerenciado para MySQL, PostgreSQL, Oracle, SQL Server e MariaDB |
 | [Amazon RDS on VMware](https://aws.amazon.com/pt/rds/vmware/?c=9&pt=9) | Automatize o gerenciamento de banco de dados on-premises |

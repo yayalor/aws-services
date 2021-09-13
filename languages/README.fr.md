@@ -67,7 +67,8 @@
 | [Amazon DocumentDB (avec compatibilité MongoDB)](https://aws.amazon.com/fr/documentdb/?c=9&pt=3) | Base de données de documents entièrement gérée |
 | [Amazon ElastiCache](https://aws.amazon.com/fr/elasticache/?c=9&pt=4) | Système de mise en cache en mémoire |
 | [Amazon Keyspaces (pour Apache Cassandra)](https://aws.amazon.com/fr/keyspaces/?c=9&pt=5) | Base de données gérée compatible avec Cassandra |
-| [Amazon Neptune ](https://aws.amazon.com/fr/neptune/?c=9&pt=6) | Service de base de données graphique entièrement géré |
+| [Amazon MemoryDB pour Redis](https://aws.amazon.com/fr/memorydb/) | Base de données en mémoire, durable et compatible avec Redis, offrant des performances ultra-rapides |
+| [Amazon Neptune ](https://aws.amazon.com/fr/neptune/?c=9&pt=6) | Service de base de données orientée graphe entièrement géré |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/fr/qldb/?c=9&pt=7) | Base de données de registres entièrement gérée |
 | [Amazon RDS](https://aws.amazon.com/fr/rds/?c=9&pt=8) | Service de base de données relationnelle géré pour MySQL, PostgreSQL, Oracle, SQL Server et MariaDB |
 | [Amazon RDS on VMware](https://aws.amazon.com/fr/rds/vmware/?c=9&pt=9) | Automatisez la gestion de la base de données sur site |

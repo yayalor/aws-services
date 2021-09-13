@@ -66,7 +66,8 @@
 | [Amazon DynamoDB](https://aws.amazon.com/ru/dynamodb/?c=9&pt=2) | Управляемая база данных NoSQL |
 | [Amazon DocumentDB (совместим с MongoDB)](https://aws.amazon.com/ru/documentdb/?c=9&pt=3) | Полностью управляемая документная база данных |
 | [Amazon ElastiCache](https://aws.amazon.com/ru/elasticache/?c=9&pt=4) | Система кэширования в памяти |
-| [Amazon Keyspaces (для Apache Cassandra)](https://aws.amazon.com/ru/keyspaces/?c=9&pt=5) | Управляемая база данных, совместимая с Cassandra |
+| [Amazon Keyspaces (для Apache Cassandra)](https://aws.amazon.com/ru/keyspaces/?c=9&pt=5) | Управляемая база данных, совместимая с Cassandra |
+| [Amazon MemoryDB for Redis](https://aws.amazon.com/ru/memorydb/) | Совместимая с Redis надежная база данных в памяти, которая обеспечивает сверхбыструю производительность |
 | [Amazon Neptune ](https://aws.amazon.com/ru/neptune/?c=9&pt=6) | Полностью управляемый сервис графической базы данных |
 | [Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/ru/qldb/?c=9&pt=7) | Полностью управляемая база данных для реестров |
 | [Amazon RDS](https://aws.amazon.com/ru/rds/?c=9&pt=8) | Управляемый сервис реляционных БД для MySQL, PostgreSQL, Oracle, SQL Server и MariaDB |
