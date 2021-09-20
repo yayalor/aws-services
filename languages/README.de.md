@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/de/ecs/?c=7a&pt=2) | Sichere, zuverlässige und skalierbare Methode zum Ausführen von Containern |
 | [Amazon ECS Anywhere](https://aws.amazon.com/de/ecs/anywhere/?c=7a&pt=2) | Container auf einer vom Kunden verwalteten Infrastruktur ausführen |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/de/eks/?c=7a&pt=3) | Die vertrauenswürdigste Art, Kubernetes auszuführen |
-| [Amazon EKS Anywhere (in Kürze verfügbar)](https://aws.amazon.com/de/eks/eks-anywhere/) | Kubernetes in Ihrer Infrastruktur |
+| [Amazon EKS Anywhere](https://aws.amazon.com/de/eks/eks-anywhere/) | Kubernetes in Ihrer Infrastruktur |
 | [Amazon EKS Distro](https://aws.amazon.com/de/eks/eks-distro/) | Konsistente Kubernetes-Cluster ausführen |
 | [AWS App2Container](https://aws.amazon.com/de/app2container/?c=7a&pt=1a) | Vorhandene Anwendungen containerisieren und migrieren |
 | [AWS App Runner](https://aws.amazon.com/de/apprunner/?c=7a&pt=1b) | Erstellen und Ausführen von containerisierten Webanwendungen im großen Maßstab |

@@ -51,8 +51,8 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/id/ecs/?c=7a&pt=2) | Cara yang sangat aman, andal, dan dapat diskalakan untuk menjalankan kontainer |
 | [Amazon ECS Anywhere](https://aws.amazon.com/id/ecs/anywhere/?c=7a&pt=2) | Jalankan kontainer di infrastruktur yang dikelola pelanggan |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/id/eks/?c=7a&pt=3) | Cara paling tepercaya dalam menjalankan Kubernetes |
-| [Amazon EKS Anywhere (Segera Hadir)](https://aws.amazon.com/id/eks/eks-anywhere/) | Kubernetes di infrastruktur Anda |
-| [Amazon EKS Distro](https://aws.amazon.com/id/eks/eks-distro/) | Jalankan kluster Kubernetes yang konsisten |
+| [Amazon EKS Anywhere](https://aws.amazon.com/id/eks/eks-anywhere/) | Kubernetes di infrastruktur Anda |
+| [Amazon EKS Distro](https://aws.amazon.com/id/eks/eks-distro/) | Jalankan klaster Kubernetes yang konsisten |
 | [AWS App2Container](https://aws.amazon.com/id/app2container/?c=7a&pt=1a) | Kemas dan migrasikan aplikasi yang ada |
 | [AWS App Runner](https://aws.amazon.com/id/apprunner/?c=7a&pt=1b) | Buat dan jalankan aplikasi web terkontainer dalam skala besar |
 | [AWS Copilot](https://aws.amazon.com/id/containers/copilot/?c=7a&pt=1b) | Deploy dan operasikan aplikasi terkontainer dengan mudah |

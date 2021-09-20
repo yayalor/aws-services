@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/vi/ecs/?c=7a&pt=2) | Dịch vụ có độ bảo mật cao, đáng tin cậy và quy mô linh hoạt để chạy các container |
 | [Amazon ECS Anywhere](https://aws.amazon.com/vi/ecs/anywhere/?c=7a&pt=2) | Chạy bộ chứa trên cơ sở hạ tầng do khách hàng quản lý |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/vi/eks/?c=7a&pt=3) | Giải pháp đáng tin cậy nhất để chạy Kubernetes |
-| [Amazon EKS Anywhere (Sắp ra mắt)](https://aws.amazon.com/vi/eks/eks-anywhere/) | Kubernetes trên cơ sở hạ tầng của bạn |
+| [Amazon EKS Anywhere](https://aws.amazon.com/vi/eks/eks-anywhere/) | Kubernetes trên cơ sở hạ tầng của bạn |
 | [Amazon EKS Distro](https://aws.amazon.com/vi/eks/eks-distro/) | Chạy các cụm Kubernetes nhất quán |
 | [AWS App2Container](https://aws.amazon.com/vi/app2container/?c=7a&pt=1a) | Đưa vào bộ chứa và di chuyển các ứng dụng hiện có |
 | [AWS App Runner](https://aws.amazon.com/vi/apprunner/?c=7a&pt=1b) | Dựng và chạy ứng dụng web trong bộ chứa trên quy mô lớn |

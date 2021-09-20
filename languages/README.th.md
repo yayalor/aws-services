@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/th/ecs/?c=7a&pt=2) | วิธีใช้งานคอนเทนเนอร์ที่มีความปลอดภัยสูง ไว้ใจได้ และปรับขนาดได้ |
 | [Amazon ECS Anywhere](https://aws.amazon.com/th/ecs/anywhere/?c=7a&pt=2) | เรียกใช้งานคอนเทนเนอร์บนโครงสร้างพื้นฐานที่จัดการโดยลูกค้า |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/th/eks/?c=7a&pt=3) | วิธีการเรียกใช้ Kubernetes ที่น่าเชื่อถือที่สุด |
-| [Amazon EKS Anywhere (เร็วๆ นี้)](https://aws.amazon.com/th/eks/eks-anywhere/) | Kubernetes บนโครงสร้างพื้นฐานของคุณ |
+| [Amazon EKS Anywhere](https://aws.amazon.com/th/eks/eks-anywhere/) | Kubernetes บนโครงสร้างพื้นฐานของคุณ |
 | [Amazon EKS Distro](https://aws.amazon.com/th/eks/eks-distro/) | เรียกใช้คลัสเตอร์ Kubernetes ที่สม่ำเสมอ |
 | [AWS App2Container](https://aws.amazon.com/th/app2container/?c=7a&pt=1a) | บรรจุและย้ายแอปพลิเคชันที่มีอยู่ |
 | [AWS App Runner](https://aws.amazon.com/th/apprunner/?c=7a&pt=1b) | สร้างและเปิดใช้เว็บแอปในคอนเทนเนอร์ในทุกระดับขนาด |
@@ -215,7 +215,7 @@
 | [Amazon Inspector](https://aws.amazon.com/th/inspector/?c=22&pt=5) | วิเคราะห์ความปลอดภัยของแอปพลิเคชัน |
 | [Amazon Macie](https://aws.amazon.com/th/macie/?c=22&pt=6) | ค้นหาและปกป้องข้อมูลที่ละเอียดอ่อนของคุณในทุกระดับ |
 | [AWS Artifact](https://aws.amazon.com/th/artifact/?c=22&pt=7) | เข้าถึงรายงานการปฏิบัติตามข้อกำหนดของ AWS ได้ตามต้องการ |
-| [ตัวจัดการการตรวจสอบ AWS](https://aws.amazon.com/th/audit-manager/) | ตรวจสอบการใช้งาน AWS ของคุณอย่างต่อเนื่อง |
+| [AWS Audit Manager](https://aws.amazon.com/th/audit-manager/) | ตรวจสอบการใช้งาน AWS ของคุณอย่างต่อเนื่อง |
 | [AWS Certificate Manager](https://aws.amazon.com/th/certificate-manager/?c=22&pt=8) | จัดเตรียม จัดการ และปรับใช้ใบรับรอง SSL/TLS |
 | [AWS CloudHSM](https://aws.amazon.com/th/cloudhsm/?c=22&pt=9) | พื้นที่จัดเก็บคีย์ด้วยฮาร์ดแวร์สำหรับการปฏิบัติตามกฎระเบียบ |
 | [AWS Directory Service](https://aws.amazon.com/th/directoryservice/?c=22&pt=10) | โฮสต์และจัดการไดเรกทอรีที่ใช้งาน |

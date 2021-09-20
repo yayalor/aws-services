@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ar/ecs/?c=7a&pt=2) | أسلوب تشغيل حاويات يتسم بشدة الأمان والموثوقية وقابلية التوسع |
 | [Amazon ECS Anywhere](https://aws.amazon.com/ar/ecs/anywhere/?c=7a&pt=2) | تشغيل الحاويات على البنية التحتية التي يديرها العميل |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ar/eks/?c=7a&pt=3) | الطريقة الموثوقة والآمنة لتشغيل Kubernetes |
-| [Amazon EKS Anywhere (تتوفر قريبًا)](https://aws.amazon.com/ar/eks/eks-anywhere/) | Kubernetes على بنيتك الأساسية |
+| [Amazon EKS Anywhere](https://aws.amazon.com/ar/eks/eks-anywhere/) | Kubernetes على بنيتك الأساسية |
 | [Amazon EKS Distro](https://aws.amazon.com/ar/eks/eks-distro/) | تشغيل مجموعات Kubernetes متسقة |
 | [AWS App2Container](https://aws.amazon.com/ar/app2container/?c=7a&pt=1a) | وضع التطبيقات الحالية في حاويات وترحيلها |
 | [مشغل تطبيق AWS](https://aws.amazon.com/ar/apprunner/?c=7a&pt=1b) | إنشاء وتشغيل تطبيقات الويب المعتمدة على الحاويات على نطاق واسع |

@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ru/ecs/?c=7a&pt=2) | Безопасное, надежное и масштабируемое средство использования контейнеров |
 | [Amazon ECS Anywhere](https://aws.amazon.com/ru/ecs/anywhere/?c=7a&pt=2) | Запуск контейнеров в управляемой пользователем инфраструктуре |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/ru/eks/?c=7a&pt=3) | Самый надежный способ выполнять Kubernetes |
-| [Amazon EKS Anywhere (скоро)](https://aws.amazon.com/ru/eks/eks-anywhere/) | Kubernetes в вашей инфраструктуре |
+| [Amazon EKS Anywhere](https://aws.amazon.com/ru/eks/eks-anywhere/) | Kubernetes в вашей инфраструктуре |
 | [Amazon EKS Distro](https://aws.amazon.com/ru/eks/eks-distro/) | Запускайте единые кластеры Kubernetes |
 | [AWS App2Container](https://aws.amazon.com/ru/app2container/?c=7a&pt=1a) | Размещение существующих приложений в контейнерах и их перенос |
 | [AWS App Runner](https://aws.amazon.com/ru/apprunner/?c=7a&pt=1b) | Создание и запуск контейнерных веб-приложений в любом масштабе |

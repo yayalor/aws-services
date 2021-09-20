@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service(ECS)](https://aws.amazon.com/ko/ecs/?c=7a&pt=2) | 컨테이너를 실행하는 고도로 안전하고, 안정적이며, 확장 가능한 방법 |
 | [Amazon ECS Anywhere](https://aws.amazon.com/ko/ecs/anywhere/?c=7a&pt=2) | 고객 관리형 인프라에서 컨테이너 실행 |
 | [Amazon Elastic Kubernetes Service(EKS)](https://aws.amazon.com/ko/eks/?c=7a&pt=3) | Kubernetes를 실행하는 가장 신뢰성 높은 방법 |
-| [Amazon EKS Anywhere(제공 예정)](https://aws.amazon.com/ko/eks/eks-anywhere/) | 인프라의 Kubernetes |
+| [Amazon EKS Anywhere](https://aws.amazon.com/ko/eks/eks-anywhere/) | 인프라의 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/ko/eks/eks-distro/) | 일관된 Kubernetes 클러스터 실행 |
 | [AWS App2Container](https://aws.amazon.com/ko/app2container/?c=7a&pt=1a) | 기존 애플리케이션 컨테이너화 및 마이그레이션 |
 | [AWS App Runner](https://aws.amazon.com/ko/apprunner/?c=7a&pt=1b) | 컨테이너식 웹 앱의 대규모 구축 및 실행 |

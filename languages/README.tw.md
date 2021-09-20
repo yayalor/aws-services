@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/tw/ecs/?c=7a&pt=2) | 高度安全、可靠且可擴展的容器執行方式 |
 | [Amazon ECS Anywhere](https://aws.amazon.com/tw/ecs/anywhere/?c=7a&pt=2) | 在客戶管理的基礎架構上執行容器 |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tw/eks/?c=7a&pt=3) | 最值得信賴的 Kubernetes 執行方式 |
-| [Amazon EKS Anywhere (即將推出)](https://aws.amazon.com/tw/eks/eks-anywhere/) | 在基礎設施中使用 Kubernetes |
+| [Amazon EKS Anywhere](https://aws.amazon.com/tw/eks/eks-anywhere/) | 在基礎設施中使用 Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tw/eks/eks-distro/) | 執行一致的 Kubernetes 叢集 |
 | [AWS App2Container](https://aws.amazon.com/tw/app2container/?c=7a&pt=1a) | 容器化並遷移現有的應用程式 |
 | [AWS App Runner](https://aws.amazon.com/tw/apprunner/?c=7a&pt=1b) | 大規模建置和執行容器化 Web 應用程式 |

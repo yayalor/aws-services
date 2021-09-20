@@ -51,7 +51,7 @@
 | [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/tr/ecs/?c=7a&pt=2) | Container'ları çalıştırmak için son derece güvenli, güvenilir ve ölçeklenebilir bir yöntem |
 | [Amazon ECS Anywhere](https://aws.amazon.com/tr/ecs/anywhere/?c=7a&pt=2) | Container'ları müşteri tarafından yönetilen altyapıda çalıştırın |
 | [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/tr/eks/?c=7a&pt=3) | Kubernetes'i çalıştırmanın en güvenilir yolu |
-| [Amazon EKS Anywhere (Yakında)](https://aws.amazon.com/tr/eks/eks-anywhere/) | Altyapınızda Kubernetes |
+| [Amazon EKS Anywhere](https://aws.amazon.com/tr/eks/eks-anywhere/) | Altyapınızda Kubernetes |
 | [Amazon EKS Distro](https://aws.amazon.com/tr/eks/eks-distro/) | Tutarlı Kubernetes kümeleri çalıştırın |
 | [AWS App2Container](https://aws.amazon.com/tr/app2container/?c=7a&pt=1a) | Mevcut uygulamaları container’lı hale getirin ve geçirin |
 | [AWS App Runner](https://aws.amazon.com/tr/apprunner/?c=7a&pt=1b) | Ölçekli olarak container’a alınmış web uygulamaları oluşturun ve çalıştırın |
