@@ -113,9 +113,7 @@ func getTableRowItems(lang string) ([]TableRow, error) {
 		name := item.Find("span").Text()
 		description := item.Find("cite").Text()
 		path, _ := item.Find("a").Attr("href")
-		if lang != "en" {
-			path = baseUrl + path[1:]
-		}
+		path = baseUrl + path[1:]
 		name = "[" + name + "](" + path + ")"
 		res = append(res, TableRow{Service: name, Description: description})
 	})
