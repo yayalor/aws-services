@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/tr/s3/?c=24&pt=1) | Bulutta Ölçeklenebilir Depolama |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/tr/ebs/?c=24&pt=2) | EC2 blok depolama birimleri |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/tr/efs/?c=24&pt=3) | EC2 için tam olarak yönetilen dosya sistemi |
-| [Amazon FSx for Lustre](https://aws.amazon.com/tr/fsx/lustre/?c=24&pt=4) | S3 ile entegre yüksek performanslı dosya sistemi |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/tr/fsx/windows/?c=24&pt=5) | Tam olarak yönetilen, Windows’da yerel dosya sistemi |
+| [Amazon FSx Ailesi](https://aws.amazon.com/tr/fsx/?c=24&pt=5) | Tam olarak yönetilen popüler dosya sistemleri |
 | [Amazon S3 Glacier](https://aws.amazon.com/tr/glacier1/?c=24&pt=6) | Bulutta Düşük Maliyetli Arşiv Depolama |
 | [AWS Backup](https://aws.amazon.com/tr/backup/?c=24&pt=7) | AWS hizmetleri genelinde merkezi yedekleme |
 | [AWS Snow Ailesi](https://aws.amazon.com/tr/snow/?c=24&pt=8) | Sağlam veya bağlantısı kesilmiş ortamlar için fiziksel uç işlemi ve depolama aygıtları |

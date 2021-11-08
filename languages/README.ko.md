@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service(S3)](https://aws.amazon.com/ko/s3/?c=24&pt=1) | 클라우드의 확장 가능한 스토리지 |
 | [Amazon Elastic Block Store(EBS)](https://aws.amazon.com/ko/ebs/?c=24&pt=2) | EC2 블록 스토리지 볼륨 |
 | [Amazon Elastic File System(EFS)](https://aws.amazon.com/ko/efs/?c=24&pt=3) | EC2를 위한 완전관리형 파일 시스템 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/ko/fsx/lustre/?c=24&pt=4) | S3와 통합된 고성능 파일 시스템 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/ko/fsx/windows/?c=24&pt=5) | 완전관리형 Windows 네이티브 파일 시스템 |
+| [Amazon FSx Family](https://aws.amazon.com/ko/fsx/?c=24&pt=5) | 널리 사용되는 완전관리형 파일 시스템 |
 | [Amazon S3 Glacier](https://aws.amazon.com/ko/glacier1/?c=24&pt=6) | 클라우드의 저렴한 아카이브 스토리지 |
 | [AWS Backup](https://aws.amazon.com/ko/backup/?c=24&pt=7) | AWS 서비스 전체에 걸쳐 중앙 집중식 백업 |
 | [AWS Snow 패밀리](https://aws.amazon.com/ko/snow/?c=24&pt=8) | 열악하거나 연결이 해제된 환경에서도 사용할 수 있는 물리적 엣지 컴퓨팅 및 스토리지 디바이스 |

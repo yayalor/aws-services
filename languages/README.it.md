@@ -241,9 +241,8 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/it/s3/?c=24&pt=1) | Storage scalabile nel cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/it/ebs/?c=24&pt=2) | Volumi di storage a blocchi EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/it/efs/?c=24&pt=3) | File system interamente gestito per EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/it/fsx/lustre/?c=24&pt=4) | File system ad alte prestazioni integrato con S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/it/fsx/windows/?c=24&pt=5) | File system Windows completamente gestito |
-| [Amazon S3 Glacier](https://aws.amazon.com/it/glacier1/?c=24&pt=6) | Storage di archivi a costi contenuti nel cloud |
+| [Famiglia Amazon FSx](https://aws.amazon.com/it/fsx/?c=24&pt=5) | File system popolari completamente gestiti |
+| [Amazon S3 Glacier](https://aws.amazon.com/it/glacier1/?c=24&pt=6) | Archiviazione di archivi a costi contenuti nel cloud |
 | [AWS Backup](https://aws.amazon.com/it/backup/?c=24&pt=7) | Backup centralizzato per i servizi AWS |
 | [Famiglia di servizi AWS Snow](https://aws.amazon.com/it/snow/?c=24&pt=8) | Dispositivi fisici di edge computing e storage per ambienti estremi o privi di connessione |
 | [AWS Storage Gateway](https://aws.amazon.com/it/storagegateway/?c=24&pt=9) | Integrazione di storage ibrido |

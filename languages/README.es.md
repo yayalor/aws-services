@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/es/s3/?c=24&pt=1) | Almacenamiento escalable en la nube |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/es/ebs/?c=24&pt=2) | Volúmenes de almacenamiento de bloques de EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/es/efs/?c=24&pt=3) | Sistema de archivos completamente administrado para EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/es/fsx/lustre/?c=24&pt=4) | Sistema de archivos de alto rendimiento integrado con S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/es/fsx/windows/?c=24&pt=5) | Sistema de archivos nativo de Windows completamente administrado |
+| [Familia Amazon FSx](https://aws.amazon.com/es/fsx/?c=24&pt=5) | Sistemas de archivo populares completamente administrados |
 | [Amazon S3 Glacier](https://aws.amazon.com/es/glacier1/?c=24&pt=6) | Almacenamiento de archivos en la nube a bajo costo |
 | [AWS Backup](https://aws.amazon.com/es/backup/?c=24&pt=7) | Respaldo centralizado en todos los servicios de AWS |
 | [Familia de productos AWS Snow](https://aws.amazon.com/es/snow/?c=24&pt=8) | Dispositivos de almacenamiento e informática de borde físicos para entornos duros o desconectados |

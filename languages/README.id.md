@@ -241,9 +241,8 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/id/s3/?c=24&pt=1) | Penyimpanan yang Dapat Diskalakan di Cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/id/ebs/?c=24&pt=2) | Volume penyimpanan blok EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/id/efs/?c=24&pt=3) | Sistem file yang dikelola sepenuhnya untuk EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/id/fsx/lustre/?c=24&pt=4) | Sistem file berkinerja tinggi terintegrasi dengan S3 |
-| [Amazon FSx untuk Server Berkas Windows](https://aws.amazon.com/id/fsx/windows/?c=24&pt=5) | Sistem file native Windows yang dikelola sepenuhnya |
-| [Amazon S3 Glacier](https://aws.amazon.com/id/glacier1/?c=24&pt=6) | Penyimpanan Arsip Biaya Terjangkau di Cloud |
+| [Keluarga Amazon FSx](https://aws.amazon.com/id/fsx/?c=24&pt=5) | Sistem file populer yang terkelola penuh |
+| [Amazon S3 Glacier](https://aws.amazon.com/id/glacier1/?c=24&pt=6) | Penyimpanan Arsip berbiaya rendah di Cloud |
 | [AWS Backup](https://aws.amazon.com/id/backup/?c=24&pt=7) | Pencadangan terpusat di seluruh layanan AWS |
 | [AWS Snow Family](https://aws.amazon.com/id/snow/?c=24&pt=8) | Perangkat komputasi edge fisik dan penyimpanan untuk lingkungan yang tangguh atau tidak terhubung |
 | [AWS Storage Gateway](https://aws.amazon.com/id/storagegateway/?c=24&pt=9) | Integrasi Penyimpanan Hybrid |

@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)‎](https://aws.amazon.com/ar/s3/?c=24&pt=1) | تخزين قابل للتكيف في السحابة |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/ar/ebs/?c=24&pt=2) | وحدات تخزين كتلة EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/ar/efs/?c=24&pt=3) | نظام ملفات مُدار بالكامل من أجل EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/ar/fsx/lustre/?c=24&pt=4) | نظام ملف بأداء عالٍ متكامل مع S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/ar/fsx/windows/?c=24&pt=5) | نظام ملفات Windows أصلي مُدار بالكامل |
+| [مجموعة Amazon FSx](https://aws.amazon.com/ar/fsx/?c=24&pt=5) | أنظمة ملفات شهيرة مُدارة بالكامل |
 | [Amazon S3 Glacier](https://aws.amazon.com/ar/glacier1/?c=24&pt=6) | تخزين الأرشيف منخفض التكلفة في السحابة |
 | [AWS Backup](https://aws.amazon.com/ar/backup/?c=24&pt=7) | نسخ احتياطي مركزي عبر خدمات AWS |
 | [مجموعة AWS Snow](https://aws.amazon.com/ar/snow/?c=24&pt=8) | أجهزة الحوسبة والتخزين المؤقت المادية للبيئات المعقدة أو غير المتصلة |

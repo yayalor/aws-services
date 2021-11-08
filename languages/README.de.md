@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/de/s3/?c=24&pt=1) | Skalierbare Speicherkapazität in der Cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/de/ebs/?c=24&pt=2) | EC2-Blockspeicher-Volumes |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/de/efs/?c=24&pt=3) | Vollständig verwaltetes Dateisystem für EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/de/fsx/lustre/?c=24&pt=4) | Leistungsstarkes, in S3 integriertes Dateisystem |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/de/fsx/windows/?c=24&pt=5) | Vollständig verwaltetes Windows-natives Dateisystem |
+| [Amazon FSx Family](https://aws.amazon.com/de/fsx/?c=24&pt=5) | Vollständig verwaltete gängige Dateisysteme |
 | [Amazon S3 Glacier](https://aws.amazon.com/de/glacier1/?c=24&pt=6) | Kostengünstige Archivspeicherung in der Cloud |
 | [AWS Backup](https://aws.amazon.com/de/backup/?c=24&pt=7) | Zentralisiertes Backup für mehrere AWS-Services |
 | [AWS Snow-Familie](https://aws.amazon.com/de/snow/?c=24&pt=8) | Physische Geräte für Edge-Computing und -Speicherung bei unfreundlichen oder unvernetzten Umgebungen |

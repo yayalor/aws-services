@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/tw/s3/?c=24&pt=1) | 可擴展的雲端儲存 |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/tw/ebs/?c=24&pt=2) | EC2 區塊儲存磁碟區 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/tw/efs/?c=24&pt=3) | 適用於 EC2 的全受管檔案系統 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/tw/fsx/lustre/?c=24&pt=4) | 與 S3 整合的高性能文件系統 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/tw/fsx/windows/?c=24&pt=5) | 全受管的 Windows 原生檔案系統 |
+| [Amazon FSx 系列](https://aws.amazon.com/tw/fsx/?c=24&pt=5) | 全受管熱門檔案系統 |
 | [Amazon S3 Glacier](https://aws.amazon.com/tw/glacier1/?c=24&pt=6) | 雲端的低成本存檔儲存 |
 | [AWS Backup](https://aws.amazon.com/tw/backup/?c=24&pt=7) | 跨 AWS 服務的集中備份 |
 | [AWS Snow 系列](https://aws.amazon.com/tw/snow/?c=24&pt=8) | 實體邊緣運算和儲存裝置，用於嚴峻或連線中斷的環境 |

@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/cn/s3/?c=24&pt=1) | 云中的可扩展存储 |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/cn/ebs/?c=24&pt=2) | EC2 Block Storage 卷 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/cn/efs/?c=24&pt=3) | 针对 EC2 的完全托管型文件系统 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/cn/fsx/lustre/?c=24&pt=4) | 与 S3 集成的高性能文件系统 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/cn/fsx/windows/?c=24&pt=5) | 完全托管型 Windows 原生文件系统 |
+| [Amazon FSx 系列](https://aws.amazon.com/cn/fsx/?c=24&pt=5) | 完全托管式热门文件系统 |
 | [Amazon S3 Glacier](https://aws.amazon.com/cn/glacier1/?c=24&pt=6) | 云中的低成本存档存储 |
 | [AWS Backup](https://aws.amazon.com/cn/backup/?c=24&pt=7) | 跨 AWS 服务进行集中备份 |
 | [AWS Snow 系列](https://aws.amazon.com/cn/snow/?c=24&pt=8) | 在恶劣环境或联接断开的环境中使用的物理边缘计算和存储设备 |

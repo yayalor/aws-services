@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/th/s3/?c=24&pt=1) | พื้นที่จัดเก็บที่ปรับขนาดได้บนระบบคลาวด์ |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/th/ebs/?c=24&pt=2) | ไดรฟ์ข้อมูลพื้นที่จัดเก็บบล็อก EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/th/efs/?c=24&pt=3) | ระบบไฟล์ที่มีการจัดการเต็มรูปแบบสำหรับ EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/th/fsx/lustre/?c=24&pt=4) | ระบบไฟล์ประสิทธิภาพสูงที่รวมเข้ากับ S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/th/fsx/windows/?c=24&pt=5) | ระบบไฟล์เนทีฟของ Windows ที่มีการจัดการเต็มรูปแบบ |
+| [Amazon FSx Family](https://aws.amazon.com/th/fsx/?c=24&pt=5) | ระบบไฟล์ยอดนิยมที่มีการจัดการเต็มรูปแบบ |
 | [Amazon S3 Glacier](https://aws.amazon.com/th/glacier1/?c=24&pt=6) | พื้นที่จัดเก็บถาวรต้นทุนต่ำบนระบบคลาวด์ |
 | [AWS Backup](https://aws.amazon.com/th/backup/?c=24&pt=7) | การสำรองข้อมูลแบบรวมศูนย์ในบริการต่างๆ ของ AWS |
 | [AWS Snow Family](https://aws.amazon.com/th/snow/?c=24&pt=8) | อุปกรณ์จริงสำหรับจัดเก็บข้อมูลและประมวลผล Edge ในสภาพแวดล้อมที่สมบุกสมบันหรือขาดการเชื่อมต่อ |

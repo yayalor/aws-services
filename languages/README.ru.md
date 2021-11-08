@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/ru/s3/?c=24&pt=1) | Масштабируемое хранилище данных в облаке |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/ru/ebs/?c=24&pt=2) | Тома блочного хранилища для EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/ru/efs/?c=24&pt=3) | Полностью управляемая файловая система для EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/ru/fsx/lustre/?c=24&pt=4) | Высокопроизводительные файловые системы, интегрированные с S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/ru/fsx/windows/?c=24&pt=5) | Полностью управляемая нативная файловая система Windows |
+| [Семейство Amazon FSx](https://aws.amazon.com/ru/fsx/?c=24&pt=5) | Полностью управляемые популярные файловые системы |
 | [Amazon S3 Glacier](https://aws.amazon.com/ru/glacier1/?c=24&pt=6) | Экономичное архивное хранилище в облаке |
 | [AWS Backup](https://aws.amazon.com/ru/backup/?c=24&pt=7) | Централизованное резервное копирование данных по всем сервисам AWS |
 | [Группа сервисов AWS Snow](https://aws.amazon.com/ru/snow/?c=24&pt=8) | Физические устройства для периферийных вычислений и хранения данных для защищенных либо изолированных сред |

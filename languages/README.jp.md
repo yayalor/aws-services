@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/jp/s3/?c=24&pt=1) | スケーラブルなクラウドストレージ |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/jp/ebs/?c=24&pt=2) | EC2 ブロックストレージボリューム |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/jp/efs/?c=24&pt=3) | EC2 用フルマネージド型ファイルシステム |
-| [Amazon FSx for Lustre](https://aws.amazon.com/jp/fsx/lustre/?c=24&pt=4) | S3 と統合されたハイパフォーマンスファイルシステム |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/jp/fsx/windows/?c=24&pt=5) | フルマネージド型 Windows ネイティブのファイルシステム |
+| [Amazon FSx ファミリー](https://aws.amazon.com/jp/fsx/?c=24&pt=5) | フルマネージドな人気のファイルシステム |
 | [Amazon S3 Glacier](https://aws.amazon.com/jp/glacier1/?c=24&pt=6) | クラウド上の低コストなアーカイブストレージ |
 | [AWS Backup](https://aws.amazon.com/jp/backup/?c=24&pt=7) | AWS のサービス全体にわたる一元管理型バックアップ |
 | [AWS Snow ファミリー](https://aws.amazon.com/jp/snow/?c=24&pt=8) | 厳しい環境や切断された環境向けの物理エッジコンピューティングおよびストレージデバイス |

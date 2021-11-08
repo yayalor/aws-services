@@ -240,9 +240,8 @@
 | [AWS Step Functions](https://aws.amazon.com/fr/step-functions/?c=23&pt=10) | Coordination pour les applications distribuées |
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/fr/s3/?c=24&pt=1) | Stockage évolutif dans le cloud |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/fr/ebs/?c=24&pt=2) | Volumes de stockage par bloc EC2 |
-| [Amazon Elastic File System (EFS)](https://aws.amazon.com/fr/efs/?c=24&pt=3) | Système de fichiers entièrement géré pour EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/fr/fsx/lustre/?c=24&pt=4) | Système de fichiers hautes performances intégré à S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/fr/fsx/windows/?c=24&pt=5) | Système de fichiers natif Windows entièrement géré |
+| [Amazon Elastic File System (EFS)](https://aws.amazon.com/fr/efs/?c=24&pt=3) | Système de fichiers entièrement géré pour EC2 |
+| [Amazon FSx Family](https://aws.amazon.com/fr/fsx/?c=24&pt=5) | Systèmes de fichiers populaires entièrement gérés |
 | [Amazon S3 Glacier](https://aws.amazon.com/fr/glacier1/?c=24&pt=6) | Stockage d'archives dans le cloud à faible coût |
 | [AWS Backup](https://aws.amazon.com/fr/backup/?c=24&pt=7) | Sauvegarde centralisée sur tous les services AWS |
 | [Gamme AWS Snow](https://aws.amazon.com/fr/snow/?c=24&pt=8) | Appareils de calcul et de stockage physiques pour les environnements agressifs ou déconnectés |

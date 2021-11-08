@@ -241,8 +241,7 @@
 | [Amazon Simple Storage Service (S3)](https://aws.amazon.com/vi/s3/?c=24&pt=1) | Lưu trữ có khả năng thay đổi quy mô trên đám mây |
 | [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/vi/ebs/?c=24&pt=2) | Ổ đĩa lưu trữ dạng khối EC2 |
 | [Amazon Elastic File System (EFS)](https://aws.amazon.com/vi/efs/?c=24&pt=3) | Hệ thống tập tin được quản lý toàn phần cho EC2 |
-| [Amazon FSx for Lustre](https://aws.amazon.com/vi/fsx/lustre/?c=24&pt=4) | Hệ thống tập tin hiệu năng cao được tích hợp với S3 |
-| [Amazon FSx for Windows File Server](https://aws.amazon.com/vi/fsx/windows/?c=24&pt=5) | Hệ thống tệp gốc Windows được quản lý toàn phần |
+| [Amazon FSx Family](https://aws.amazon.com/vi/fsx/?c=24&pt=5) | Các hệ thống tệp phổ biến được quản lý hoàn toàn |
 | [Amazon S3 Glacier](https://aws.amazon.com/vi/glacier1/?c=24&pt=6) | Lưu trữ chi phí thấp trên đám mây |
 | [AWS Backup](https://aws.amazon.com/vi/backup/?c=24&pt=7) | Sao lưu tập trung giữa các dịch vụ AWS |
 | [Dòng sản phẩm AWS Snow](https://aws.amazon.com/vi/snow/?c=24&pt=8) | Thiết bị lưu trữ và điện toán biên vật lý cho môi trường bị ngắt kết nối hoặc không thuận lợi |
